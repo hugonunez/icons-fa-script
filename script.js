@@ -16,7 +16,11 @@ async function processFiles() {
       const inputData = JSON.parse(data);
 
       // Extract names from the current file
-      let namesArray = inputData.results[0].hits.map(item => ({ name: item.name }));
+      let namesArray = inputData.results[0].hits
+        .map(item => ({ 
+          name: item.name,
+          unicode: item.unicode,
+        }));
 
       // Sort names alphabetically
       namesArray.sort((a, b) => a.name.localeCompare(b.name));
