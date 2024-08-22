@@ -1,542 +1,722 @@
 [
   {
-    "name": "drumstick-bite"
+    "name": "drumstick-bite",
+    "unicode": "f6d7"
   },
   {
-    "name": "dumbbell"
+    "name": "dumbbell",
+    "unicode": "f44b"
   },
   {
-    "name": "dumpster"
+    "name": "dumpster",
+    "unicode": "f793"
   },
   {
-    "name": "dumpster-fire"
+    "name": "dumpster-fire",
+    "unicode": "f794"
   },
   {
-    "name": "dungeon"
+    "name": "dungeon",
+    "unicode": "f6d9"
   },
   {
-    "name": "edit"
+    "name": "edit",
+    "unicode": "f044"
   },
   {
-    "name": "egg"
+    "name": "egg",
+    "unicode": "f7fb"
   },
   {
-    "name": "eject"
+    "name": "eject",
+    "unicode": "f052"
   },
   {
-    "name": "ellipsis-h"
+    "name": "ellipsis-h",
+    "unicode": "f141"
   },
   {
-    "name": "ellipsis-v"
+    "name": "ellipsis-v",
+    "unicode": "f142"
   },
   {
-    "name": "envelope"
+    "name": "envelope",
+    "unicode": "f0e0"
   },
   {
-    "name": "envelope-open"
+    "name": "envelope-open",
+    "unicode": "f2b6"
   },
   {
-    "name": "envelope-open-text"
+    "name": "envelope-open-text",
+    "unicode": "f658"
   },
   {
-    "name": "envelope-square"
+    "name": "envelope-square",
+    "unicode": "f199"
   },
   {
-    "name": "equals"
+    "name": "equals",
+    "unicode": "f52c"
   },
   {
-    "name": "eraser"
+    "name": "eraser",
+    "unicode": "f12d"
   },
   {
-    "name": "ethernet"
+    "name": "ethernet",
+    "unicode": "f796"
   },
   {
-    "name": "euro-sign"
+    "name": "euro-sign",
+    "unicode": "f153"
   },
   {
-    "name": "exchange-alt"
+    "name": "exchange-alt",
+    "unicode": "f362"
   },
   {
-    "name": "exclamation"
+    "name": "exclamation",
+    "unicode": "f12a"
   },
   {
-    "name": "exclamation-circle"
+    "name": "exclamation-circle",
+    "unicode": "f06a"
   },
   {
-    "name": "exclamation-triangle"
+    "name": "exclamation-triangle",
+    "unicode": "f071"
   },
   {
-    "name": "expand"
+    "name": "expand",
+    "unicode": "f065"
   },
   {
-    "name": "expand-alt"
+    "name": "expand-alt",
+    "unicode": "f424"
   },
   {
-    "name": "expand-arrows-alt"
+    "name": "expand-arrows-alt",
+    "unicode": "f31e"
   },
   {
-    "name": "external-link-alt"
+    "name": "external-link-alt",
+    "unicode": "f35d"
   },
   {
-    "name": "external-link-square-alt"
+    "name": "external-link-square-alt",
+    "unicode": "f360"
   },
   {
-    "name": "eye"
+    "name": "eye",
+    "unicode": "f06e"
   },
   {
-    "name": "eye-dropper"
+    "name": "eye-dropper",
+    "unicode": "f1fb"
   },
   {
-    "name": "eye-slash"
+    "name": "eye-slash",
+    "unicode": "f070"
   },
   {
-    "name": "fan"
+    "name": "fan",
+    "unicode": "f863"
   },
   {
-    "name": "fast-backward"
+    "name": "fast-backward",
+    "unicode": "f049"
   },
   {
-    "name": "fast-forward"
+    "name": "fast-forward",
+    "unicode": "f050"
   },
   {
-    "name": "faucet"
+    "name": "faucet",
+    "unicode": "e005"
   },
   {
-    "name": "fax"
+    "name": "fax",
+    "unicode": "f1ac"
   },
   {
-    "name": "feather"
+    "name": "feather",
+    "unicode": "f52d"
   },
   {
-    "name": "feather-alt"
+    "name": "feather-alt",
+    "unicode": "f56b"
   },
   {
-    "name": "female"
+    "name": "female",
+    "unicode": "f182"
   },
   {
-    "name": "fighter-jet"
+    "name": "fighter-jet",
+    "unicode": "f0fb"
   },
   {
-    "name": "file"
+    "name": "file",
+    "unicode": "f15b"
   },
   {
-    "name": "file-alt"
+    "name": "file-alt",
+    "unicode": "f15c"
   },
   {
-    "name": "file-archive"
+    "name": "file-archive",
+    "unicode": "f1c6"
   },
   {
-    "name": "file-audio"
+    "name": "file-audio",
+    "unicode": "f1c7"
   },
   {
-    "name": "file-code"
+    "name": "file-code",
+    "unicode": "f1c9"
   },
   {
-    "name": "file-contract"
+    "name": "file-contract",
+    "unicode": "f56c"
   },
   {
-    "name": "file-csv"
+    "name": "file-csv",
+    "unicode": "f6dd"
   },
   {
-    "name": "file-download"
+    "name": "file-download",
+    "unicode": "f56d"
   },
   {
-    "name": "file-excel"
+    "name": "file-excel",
+    "unicode": "f1c3"
   },
   {
-    "name": "file-export"
+    "name": "file-export",
+    "unicode": "f56e"
   },
   {
-    "name": "file-image"
+    "name": "file-image",
+    "unicode": "f1c5"
   },
   {
-    "name": "file-import"
+    "name": "file-import",
+    "unicode": "f56f"
   },
   {
-    "name": "file-invoice"
+    "name": "file-invoice",
+    "unicode": "f570"
   },
   {
-    "name": "file-invoice-dollar"
+    "name": "file-invoice-dollar",
+    "unicode": "f571"
   },
   {
-    "name": "file-medical"
+    "name": "file-medical",
+    "unicode": "f477"
   },
   {
-    "name": "file-medical-alt"
+    "name": "file-medical-alt",
+    "unicode": "f478"
   },
   {
-    "name": "file-pdf"
+    "name": "file-pdf",
+    "unicode": "f1c1"
   },
   {
-    "name": "file-powerpoint"
+    "name": "file-powerpoint",
+    "unicode": "f1c4"
   },
   {
-    "name": "file-prescription"
+    "name": "file-prescription",
+    "unicode": "f572"
   },
   {
-    "name": "file-signature"
+    "name": "file-signature",
+    "unicode": "f573"
   },
   {
-    "name": "file-upload"
+    "name": "file-upload",
+    "unicode": "f574"
   },
   {
-    "name": "file-video"
+    "name": "file-video",
+    "unicode": "f1c8"
   },
   {
-    "name": "file-word"
+    "name": "file-word",
+    "unicode": "f1c2"
   },
   {
-    "name": "fill"
+    "name": "fill",
+    "unicode": "f575"
   },
   {
-    "name": "fill-drip"
+    "name": "fill-drip",
+    "unicode": "f576"
   },
   {
-    "name": "film"
+    "name": "film",
+    "unicode": "f008"
   },
   {
-    "name": "filter"
+    "name": "filter",
+    "unicode": "f0b0"
   },
   {
-    "name": "fingerprint"
+    "name": "fingerprint",
+    "unicode": "f577"
   },
   {
-    "name": "fire"
+    "name": "fire",
+    "unicode": "f06d"
   },
   {
-    "name": "fire-alt"
+    "name": "fire-alt",
+    "unicode": "f7e4"
   },
   {
-    "name": "fire-extinguisher"
+    "name": "fire-extinguisher",
+    "unicode": "f134"
   },
   {
-    "name": "first-aid"
+    "name": "first-aid",
+    "unicode": "f479"
   },
   {
-    "name": "fish"
+    "name": "fish",
+    "unicode": "f578"
   },
   {
-    "name": "fist-raised"
+    "name": "fist-raised",
+    "unicode": "f6de"
   },
   {
-    "name": "flag"
+    "name": "flag",
+    "unicode": "f024"
   },
   {
-    "name": "flag-checkered"
+    "name": "flag-checkered",
+    "unicode": "f11e"
   },
   {
-    "name": "flag-usa"
+    "name": "flag-usa",
+    "unicode": "f74d"
   },
   {
-    "name": "flask"
+    "name": "flask",
+    "unicode": "f0c3"
   },
   {
-    "name": "flushed"
+    "name": "flushed",
+    "unicode": "f579"
   },
   {
-    "name": "folder"
+    "name": "folder",
+    "unicode": "f07b"
   },
   {
-    "name": "folder-minus"
+    "name": "folder-minus",
+    "unicode": "f65d"
   },
   {
-    "name": "folder-open"
+    "name": "folder-open",
+    "unicode": "f07c"
   },
   {
-    "name": "folder-plus"
+    "name": "folder-plus",
+    "unicode": "f65e"
   },
   {
-    "name": "font"
+    "name": "font",
+    "unicode": "f031"
   },
   {
-    "name": "football-ball"
+    "name": "football-ball",
+    "unicode": "f44e"
   },
   {
-    "name": "forward"
+    "name": "forward",
+    "unicode": "f04e"
   },
   {
-    "name": "frog"
+    "name": "frog",
+    "unicode": "f52e"
   },
   {
-    "name": "frown"
+    "name": "frown",
+    "unicode": "f119"
   },
   {
-    "name": "frown-open"
+    "name": "frown-open",
+    "unicode": "f57a"
   },
   {
-    "name": "funnel-dollar"
+    "name": "funnel-dollar",
+    "unicode": "f662"
   },
   {
-    "name": "futbol"
+    "name": "futbol",
+    "unicode": "f1e3"
   },
   {
-    "name": "gamepad"
+    "name": "gamepad",
+    "unicode": "f11b"
   },
   {
-    "name": "gas-pump"
+    "name": "gas-pump",
+    "unicode": "f52f"
   },
   {
-    "name": "gavel"
+    "name": "gavel",
+    "unicode": "f0e3"
   },
   {
-    "name": "gem"
+    "name": "gem",
+    "unicode": "f3a5"
   },
   {
-    "name": "genderless"
+    "name": "genderless",
+    "unicode": "f22d"
   },
   {
-    "name": "ghost"
+    "name": "ghost",
+    "unicode": "f6e2"
   },
   {
-    "name": "gift"
+    "name": "gift",
+    "unicode": "f06b"
   },
   {
-    "name": "gifts"
+    "name": "gifts",
+    "unicode": "f79c"
   },
   {
-    "name": "glass-cheers"
+    "name": "glass-cheers",
+    "unicode": "f79f"
   },
   {
-    "name": "glass-martini"
+    "name": "glass-martini",
+    "unicode": "f000"
   },
   {
-    "name": "glass-martini-alt"
+    "name": "glass-martini-alt",
+    "unicode": "f57b"
   },
   {
-    "name": "glass-whiskey"
+    "name": "glass-whiskey",
+    "unicode": "f7a0"
   },
   {
-    "name": "glasses"
+    "name": "glasses",
+    "unicode": "f530"
   },
   {
-    "name": "globe"
+    "name": "globe",
+    "unicode": "f0ac"
   },
   {
-    "name": "globe-africa"
+    "name": "globe-africa",
+    "unicode": "f57c"
   },
   {
-    "name": "globe-americas"
+    "name": "globe-americas",
+    "unicode": "f57d"
   },
   {
-    "name": "globe-asia"
+    "name": "globe-asia",
+    "unicode": "f57e"
   },
   {
-    "name": "globe-europe"
+    "name": "globe-europe",
+    "unicode": "f7a2"
   },
   {
-    "name": "golf-ball"
+    "name": "golf-ball",
+    "unicode": "f450"
   },
   {
-    "name": "gopuram"
+    "name": "gopuram",
+    "unicode": "f664"
   },
   {
-    "name": "graduation-cap"
+    "name": "graduation-cap",
+    "unicode": "f19d"
   },
   {
-    "name": "greater-than"
+    "name": "greater-than",
+    "unicode": "f531"
   },
   {
-    "name": "greater-than-equal"
+    "name": "greater-than-equal",
+    "unicode": "f532"
   },
   {
-    "name": "grimace"
+    "name": "grimace",
+    "unicode": "f57f"
   },
   {
-    "name": "grin"
+    "name": "grin",
+    "unicode": "f580"
   },
   {
-    "name": "grin-alt"
+    "name": "grin-alt",
+    "unicode": "f581"
   },
   {
-    "name": "grin-beam"
+    "name": "grin-beam",
+    "unicode": "f582"
   },
   {
-    "name": "grin-beam-sweat"
+    "name": "grin-beam-sweat",
+    "unicode": "f583"
   },
   {
-    "name": "grin-hearts"
+    "name": "grin-hearts",
+    "unicode": "f584"
   },
   {
-    "name": "grin-squint"
+    "name": "grin-squint",
+    "unicode": "f585"
   },
   {
-    "name": "grin-squint-tears"
+    "name": "grin-squint-tears",
+    "unicode": "f586"
   },
   {
-    "name": "grin-stars"
+    "name": "grin-stars",
+    "unicode": "f587"
   },
   {
-    "name": "grin-tears"
+    "name": "grin-tears",
+    "unicode": "f588"
   },
   {
-    "name": "grin-tongue"
+    "name": "grin-tongue",
+    "unicode": "f589"
   },
   {
-    "name": "grin-tongue-squint"
+    "name": "grin-tongue-squint",
+    "unicode": "f58a"
   },
   {
-    "name": "grin-tongue-wink"
+    "name": "grin-tongue-wink",
+    "unicode": "f58b"
   },
   {
-    "name": "grin-wink"
+    "name": "grin-wink",
+    "unicode": "f58c"
   },
   {
-    "name": "grip-horizontal"
+    "name": "grip-horizontal",
+    "unicode": "f58d"
   },
   {
-    "name": "grip-lines"
+    "name": "grip-lines",
+    "unicode": "f7a4"
   },
   {
-    "name": "grip-lines-vertical"
+    "name": "grip-lines-vertical",
+    "unicode": "f7a5"
   },
   {
-    "name": "grip-vertical"
+    "name": "grip-vertical",
+    "unicode": "f58e"
   },
   {
-    "name": "guitar"
+    "name": "guitar",
+    "unicode": "f7a6"
   },
   {
-    "name": "h-square"
+    "name": "h-square",
+    "unicode": "f0fd"
   },
   {
-    "name": "hamburger"
+    "name": "hamburger",
+    "unicode": "f805"
   },
   {
-    "name": "hammer"
+    "name": "hammer",
+    "unicode": "f6e3"
   },
   {
-    "name": "hamsa"
+    "name": "hamsa",
+    "unicode": "f665"
   },
   {
-    "name": "hand-holding"
+    "name": "hand-holding",
+    "unicode": "f4bd"
   },
   {
-    "name": "hand-holding-heart"
+    "name": "hand-holding-heart",
+    "unicode": "f4be"
   },
   {
-    "name": "hand-holding-medical"
+    "name": "hand-holding-medical",
+    "unicode": "e05c"
   },
   {
-    "name": "hand-holding-usd"
+    "name": "hand-holding-usd",
+    "unicode": "f4c0"
   },
   {
-    "name": "hand-holding-water"
+    "name": "hand-holding-water",
+    "unicode": "f4c1"
   },
   {
-    "name": "hand-lizard"
+    "name": "hand-lizard",
+    "unicode": "f258"
   },
   {
-    "name": "hand-middle-finger"
+    "name": "hand-middle-finger",
+    "unicode": "f806"
   },
   {
-    "name": "hand-paper"
+    "name": "hand-paper",
+    "unicode": "f256"
   },
   {
-    "name": "hand-peace"
+    "name": "hand-peace",
+    "unicode": "f25b"
   },
   {
-    "name": "hand-point-down"
+    "name": "hand-point-down",
+    "unicode": "f0a7"
   },
   {
-    "name": "hand-point-left"
+    "name": "hand-point-left",
+    "unicode": "f0a5"
   },
   {
-    "name": "hand-point-right"
+    "name": "hand-point-right",
+    "unicode": "f0a4"
   },
   {
-    "name": "hand-point-up"
+    "name": "hand-point-up",
+    "unicode": "f0a6"
   },
   {
-    "name": "hand-pointer"
+    "name": "hand-pointer",
+    "unicode": "f25a"
   },
   {
-    "name": "hand-rock"
+    "name": "hand-rock",
+    "unicode": "f255"
   },
   {
-    "name": "hand-scissors"
+    "name": "hand-scissors",
+    "unicode": "f257"
   },
   {
-    "name": "hand-sparkles"
+    "name": "hand-sparkles",
+    "unicode": "e05d"
   },
   {
-    "name": "hand-spock"
+    "name": "hand-spock",
+    "unicode": "f259"
   },
   {
-    "name": "hands"
+    "name": "hands",
+    "unicode": "f4c2"
   },
   {
-    "name": "hands-helping"
+    "name": "hands-helping",
+    "unicode": "f4c4"
   },
   {
-    "name": "hands-wash"
+    "name": "hands-wash",
+    "unicode": "e05e"
   },
   {
-    "name": "handshake"
+    "name": "handshake",
+    "unicode": "f2b5"
   },
   {
-    "name": "handshake-alt-slash"
+    "name": "handshake-alt-slash",
+    "unicode": "e05f"
   },
   {
-    "name": "handshake-slash"
+    "name": "handshake-slash",
+    "unicode": "e060"
   },
   {
-    "name": "hanukiah"
+    "name": "hanukiah",
+    "unicode": "f6e6"
   },
   {
-    "name": "hard-hat"
+    "name": "hard-hat",
+    "unicode": "f807"
   },
   {
-    "name": "hashtag"
+    "name": "hashtag",
+    "unicode": "f292"
   },
   {
-    "name": "hat-cowboy"
+    "name": "hat-cowboy",
+    "unicode": "f8c0"
   },
   {
-    "name": "hat-cowboy-side"
+    "name": "hat-cowboy-side",
+    "unicode": "f8c1"
   },
   {
-    "name": "hat-wizard"
+    "name": "hat-wizard",
+    "unicode": "f6e8"
   },
   {
-    "name": "hdd"
+    "name": "hdd",
+    "unicode": "f0a0"
   },
   {
-    "name": "head-side-cough"
+    "name": "head-side-cough",
+    "unicode": "e061"
   },
   {
-    "name": "head-side-cough-slash"
+    "name": "head-side-cough-slash",
+    "unicode": "e062"
   },
   {
-    "name": "head-side-mask"
+    "name": "head-side-mask",
+    "unicode": "e063"
   },
   {
-    "name": "head-side-virus"
+    "name": "head-side-virus",
+    "unicode": "e064"
   },
   {
-    "name": "heading"
+    "name": "heading",
+    "unicode": "f1dc"
   },
   {
-    "name": "headphones"
+    "name": "headphones",
+    "unicode": "f025"
   },
   {
-    "name": "headphones-alt"
+    "name": "headphones-alt",
+    "unicode": "f58f"
   },
   {
-    "name": "headset"
+    "name": "headset",
+    "unicode": "f590"
   },
   {
-    "name": "heart"
+    "name": "heart",
+    "unicode": "f004"
   },
   {
-    "name": "heart-broken"
+    "name": "heart-broken",
+    "unicode": "f7a9"
   },
   {
-    "name": "heartbeat"
+    "name": "heartbeat",
+    "unicode": "f21e"
   },
   {
-    "name": "helicopter"
+    "name": "helicopter",
+    "unicode": "f533"
   },
   {
-    "name": "highlighter"
+    "name": "highlighter",
+    "unicode": "f591"
   }
 ]

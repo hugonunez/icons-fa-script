@@ -1,542 +1,722 @@
 [
   {
-    "name": "hire-a-helper"
+    "name": "hire-a-helper",
+    "unicode": "f3b0"
   },
   {
-    "name": "hive"
+    "name": "hive",
+    "unicode": "e07f"
   },
   {
-    "name": "hooli"
+    "name": "hooli",
+    "unicode": "f427"
   },
   {
-    "name": "hornbill"
+    "name": "hornbill",
+    "unicode": "f592"
   },
   {
-    "name": "hotjar"
+    "name": "hotjar",
+    "unicode": "f3b1"
   },
   {
-    "name": "houzz"
+    "name": "houzz",
+    "unicode": "f27c"
   },
   {
-    "name": "html5"
+    "name": "html5",
+    "unicode": "f13b"
   },
   {
-    "name": "hubspot"
+    "name": "hubspot",
+    "unicode": "f3b2"
   },
   {
-    "name": "ideal"
+    "name": "ideal",
+    "unicode": "e013"
   },
   {
-    "name": "imdb"
+    "name": "imdb",
+    "unicode": "f2d8"
   },
   {
-    "name": "innosoft"
+    "name": "innosoft",
+    "unicode": "e080"
   },
   {
-    "name": "instagram"
+    "name": "instagram",
+    "unicode": "f16d"
   },
   {
-    "name": "instagram-square"
+    "name": "instagram-square",
+    "unicode": "e055"
   },
   {
-    "name": "instalod"
+    "name": "instalod",
+    "unicode": "e081"
   },
   {
-    "name": "intercom"
+    "name": "intercom",
+    "unicode": "f7af"
   },
   {
-    "name": "internet-explorer"
+    "name": "internet-explorer",
+    "unicode": "f26b"
   },
   {
-    "name": "invision"
+    "name": "invision",
+    "unicode": "f7b0"
   },
   {
-    "name": "ioxhost"
+    "name": "ioxhost",
+    "unicode": "f208"
   },
   {
-    "name": "itch-io"
+    "name": "itch-io",
+    "unicode": "f83a"
   },
   {
-    "name": "itunes"
+    "name": "itunes",
+    "unicode": "f3b4"
   },
   {
-    "name": "itunes-note"
+    "name": "itunes-note",
+    "unicode": "f3b5"
   },
   {
-    "name": "java"
+    "name": "java",
+    "unicode": "f4e4"
   },
   {
-    "name": "jedi-order"
+    "name": "jedi-order",
+    "unicode": "f50e"
   },
   {
-    "name": "jenkins"
+    "name": "jenkins",
+    "unicode": "f3b6"
   },
   {
-    "name": "jira"
+    "name": "jira",
+    "unicode": "f7b1"
   },
   {
-    "name": "joget"
+    "name": "joget",
+    "unicode": "f3b7"
   },
   {
-    "name": "joomla"
+    "name": "joomla",
+    "unicode": "f1aa"
   },
   {
-    "name": "js"
+    "name": "js",
+    "unicode": "f3b8"
   },
   {
-    "name": "js-square"
+    "name": "js-square",
+    "unicode": "f3b9"
   },
   {
-    "name": "jsfiddle"
+    "name": "jsfiddle",
+    "unicode": "f1cc"
   },
   {
-    "name": "kaggle"
+    "name": "kaggle",
+    "unicode": "f5fa"
   },
   {
-    "name": "keybase"
+    "name": "keybase",
+    "unicode": "f4f5"
   },
   {
-    "name": "keycdn"
+    "name": "keycdn",
+    "unicode": "f3ba"
   },
   {
-    "name": "kickstarter"
+    "name": "kickstarter",
+    "unicode": "f3bb"
   },
   {
-    "name": "kickstarter-k"
+    "name": "kickstarter-k",
+    "unicode": "f3bc"
   },
   {
-    "name": "korvue"
+    "name": "korvue",
+    "unicode": "f42f"
   },
   {
-    "name": "laravel"
+    "name": "laravel",
+    "unicode": "f3bd"
   },
   {
-    "name": "lastfm"
+    "name": "lastfm",
+    "unicode": "f202"
   },
   {
-    "name": "lastfm-square"
+    "name": "lastfm-square",
+    "unicode": "f203"
   },
   {
-    "name": "leanpub"
+    "name": "leanpub",
+    "unicode": "f212"
   },
   {
-    "name": "less"
+    "name": "less",
+    "unicode": "f41d"
   },
   {
-    "name": "line"
+    "name": "line",
+    "unicode": "f3c0"
   },
   {
-    "name": "linkedin"
+    "name": "linkedin",
+    "unicode": "f08c"
   },
   {
-    "name": "linkedin-in"
+    "name": "linkedin-in",
+    "unicode": "f0e1"
   },
   {
-    "name": "linode"
+    "name": "linode",
+    "unicode": "f2b8"
   },
   {
-    "name": "linux"
+    "name": "linux",
+    "unicode": "f17c"
   },
   {
-    "name": "lyft"
+    "name": "lyft",
+    "unicode": "f3c3"
   },
   {
-    "name": "magento"
+    "name": "magento",
+    "unicode": "f3c4"
   },
   {
-    "name": "mailchimp"
+    "name": "mailchimp",
+    "unicode": "f59e"
   },
   {
-    "name": "mandalorian"
+    "name": "mandalorian",
+    "unicode": "f50f"
   },
   {
-    "name": "markdown"
+    "name": "markdown",
+    "unicode": "f60f"
   },
   {
-    "name": "mastodon"
+    "name": "mastodon",
+    "unicode": "f4f6"
   },
   {
-    "name": "maxcdn"
+    "name": "maxcdn",
+    "unicode": "f136"
   },
   {
-    "name": "mdb"
+    "name": "mdb",
+    "unicode": "f8ca"
   },
   {
-    "name": "medapps"
+    "name": "medapps",
+    "unicode": "f3c6"
   },
   {
-    "name": "medium"
+    "name": "medium",
+    "unicode": "f23a"
   },
   {
-    "name": "medium-m"
+    "name": "medium-m",
+    "unicode": "f3c7"
   },
   {
-    "name": "medrt"
+    "name": "medrt",
+    "unicode": "f3c8"
   },
   {
-    "name": "meetup"
+    "name": "meetup",
+    "unicode": "f2e0"
   },
   {
-    "name": "megaport"
+    "name": "megaport",
+    "unicode": "f5a3"
   },
   {
-    "name": "mendeley"
+    "name": "mendeley",
+    "unicode": "f7b3"
   },
   {
-    "name": "microblog"
+    "name": "microblog",
+    "unicode": "e01a"
   },
   {
-    "name": "microsoft"
+    "name": "microsoft",
+    "unicode": "f3ca"
   },
   {
-    "name": "mix"
+    "name": "mix",
+    "unicode": "f3cb"
   },
   {
-    "name": "mixcloud"
+    "name": "mixcloud",
+    "unicode": "f289"
   },
   {
-    "name": "mixer"
+    "name": "mixer",
+    "unicode": "e056"
   },
   {
-    "name": "mizuni"
+    "name": "mizuni",
+    "unicode": "f3cc"
   },
   {
-    "name": "modx"
+    "name": "modx",
+    "unicode": "f285"
   },
   {
-    "name": "monero"
+    "name": "monero",
+    "unicode": "f3d0"
   },
   {
-    "name": "napster"
+    "name": "napster",
+    "unicode": "f3d2"
   },
   {
-    "name": "neos"
+    "name": "neos",
+    "unicode": "f612"
   },
   {
-    "name": "nimblr"
+    "name": "nimblr",
+    "unicode": "f5a8"
   },
   {
-    "name": "node"
+    "name": "node",
+    "unicode": "f419"
   },
   {
-    "name": "node-js"
+    "name": "node-js",
+    "unicode": "f3d3"
   },
   {
-    "name": "npm"
+    "name": "npm",
+    "unicode": "f3d4"
   },
   {
-    "name": "ns8"
+    "name": "ns8",
+    "unicode": "f3d5"
   },
   {
-    "name": "nutritionix"
+    "name": "nutritionix",
+    "unicode": "f3d6"
   },
   {
-    "name": "octopus-deploy"
+    "name": "octopus-deploy",
+    "unicode": "e082"
   },
   {
-    "name": "odnoklassniki"
+    "name": "odnoklassniki",
+    "unicode": "f263"
   },
   {
-    "name": "odnoklassniki-square"
+    "name": "odnoklassniki-square",
+    "unicode": "f264"
   },
   {
-    "name": "old-republic"
+    "name": "old-republic",
+    "unicode": "f510"
   },
   {
-    "name": "opencart"
+    "name": "opencart",
+    "unicode": "f23d"
   },
   {
-    "name": "openid"
+    "name": "openid",
+    "unicode": "f19b"
   },
   {
-    "name": "opera"
+    "name": "opera",
+    "unicode": "f26a"
   },
   {
-    "name": "optin-monster"
+    "name": "optin-monster",
+    "unicode": "f23c"
   },
   {
-    "name": "orcid"
+    "name": "orcid",
+    "unicode": "f8d2"
   },
   {
-    "name": "osi"
+    "name": "osi",
+    "unicode": "f41a"
   },
   {
-    "name": "page4"
+    "name": "page4",
+    "unicode": "f3d7"
   },
   {
-    "name": "pagelines"
+    "name": "pagelines",
+    "unicode": "f18c"
   },
   {
-    "name": "palfed"
+    "name": "palfed",
+    "unicode": "f3d8"
   },
   {
-    "name": "patreon"
+    "name": "patreon",
+    "unicode": "f3d9"
   },
   {
-    "name": "paypal"
+    "name": "paypal",
+    "unicode": "f1ed"
   },
   {
-    "name": "penny-arcade"
+    "name": "penny-arcade",
+    "unicode": "f704"
   },
   {
-    "name": "perbyte"
+    "name": "perbyte",
+    "unicode": "e083"
   },
   {
-    "name": "periscope"
+    "name": "periscope",
+    "unicode": "f3da"
   },
   {
-    "name": "phabricator"
+    "name": "phabricator",
+    "unicode": "f3db"
   },
   {
-    "name": "phoenix-framework"
+    "name": "phoenix-framework",
+    "unicode": "f3dc"
   },
   {
-    "name": "phoenix-squadron"
+    "name": "phoenix-squadron",
+    "unicode": "f511"
   },
   {
-    "name": "php"
+    "name": "php",
+    "unicode": "f457"
   },
   {
-    "name": "pied-piper"
+    "name": "pied-piper",
+    "unicode": "f2ae"
   },
   {
-    "name": "pied-piper-alt"
+    "name": "pied-piper-alt",
+    "unicode": "f1a8"
   },
   {
-    "name": "pied-piper-hat"
+    "name": "pied-piper-hat",
+    "unicode": "f4e5"
   },
   {
-    "name": "pied-piper-pp"
+    "name": "pied-piper-pp",
+    "unicode": "f1a7"
   },
   {
-    "name": "pied-piper-square"
+    "name": "pied-piper-square",
+    "unicode": "e01e"
   },
   {
-    "name": "pinterest"
+    "name": "pinterest",
+    "unicode": "f0d2"
   },
   {
-    "name": "pinterest-p"
+    "name": "pinterest-p",
+    "unicode": "f231"
   },
   {
-    "name": "pinterest-square"
+    "name": "pinterest-square",
+    "unicode": "f0d3"
   },
   {
-    "name": "playstation"
+    "name": "playstation",
+    "unicode": "f3df"
   },
   {
-    "name": "product-hunt"
+    "name": "product-hunt",
+    "unicode": "f288"
   },
   {
-    "name": "pushed"
+    "name": "pushed",
+    "unicode": "f3e1"
   },
   {
-    "name": "python"
+    "name": "python",
+    "unicode": "f3e2"
   },
   {
-    "name": "qq"
+    "name": "qq",
+    "unicode": "f1d6"
   },
   {
-    "name": "quinscape"
+    "name": "quinscape",
+    "unicode": "f459"
   },
   {
-    "name": "quora"
+    "name": "quora",
+    "unicode": "f2c4"
   },
   {
-    "name": "r-project"
+    "name": "r-project",
+    "unicode": "f4f7"
   },
   {
-    "name": "raspberry-pi"
+    "name": "raspberry-pi",
+    "unicode": "f7bb"
   },
   {
-    "name": "ravelry"
+    "name": "ravelry",
+    "unicode": "f2d9"
   },
   {
-    "name": "react"
+    "name": "react",
+    "unicode": "f41b"
   },
   {
-    "name": "reacteurope"
+    "name": "reacteurope",
+    "unicode": "f75d"
   },
   {
-    "name": "readme"
+    "name": "readme",
+    "unicode": "f4d5"
   },
   {
-    "name": "rebel"
+    "name": "rebel",
+    "unicode": "f1d0"
   },
   {
-    "name": "red-river"
+    "name": "red-river",
+    "unicode": "f3e3"
   },
   {
-    "name": "reddit"
+    "name": "reddit",
+    "unicode": "f1a1"
   },
   {
-    "name": "reddit-alien"
+    "name": "reddit-alien",
+    "unicode": "f281"
   },
   {
-    "name": "reddit-square"
+    "name": "reddit-square",
+    "unicode": "f1a2"
   },
   {
-    "name": "redhat"
+    "name": "redhat",
+    "unicode": "f7bc"
   },
   {
-    "name": "renren"
+    "name": "renren",
+    "unicode": "f18b"
   },
   {
-    "name": "replyd"
+    "name": "replyd",
+    "unicode": "f3e6"
   },
   {
-    "name": "researchgate"
+    "name": "researchgate",
+    "unicode": "f4f8"
   },
   {
-    "name": "resolving"
+    "name": "resolving",
+    "unicode": "f3e7"
   },
   {
-    "name": "rev"
+    "name": "rev",
+    "unicode": "f5b2"
   },
   {
-    "name": "rocketchat"
+    "name": "rocketchat",
+    "unicode": "f3e8"
   },
   {
-    "name": "rockrms"
+    "name": "rockrms",
+    "unicode": "f3e9"
   },
   {
-    "name": "rust"
+    "name": "rust",
+    "unicode": "e07a"
   },
   {
-    "name": "safari"
+    "name": "safari",
+    "unicode": "f267"
   },
   {
-    "name": "salesforce"
+    "name": "salesforce",
+    "unicode": "f83b"
   },
   {
-    "name": "sass"
+    "name": "sass",
+    "unicode": "f41e"
   },
   {
-    "name": "schlix"
+    "name": "schlix",
+    "unicode": "f3ea"
   },
   {
-    "name": "scribd"
+    "name": "scribd",
+    "unicode": "f28a"
   },
   {
-    "name": "searchengin"
+    "name": "searchengin",
+    "unicode": "f3eb"
   },
   {
-    "name": "sellcast"
+    "name": "sellcast",
+    "unicode": "f2da"
   },
   {
-    "name": "sellsy"
+    "name": "sellsy",
+    "unicode": "f213"
   },
   {
-    "name": "servicestack"
+    "name": "servicestack",
+    "unicode": "f3ec"
   },
   {
-    "name": "shirtsinbulk"
+    "name": "shirtsinbulk",
+    "unicode": "f214"
   },
   {
-    "name": "shopify"
+    "name": "shopify",
+    "unicode": "e057"
   },
   {
-    "name": "shopware"
+    "name": "shopware",
+    "unicode": "f5b5"
   },
   {
-    "name": "simplybuilt"
+    "name": "simplybuilt",
+    "unicode": "f215"
   },
   {
-    "name": "sistrix"
+    "name": "sistrix",
+    "unicode": "f3ee"
   },
   {
-    "name": "sith"
+    "name": "sith",
+    "unicode": "f512"
   },
   {
-    "name": "sketch"
+    "name": "sketch",
+    "unicode": "f7c6"
   },
   {
-    "name": "skyatlas"
+    "name": "skyatlas",
+    "unicode": "f216"
   },
   {
-    "name": "skype"
+    "name": "skype",
+    "unicode": "f17e"
   },
   {
-    "name": "slack"
+    "name": "slack",
+    "unicode": "f198"
   },
   {
-    "name": "slack-hash"
+    "name": "slack-hash",
+    "unicode": "f3ef"
   },
   {
-    "name": "slideshare"
+    "name": "slideshare",
+    "unicode": "f1e7"
   },
   {
-    "name": "snapchat"
+    "name": "snapchat",
+    "unicode": "f2ab"
   },
   {
-    "name": "snapchat-ghost"
+    "name": "snapchat-ghost",
+    "unicode": "f2ac"
   },
   {
-    "name": "snapchat-square"
+    "name": "snapchat-square",
+    "unicode": "f2ad"
   },
   {
-    "name": "soundcloud"
+    "name": "soundcloud",
+    "unicode": "f1be"
   },
   {
-    "name": "sourcetree"
+    "name": "sourcetree",
+    "unicode": "f7d3"
   },
   {
-    "name": "speakap"
+    "name": "speakap",
+    "unicode": "f3f3"
   },
   {
-    "name": "speaker-deck"
+    "name": "speaker-deck",
+    "unicode": "f83c"
   },
   {
-    "name": "spotify"
+    "name": "spotify",
+    "unicode": "f1bc"
   },
   {
-    "name": "squarespace"
+    "name": "squarespace",
+    "unicode": "f5be"
   },
   {
-    "name": "stack-exchange"
+    "name": "stack-exchange",
+    "unicode": "f18d"
   },
   {
-    "name": "stack-overflow"
+    "name": "stack-overflow",
+    "unicode": "f16c"
   },
   {
-    "name": "stackpath"
+    "name": "stackpath",
+    "unicode": "f842"
   },
   {
-    "name": "staylinked"
+    "name": "staylinked",
+    "unicode": "f3f5"
   },
   {
-    "name": "steam"
+    "name": "steam",
+    "unicode": "f1b6"
   },
   {
-    "name": "steam-square"
+    "name": "steam-square",
+    "unicode": "f1b7"
   },
   {
-    "name": "steam-symbol"
+    "name": "steam-symbol",
+    "unicode": "f3f6"
   },
   {
-    "name": "sticker-mule"
+    "name": "sticker-mule",
+    "unicode": "f3f7"
   },
   {
-    "name": "strava"
+    "name": "strava",
+    "unicode": "f428"
   },
   {
-    "name": "stripe"
+    "name": "stripe",
+    "unicode": "f429"
   },
   {
-    "name": "stripe-s"
+    "name": "stripe-s",
+    "unicode": "f42a"
   },
   {
-    "name": "studiovinari"
+    "name": "studiovinari",
+    "unicode": "f3f8"
   },
   {
-    "name": "stumbleupon"
+    "name": "stumbleupon",
+    "unicode": "f1a4"
   },
   {
-    "name": "stumbleupon-circle"
+    "name": "stumbleupon-circle",
+    "unicode": "f1a3"
   },
   {
-    "name": "superpowers"
+    "name": "superpowers",
+    "unicode": "f2dd"
   },
   {
-    "name": "supple"
+    "name": "supple",
+    "unicode": "f3f9"
   }
 ]

@@ -1,542 +1,722 @@
 [
   {
-    "name": "percentage"
+    "name": "percentage",
+    "unicode": "f541"
   },
   {
-    "name": "person-booth"
+    "name": "person-booth",
+    "unicode": "f756"
   },
   {
-    "name": "phone"
+    "name": "phone",
+    "unicode": "f095"
   },
   {
-    "name": "phone-alt"
+    "name": "phone-alt",
+    "unicode": "f879"
   },
   {
-    "name": "phone-slash"
+    "name": "phone-slash",
+    "unicode": "f3dd"
   },
   {
-    "name": "phone-square"
+    "name": "phone-square",
+    "unicode": "f098"
   },
   {
-    "name": "phone-square-alt"
+    "name": "phone-square-alt",
+    "unicode": "f87b"
   },
   {
-    "name": "phone-volume"
+    "name": "phone-volume",
+    "unicode": "f2a0"
   },
   {
-    "name": "photo-video"
+    "name": "photo-video",
+    "unicode": "f87c"
   },
   {
-    "name": "piggy-bank"
+    "name": "piggy-bank",
+    "unicode": "f4d3"
   },
   {
-    "name": "pills"
+    "name": "pills",
+    "unicode": "f484"
   },
   {
-    "name": "pizza-slice"
+    "name": "pizza-slice",
+    "unicode": "f818"
   },
   {
-    "name": "place-of-worship"
+    "name": "place-of-worship",
+    "unicode": "f67f"
   },
   {
-    "name": "plane"
+    "name": "plane",
+    "unicode": "f072"
   },
   {
-    "name": "plane-arrival"
+    "name": "plane-arrival",
+    "unicode": "f5af"
   },
   {
-    "name": "plane-departure"
+    "name": "plane-departure",
+    "unicode": "f5b0"
   },
   {
-    "name": "plane-slash"
+    "name": "plane-slash",
+    "unicode": "e069"
   },
   {
-    "name": "play"
+    "name": "play",
+    "unicode": "f04b"
   },
   {
-    "name": "play-circle"
+    "name": "play-circle",
+    "unicode": "f144"
   },
   {
-    "name": "plug"
+    "name": "plug",
+    "unicode": "f1e6"
   },
   {
-    "name": "plus"
+    "name": "plus",
+    "unicode": "f067"
   },
   {
-    "name": "plus-circle"
+    "name": "plus-circle",
+    "unicode": "f055"
   },
   {
-    "name": "plus-square"
+    "name": "plus-square",
+    "unicode": "f0fe"
   },
   {
-    "name": "podcast"
+    "name": "podcast",
+    "unicode": "f2ce"
   },
   {
-    "name": "poll"
+    "name": "poll",
+    "unicode": "f681"
   },
   {
-    "name": "poll-h"
+    "name": "poll-h",
+    "unicode": "f682"
   },
   {
-    "name": "poo"
+    "name": "poo",
+    "unicode": "f2fe"
   },
   {
-    "name": "poo-storm"
+    "name": "poo-storm",
+    "unicode": "f75a"
   },
   {
-    "name": "poop"
+    "name": "poop",
+    "unicode": "f619"
   },
   {
-    "name": "portrait"
+    "name": "portrait",
+    "unicode": "f3e0"
   },
   {
-    "name": "pound-sign"
+    "name": "pound-sign",
+    "unicode": "f154"
   },
   {
-    "name": "power-off"
+    "name": "power-off",
+    "unicode": "f011"
   },
   {
-    "name": "pray"
+    "name": "pray",
+    "unicode": "f683"
   },
   {
-    "name": "praying-hands"
+    "name": "praying-hands",
+    "unicode": "f684"
   },
   {
-    "name": "prescription"
+    "name": "prescription",
+    "unicode": "f5b1"
   },
   {
-    "name": "prescription-bottle"
+    "name": "prescription-bottle",
+    "unicode": "f485"
   },
   {
-    "name": "prescription-bottle-alt"
+    "name": "prescription-bottle-alt",
+    "unicode": "f486"
   },
   {
-    "name": "print"
+    "name": "print",
+    "unicode": "f02f"
   },
   {
-    "name": "procedures"
+    "name": "procedures",
+    "unicode": "f487"
   },
   {
-    "name": "project-diagram"
+    "name": "project-diagram",
+    "unicode": "f542"
   },
   {
-    "name": "pump-medical"
+    "name": "pump-medical",
+    "unicode": "e06a"
   },
   {
-    "name": "pump-soap"
+    "name": "pump-soap",
+    "unicode": "e06b"
   },
   {
-    "name": "puzzle-piece"
+    "name": "puzzle-piece",
+    "unicode": "f12e"
   },
   {
-    "name": "qrcode"
+    "name": "qrcode",
+    "unicode": "f029"
   },
   {
-    "name": "question"
+    "name": "question",
+    "unicode": "f128"
   },
   {
-    "name": "question-circle"
+    "name": "question-circle",
+    "unicode": "f059"
   },
   {
-    "name": "quidditch"
+    "name": "quidditch",
+    "unicode": "f458"
   },
   {
-    "name": "quote-left"
+    "name": "quote-left",
+    "unicode": "f10d"
   },
   {
-    "name": "quote-right"
+    "name": "quote-right",
+    "unicode": "f10e"
   },
   {
-    "name": "quran"
+    "name": "quran",
+    "unicode": "f687"
   },
   {
-    "name": "radiation"
+    "name": "radiation",
+    "unicode": "f7b9"
   },
   {
-    "name": "radiation-alt"
+    "name": "radiation-alt",
+    "unicode": "f7ba"
   },
   {
-    "name": "rainbow"
+    "name": "rainbow",
+    "unicode": "f75b"
   },
   {
-    "name": "random"
+    "name": "random",
+    "unicode": "f074"
   },
   {
-    "name": "receipt"
+    "name": "receipt",
+    "unicode": "f543"
   },
   {
-    "name": "record-vinyl"
+    "name": "record-vinyl",
+    "unicode": "f8d9"
   },
   {
-    "name": "recycle"
+    "name": "recycle",
+    "unicode": "f1b8"
   },
   {
-    "name": "redo"
+    "name": "redo",
+    "unicode": "f01e"
   },
   {
-    "name": "redo-alt"
+    "name": "redo-alt",
+    "unicode": "f2f9"
   },
   {
-    "name": "registered"
+    "name": "registered",
+    "unicode": "f25d"
   },
   {
-    "name": "remove-format"
+    "name": "remove-format",
+    "unicode": "f87d"
   },
   {
-    "name": "reply"
+    "name": "reply",
+    "unicode": "f3e5"
   },
   {
-    "name": "reply-all"
+    "name": "reply-all",
+    "unicode": "f122"
   },
   {
-    "name": "republican"
+    "name": "republican",
+    "unicode": "f75e"
   },
   {
-    "name": "restroom"
+    "name": "restroom",
+    "unicode": "f7bd"
   },
   {
-    "name": "retweet"
+    "name": "retweet",
+    "unicode": "f079"
   },
   {
-    "name": "ribbon"
+    "name": "ribbon",
+    "unicode": "f4d6"
   },
   {
-    "name": "ring"
+    "name": "ring",
+    "unicode": "f70b"
   },
   {
-    "name": "road"
+    "name": "road",
+    "unicode": "f018"
   },
   {
-    "name": "robot"
+    "name": "robot",
+    "unicode": "f544"
   },
   {
-    "name": "rocket"
+    "name": "rocket",
+    "unicode": "f135"
   },
   {
-    "name": "route"
+    "name": "route",
+    "unicode": "f4d7"
   },
   {
-    "name": "rss"
+    "name": "rss",
+    "unicode": "f09e"
   },
   {
-    "name": "rss-square"
+    "name": "rss-square",
+    "unicode": "f143"
   },
   {
-    "name": "ruble-sign"
+    "name": "ruble-sign",
+    "unicode": "f158"
   },
   {
-    "name": "ruler"
+    "name": "ruler",
+    "unicode": "f545"
   },
   {
-    "name": "ruler-combined"
+    "name": "ruler-combined",
+    "unicode": "f546"
   },
   {
-    "name": "ruler-horizontal"
+    "name": "ruler-horizontal",
+    "unicode": "f547"
   },
   {
-    "name": "ruler-vertical"
+    "name": "ruler-vertical",
+    "unicode": "f548"
   },
   {
-    "name": "running"
+    "name": "running",
+    "unicode": "f70c"
   },
   {
-    "name": "rupee-sign"
+    "name": "rupee-sign",
+    "unicode": "f156"
   },
   {
-    "name": "sad-cry"
+    "name": "sad-cry",
+    "unicode": "f5b3"
   },
   {
-    "name": "sad-tear"
+    "name": "sad-tear",
+    "unicode": "f5b4"
   },
   {
-    "name": "satellite"
+    "name": "satellite",
+    "unicode": "f7bf"
   },
   {
-    "name": "satellite-dish"
+    "name": "satellite-dish",
+    "unicode": "f7c0"
   },
   {
-    "name": "save"
+    "name": "save",
+    "unicode": "f0c7"
   },
   {
-    "name": "school"
+    "name": "school",
+    "unicode": "f549"
   },
   {
-    "name": "screwdriver"
+    "name": "screwdriver",
+    "unicode": "f54a"
   },
   {
-    "name": "scroll"
+    "name": "scroll",
+    "unicode": "f70e"
   },
   {
-    "name": "sd-card"
+    "name": "sd-card",
+    "unicode": "f7c2"
   },
   {
-    "name": "search"
+    "name": "search",
+    "unicode": "f002"
   },
   {
-    "name": "search-dollar"
+    "name": "search-dollar",
+    "unicode": "f688"
   },
   {
-    "name": "search-location"
+    "name": "search-location",
+    "unicode": "f689"
   },
   {
-    "name": "search-minus"
+    "name": "search-minus",
+    "unicode": "f010"
   },
   {
-    "name": "search-plus"
+    "name": "search-plus",
+    "unicode": "f00e"
   },
   {
-    "name": "seedling"
+    "name": "seedling",
+    "unicode": "f4d8"
   },
   {
-    "name": "server"
+    "name": "server",
+    "unicode": "f233"
   },
   {
-    "name": "shapes"
+    "name": "shapes",
+    "unicode": "f61f"
   },
   {
-    "name": "share"
+    "name": "share",
+    "unicode": "f064"
   },
   {
-    "name": "share-alt"
+    "name": "share-alt",
+    "unicode": "f1e0"
   },
   {
-    "name": "share-alt-square"
+    "name": "share-alt-square",
+    "unicode": "f1e1"
   },
   {
-    "name": "share-square"
+    "name": "share-square",
+    "unicode": "f14d"
   },
   {
-    "name": "shekel-sign"
+    "name": "shekel-sign",
+    "unicode": "f20b"
   },
   {
-    "name": "shield-alt"
+    "name": "shield-alt",
+    "unicode": "f3ed"
   },
   {
-    "name": "shield-virus"
+    "name": "shield-virus",
+    "unicode": "e06c"
   },
   {
-    "name": "ship"
+    "name": "ship",
+    "unicode": "f21a"
   },
   {
-    "name": "shipping-fast"
+    "name": "shipping-fast",
+    "unicode": "f48b"
   },
   {
-    "name": "shoe-prints"
+    "name": "shoe-prints",
+    "unicode": "f54b"
   },
   {
-    "name": "shopping-bag"
+    "name": "shopping-bag",
+    "unicode": "f290"
   },
   {
-    "name": "shopping-basket"
+    "name": "shopping-basket",
+    "unicode": "f291"
   },
   {
-    "name": "shopping-cart"
+    "name": "shopping-cart",
+    "unicode": "f07a"
   },
   {
-    "name": "shower"
+    "name": "shower",
+    "unicode": "f2cc"
   },
   {
-    "name": "shuttle-van"
+    "name": "shuttle-van",
+    "unicode": "f5b6"
   },
   {
-    "name": "sign"
+    "name": "sign",
+    "unicode": "f4d9"
   },
   {
-    "name": "sign-in-alt"
+    "name": "sign-in-alt",
+    "unicode": "f2f6"
   },
   {
-    "name": "sign-language"
+    "name": "sign-language",
+    "unicode": "f2a7"
   },
   {
-    "name": "sign-out-alt"
+    "name": "sign-out-alt",
+    "unicode": "f2f5"
   },
   {
-    "name": "signal"
+    "name": "signal",
+    "unicode": "f012"
   },
   {
-    "name": "signature"
+    "name": "signature",
+    "unicode": "f5b7"
   },
   {
-    "name": "sim-card"
+    "name": "sim-card",
+    "unicode": "f7c4"
   },
   {
-    "name": "sink"
+    "name": "sink",
+    "unicode": "e06d"
   },
   {
-    "name": "sitemap"
+    "name": "sitemap",
+    "unicode": "f0e8"
   },
   {
-    "name": "skating"
+    "name": "skating",
+    "unicode": "f7c5"
   },
   {
-    "name": "skiing"
+    "name": "skiing",
+    "unicode": "f7c9"
   },
   {
-    "name": "skiing-nordic"
+    "name": "skiing-nordic",
+    "unicode": "f7ca"
   },
   {
-    "name": "skull"
+    "name": "skull",
+    "unicode": "f54c"
   },
   {
-    "name": "skull-crossbones"
+    "name": "skull-crossbones",
+    "unicode": "f714"
   },
   {
-    "name": "slash"
+    "name": "slash",
+    "unicode": "f715"
   },
   {
-    "name": "sleigh"
+    "name": "sleigh",
+    "unicode": "f7cc"
   },
   {
-    "name": "sliders-h"
+    "name": "sliders-h",
+    "unicode": "f1de"
   },
   {
-    "name": "smile"
+    "name": "smile",
+    "unicode": "f118"
   },
   {
-    "name": "smile-beam"
+    "name": "smile-beam",
+    "unicode": "f5b8"
   },
   {
-    "name": "smile-wink"
+    "name": "smile-wink",
+    "unicode": "f4da"
   },
   {
-    "name": "smog"
+    "name": "smog",
+    "unicode": "f75f"
   },
   {
-    "name": "smoking"
+    "name": "smoking",
+    "unicode": "f48d"
   },
   {
-    "name": "smoking-ban"
+    "name": "smoking-ban",
+    "unicode": "f54d"
   },
   {
-    "name": "sms"
+    "name": "sms",
+    "unicode": "f7cd"
   },
   {
-    "name": "snowboarding"
+    "name": "snowboarding",
+    "unicode": "f7ce"
   },
   {
-    "name": "snowflake"
+    "name": "snowflake",
+    "unicode": "f2dc"
   },
   {
-    "name": "snowman"
+    "name": "snowman",
+    "unicode": "f7d0"
   },
   {
-    "name": "snowplow"
+    "name": "snowplow",
+    "unicode": "f7d2"
   },
   {
-    "name": "soap"
+    "name": "soap",
+    "unicode": "e06e"
   },
   {
-    "name": "socks"
+    "name": "socks",
+    "unicode": "f696"
   },
   {
-    "name": "solar-panel"
+    "name": "solar-panel",
+    "unicode": "f5ba"
   },
   {
-    "name": "sort"
+    "name": "sort",
+    "unicode": "f0dc"
   },
   {
-    "name": "sort-alpha-down"
+    "name": "sort-alpha-down",
+    "unicode": "f15d"
   },
   {
-    "name": "sort-alpha-down-alt"
+    "name": "sort-alpha-down-alt",
+    "unicode": "f881"
   },
   {
-    "name": "sort-alpha-up"
+    "name": "sort-alpha-up",
+    "unicode": "f15e"
   },
   {
-    "name": "sort-alpha-up-alt"
+    "name": "sort-alpha-up-alt",
+    "unicode": "f882"
   },
   {
-    "name": "sort-amount-down"
+    "name": "sort-amount-down",
+    "unicode": "f160"
   },
   {
-    "name": "sort-amount-down-alt"
+    "name": "sort-amount-down-alt",
+    "unicode": "f884"
   },
   {
-    "name": "sort-amount-up"
+    "name": "sort-amount-up",
+    "unicode": "f161"
   },
   {
-    "name": "sort-amount-up-alt"
+    "name": "sort-amount-up-alt",
+    "unicode": "f885"
   },
   {
-    "name": "sort-down"
+    "name": "sort-down",
+    "unicode": "f0dd"
   },
   {
-    "name": "sort-numeric-down"
+    "name": "sort-numeric-down",
+    "unicode": "f162"
   },
   {
-    "name": "sort-numeric-down-alt"
+    "name": "sort-numeric-down-alt",
+    "unicode": "f886"
   },
   {
-    "name": "sort-numeric-up"
+    "name": "sort-numeric-up",
+    "unicode": "f163"
   },
   {
-    "name": "sort-numeric-up-alt"
+    "name": "sort-numeric-up-alt",
+    "unicode": "f887"
   },
   {
-    "name": "sort-up"
+    "name": "sort-up",
+    "unicode": "f0de"
   },
   {
-    "name": "spa"
+    "name": "spa",
+    "unicode": "f5bb"
   },
   {
-    "name": "space-shuttle"
+    "name": "space-shuttle",
+    "unicode": "f197"
   },
   {
-    "name": "spell-check"
+    "name": "spell-check",
+    "unicode": "f891"
   },
   {
-    "name": "spider"
+    "name": "spider",
+    "unicode": "f717"
   },
   {
-    "name": "spinner"
+    "name": "spinner",
+    "unicode": "f110"
   },
   {
-    "name": "splotch"
+    "name": "splotch",
+    "unicode": "f5bc"
   },
   {
-    "name": "spray-can"
+    "name": "spray-can",
+    "unicode": "f5bd"
   },
   {
-    "name": "square"
+    "name": "square",
+    "unicode": "f0c8"
   },
   {
-    "name": "square-full"
+    "name": "square-full",
+    "unicode": "f45c"
   },
   {
-    "name": "square-root-alt"
+    "name": "square-root-alt",
+    "unicode": "f698"
   },
   {
-    "name": "stamp"
+    "name": "stamp",
+    "unicode": "f5bf"
   },
   {
-    "name": "star"
+    "name": "star",
+    "unicode": "f005"
   },
   {
-    "name": "star-and-crescent"
+    "name": "star-and-crescent",
+    "unicode": "f699"
   },
   {
-    "name": "star-half"
+    "name": "star-half",
+    "unicode": "f089"
   },
   {
-    "name": "star-half-alt"
+    "name": "star-half-alt",
+    "unicode": "f5c0"
   },
   {
-    "name": "star-of-david"
+    "name": "star-of-david",
+    "unicode": "f69a"
   },
   {
-    "name": "star-of-life"
+    "name": "star-of-life",
+    "unicode": "f621"
   },
   {
-    "name": "step-backward"
+    "name": "step-backward",
+    "unicode": "f048"
   },
   {
-    "name": "step-forward"
+    "name": "step-forward",
+    "unicode": "f051"
   },
   {
-    "name": "stethoscope"
+    "name": "stethoscope",
+    "unicode": "f0f1"
   },
   {
-    "name": "sticky-note"
+    "name": "sticky-note",
+    "unicode": "f249"
   }
 ]

@@ -1,542 +1,722 @@
 [
   {
-    "name": "box"
+    "name": "box",
+    "unicode": "f466"
   },
   {
-    "name": "box-open"
+    "name": "box-open",
+    "unicode": "f49e"
   },
   {
-    "name": "box-tissue"
+    "name": "box-tissue",
+    "unicode": "e05b"
   },
   {
-    "name": "boxes"
+    "name": "boxes",
+    "unicode": "f468"
   },
   {
-    "name": "braille"
+    "name": "braille",
+    "unicode": "f2a1"
   },
   {
-    "name": "brain"
+    "name": "brain",
+    "unicode": "f5dc"
   },
   {
-    "name": "bread-slice"
+    "name": "bread-slice",
+    "unicode": "f7ec"
   },
   {
-    "name": "briefcase"
+    "name": "briefcase",
+    "unicode": "f0b1"
   },
   {
-    "name": "briefcase-medical"
+    "name": "briefcase-medical",
+    "unicode": "f469"
   },
   {
-    "name": "broadcast-tower"
+    "name": "broadcast-tower",
+    "unicode": "f519"
   },
   {
-    "name": "broom"
+    "name": "broom",
+    "unicode": "f51a"
   },
   {
-    "name": "brush"
+    "name": "brush",
+    "unicode": "f55d"
   },
   {
-    "name": "bug"
+    "name": "bug",
+    "unicode": "f188"
   },
   {
-    "name": "building"
+    "name": "building",
+    "unicode": "f1ad"
   },
   {
-    "name": "bullhorn"
+    "name": "bullhorn",
+    "unicode": "f0a1"
   },
   {
-    "name": "bullseye"
+    "name": "bullseye",
+    "unicode": "f140"
   },
   {
-    "name": "burn"
+    "name": "burn",
+    "unicode": "f46a"
   },
   {
-    "name": "bus"
+    "name": "bus",
+    "unicode": "f207"
   },
   {
-    "name": "bus-alt"
+    "name": "bus-alt",
+    "unicode": "f55e"
   },
   {
-    "name": "business-time"
+    "name": "business-time",
+    "unicode": "f64a"
   },
   {
-    "name": "calculator"
+    "name": "calculator",
+    "unicode": "f1ec"
   },
   {
-    "name": "calendar"
+    "name": "calendar",
+    "unicode": "f133"
   },
   {
-    "name": "calendar-alt"
+    "name": "calendar-alt",
+    "unicode": "f073"
   },
   {
-    "name": "calendar-check"
+    "name": "calendar-check",
+    "unicode": "f274"
   },
   {
-    "name": "calendar-day"
+    "name": "calendar-day",
+    "unicode": "f783"
   },
   {
-    "name": "calendar-minus"
+    "name": "calendar-minus",
+    "unicode": "f272"
   },
   {
-    "name": "calendar-plus"
+    "name": "calendar-plus",
+    "unicode": "f271"
   },
   {
-    "name": "calendar-times"
+    "name": "calendar-times",
+    "unicode": "f273"
   },
   {
-    "name": "calendar-week"
+    "name": "calendar-week",
+    "unicode": "f784"
   },
   {
-    "name": "camera"
+    "name": "camera",
+    "unicode": "f030"
   },
   {
-    "name": "camera-retro"
+    "name": "camera-retro",
+    "unicode": "f083"
   },
   {
-    "name": "campground"
+    "name": "campground",
+    "unicode": "f6bb"
   },
   {
-    "name": "candy-cane"
+    "name": "candy-cane",
+    "unicode": "f786"
   },
   {
-    "name": "cannabis"
+    "name": "cannabis",
+    "unicode": "f55f"
   },
   {
-    "name": "capsules"
+    "name": "capsules",
+    "unicode": "f46b"
   },
   {
-    "name": "car"
+    "name": "car",
+    "unicode": "f1b9"
   },
   {
-    "name": "car-alt"
+    "name": "car-alt",
+    "unicode": "f5de"
   },
   {
-    "name": "car-battery"
+    "name": "car-battery",
+    "unicode": "f5df"
   },
   {
-    "name": "car-crash"
+    "name": "car-crash",
+    "unicode": "f5e1"
   },
   {
-    "name": "car-side"
+    "name": "car-side",
+    "unicode": "f5e4"
   },
   {
-    "name": "caravan"
+    "name": "caravan",
+    "unicode": "f8ff"
   },
   {
-    "name": "caret-down"
+    "name": "caret-down",
+    "unicode": "f0d7"
   },
   {
-    "name": "caret-left"
+    "name": "caret-left",
+    "unicode": "f0d9"
   },
   {
-    "name": "caret-right"
+    "name": "caret-right",
+    "unicode": "f0da"
   },
   {
-    "name": "caret-square-down"
+    "name": "caret-square-down",
+    "unicode": "f150"
   },
   {
-    "name": "caret-square-left"
+    "name": "caret-square-left",
+    "unicode": "f191"
   },
   {
-    "name": "caret-square-right"
+    "name": "caret-square-right",
+    "unicode": "f152"
   },
   {
-    "name": "caret-square-up"
+    "name": "caret-square-up",
+    "unicode": "f151"
   },
   {
-    "name": "caret-up"
+    "name": "caret-up",
+    "unicode": "f0d8"
   },
   {
-    "name": "carrot"
+    "name": "carrot",
+    "unicode": "f787"
   },
   {
-    "name": "cart-arrow-down"
+    "name": "cart-arrow-down",
+    "unicode": "f218"
   },
   {
-    "name": "cart-plus"
+    "name": "cart-plus",
+    "unicode": "f217"
   },
   {
-    "name": "cash-register"
+    "name": "cash-register",
+    "unicode": "f788"
   },
   {
-    "name": "cat"
+    "name": "cat",
+    "unicode": "f6be"
   },
   {
-    "name": "certificate"
+    "name": "certificate",
+    "unicode": "f0a3"
   },
   {
-    "name": "chair"
+    "name": "chair",
+    "unicode": "f6c0"
   },
   {
-    "name": "chalkboard"
+    "name": "chalkboard",
+    "unicode": "f51b"
   },
   {
-    "name": "chalkboard-teacher"
+    "name": "chalkboard-teacher",
+    "unicode": "f51c"
   },
   {
-    "name": "charging-station"
+    "name": "charging-station",
+    "unicode": "f5e7"
   },
   {
-    "name": "chart-area"
+    "name": "chart-area",
+    "unicode": "f1fe"
   },
   {
-    "name": "chart-bar"
+    "name": "chart-bar",
+    "unicode": "f080"
   },
   {
-    "name": "chart-line"
+    "name": "chart-line",
+    "unicode": "f201"
   },
   {
-    "name": "chart-pie"
+    "name": "chart-pie",
+    "unicode": "f200"
   },
   {
-    "name": "check"
+    "name": "check",
+    "unicode": "f00c"
   },
   {
-    "name": "check-circle"
+    "name": "check-circle",
+    "unicode": "f058"
   },
   {
-    "name": "check-double"
+    "name": "check-double",
+    "unicode": "f560"
   },
   {
-    "name": "check-square"
+    "name": "check-square",
+    "unicode": "f14a"
   },
   {
-    "name": "cheese"
+    "name": "cheese",
+    "unicode": "f7ef"
   },
   {
-    "name": "chess"
+    "name": "chess",
+    "unicode": "f439"
   },
   {
-    "name": "chess-bishop"
+    "name": "chess-bishop",
+    "unicode": "f43a"
   },
   {
-    "name": "chess-board"
+    "name": "chess-board",
+    "unicode": "f43c"
   },
   {
-    "name": "chess-king"
+    "name": "chess-king",
+    "unicode": "f43f"
   },
   {
-    "name": "chess-knight"
+    "name": "chess-knight",
+    "unicode": "f441"
   },
   {
-    "name": "chess-pawn"
+    "name": "chess-pawn",
+    "unicode": "f443"
   },
   {
-    "name": "chess-queen"
+    "name": "chess-queen",
+    "unicode": "f445"
   },
   {
-    "name": "chess-rook"
+    "name": "chess-rook",
+    "unicode": "f447"
   },
   {
-    "name": "chevron-circle-down"
+    "name": "chevron-circle-down",
+    "unicode": "f13a"
   },
   {
-    "name": "chevron-circle-left"
+    "name": "chevron-circle-left",
+    "unicode": "f137"
   },
   {
-    "name": "chevron-circle-right"
+    "name": "chevron-circle-right",
+    "unicode": "f138"
   },
   {
-    "name": "chevron-circle-up"
+    "name": "chevron-circle-up",
+    "unicode": "f139"
   },
   {
-    "name": "chevron-down"
+    "name": "chevron-down",
+    "unicode": "f078"
   },
   {
-    "name": "chevron-left"
+    "name": "chevron-left",
+    "unicode": "f053"
   },
   {
-    "name": "chevron-right"
+    "name": "chevron-right",
+    "unicode": "f054"
   },
   {
-    "name": "chevron-up"
+    "name": "chevron-up",
+    "unicode": "f077"
   },
   {
-    "name": "child"
+    "name": "child",
+    "unicode": "f1ae"
   },
   {
-    "name": "church"
+    "name": "church",
+    "unicode": "f51d"
   },
   {
-    "name": "circle"
+    "name": "circle",
+    "unicode": "f111"
   },
   {
-    "name": "circle-notch"
+    "name": "circle-notch",
+    "unicode": "f1ce"
   },
   {
-    "name": "city"
+    "name": "city",
+    "unicode": "f64f"
   },
   {
-    "name": "clinic-medical"
+    "name": "clinic-medical",
+    "unicode": "f7f2"
   },
   {
-    "name": "clipboard"
+    "name": "clipboard",
+    "unicode": "f328"
   },
   {
-    "name": "clipboard-check"
+    "name": "clipboard-check",
+    "unicode": "f46c"
   },
   {
-    "name": "clipboard-list"
+    "name": "clipboard-list",
+    "unicode": "f46d"
   },
   {
-    "name": "clock"
+    "name": "clock",
+    "unicode": "f017"
   },
   {
-    "name": "clone"
+    "name": "clone",
+    "unicode": "f24d"
   },
   {
-    "name": "closed-captioning"
+    "name": "closed-captioning",
+    "unicode": "f20a"
   },
   {
-    "name": "cloud"
+    "name": "cloud",
+    "unicode": "f0c2"
   },
   {
-    "name": "cloud-download-alt"
+    "name": "cloud-download-alt",
+    "unicode": "f381"
   },
   {
-    "name": "cloud-meatball"
+    "name": "cloud-meatball",
+    "unicode": "f73b"
   },
   {
-    "name": "cloud-moon"
+    "name": "cloud-moon",
+    "unicode": "f6c3"
   },
   {
-    "name": "cloud-moon-rain"
+    "name": "cloud-moon-rain",
+    "unicode": "f73c"
   },
   {
-    "name": "cloud-rain"
+    "name": "cloud-rain",
+    "unicode": "f73d"
   },
   {
-    "name": "cloud-showers-heavy"
+    "name": "cloud-showers-heavy",
+    "unicode": "f740"
   },
   {
-    "name": "cloud-sun"
+    "name": "cloud-sun",
+    "unicode": "f6c4"
   },
   {
-    "name": "cloud-sun-rain"
+    "name": "cloud-sun-rain",
+    "unicode": "f743"
   },
   {
-    "name": "cloud-upload-alt"
+    "name": "cloud-upload-alt",
+    "unicode": "f382"
   },
   {
-    "name": "cocktail"
+    "name": "cocktail",
+    "unicode": "f561"
   },
   {
-    "name": "code"
+    "name": "code",
+    "unicode": "f121"
   },
   {
-    "name": "code-branch"
+    "name": "code-branch",
+    "unicode": "f126"
   },
   {
-    "name": "coffee"
+    "name": "coffee",
+    "unicode": "f0f4"
   },
   {
-    "name": "cog"
+    "name": "cog",
+    "unicode": "f013"
   },
   {
-    "name": "cogs"
+    "name": "cogs",
+    "unicode": "f085"
   },
   {
-    "name": "coins"
+    "name": "coins",
+    "unicode": "f51e"
   },
   {
-    "name": "columns"
+    "name": "columns",
+    "unicode": "f0db"
   },
   {
-    "name": "comment"
+    "name": "comment",
+    "unicode": "f075"
   },
   {
-    "name": "comment-alt"
+    "name": "comment-alt",
+    "unicode": "f27a"
   },
   {
-    "name": "comment-dollar"
+    "name": "comment-dollar",
+    "unicode": "f651"
   },
   {
-    "name": "comment-dots"
+    "name": "comment-dots",
+    "unicode": "f4ad"
   },
   {
-    "name": "comment-medical"
+    "name": "comment-medical",
+    "unicode": "f7f5"
   },
   {
-    "name": "comment-slash"
+    "name": "comment-slash",
+    "unicode": "f4b3"
   },
   {
-    "name": "comments"
+    "name": "comments",
+    "unicode": "f086"
   },
   {
-    "name": "comments-dollar"
+    "name": "comments-dollar",
+    "unicode": "f653"
   },
   {
-    "name": "compact-disc"
+    "name": "compact-disc",
+    "unicode": "f51f"
   },
   {
-    "name": "compass"
+    "name": "compass",
+    "unicode": "f14e"
   },
   {
-    "name": "compress"
+    "name": "compress",
+    "unicode": "f066"
   },
   {
-    "name": "compress-alt"
+    "name": "compress-alt",
+    "unicode": "f422"
   },
   {
-    "name": "compress-arrows-alt"
+    "name": "compress-arrows-alt",
+    "unicode": "f78c"
   },
   {
-    "name": "concierge-bell"
+    "name": "concierge-bell",
+    "unicode": "f562"
   },
   {
-    "name": "cookie"
+    "name": "cookie",
+    "unicode": "f563"
   },
   {
-    "name": "cookie-bite"
+    "name": "cookie-bite",
+    "unicode": "f564"
   },
   {
-    "name": "copy"
+    "name": "copy",
+    "unicode": "f0c5"
   },
   {
-    "name": "copyright"
+    "name": "copyright",
+    "unicode": "f1f9"
   },
   {
-    "name": "couch"
+    "name": "couch",
+    "unicode": "f4b8"
   },
   {
-    "name": "credit-card"
+    "name": "credit-card",
+    "unicode": "f09d"
   },
   {
-    "name": "crop"
+    "name": "crop",
+    "unicode": "f125"
   },
   {
-    "name": "crop-alt"
+    "name": "crop-alt",
+    "unicode": "f565"
   },
   {
-    "name": "cross"
+    "name": "cross",
+    "unicode": "f654"
   },
   {
-    "name": "crosshairs"
+    "name": "crosshairs",
+    "unicode": "f05b"
   },
   {
-    "name": "crow"
+    "name": "crow",
+    "unicode": "f520"
   },
   {
-    "name": "crown"
+    "name": "crown",
+    "unicode": "f521"
   },
   {
-    "name": "crutch"
+    "name": "crutch",
+    "unicode": "f7f7"
   },
   {
-    "name": "cube"
+    "name": "cube",
+    "unicode": "f1b2"
   },
   {
-    "name": "cubes"
+    "name": "cubes",
+    "unicode": "f1b3"
   },
   {
-    "name": "cut"
+    "name": "cut",
+    "unicode": "f0c4"
   },
   {
-    "name": "database"
+    "name": "database",
+    "unicode": "f1c0"
   },
   {
-    "name": "deaf"
+    "name": "deaf",
+    "unicode": "f2a4"
   },
   {
-    "name": "democrat"
+    "name": "democrat",
+    "unicode": "f747"
   },
   {
-    "name": "desktop"
+    "name": "desktop",
+    "unicode": "f108"
   },
   {
-    "name": "dharmachakra"
+    "name": "dharmachakra",
+    "unicode": "f655"
   },
   {
-    "name": "diagnoses"
+    "name": "diagnoses",
+    "unicode": "f470"
   },
   {
-    "name": "dice"
+    "name": "dice",
+    "unicode": "f522"
   },
   {
-    "name": "dice-d20"
+    "name": "dice-d20",
+    "unicode": "f6cf"
   },
   {
-    "name": "dice-d6"
+    "name": "dice-d6",
+    "unicode": "f6d1"
   },
   {
-    "name": "dice-five"
+    "name": "dice-five",
+    "unicode": "f523"
   },
   {
-    "name": "dice-four"
+    "name": "dice-four",
+    "unicode": "f524"
   },
   {
-    "name": "dice-one"
+    "name": "dice-one",
+    "unicode": "f525"
   },
   {
-    "name": "dice-six"
+    "name": "dice-six",
+    "unicode": "f526"
   },
   {
-    "name": "dice-three"
+    "name": "dice-three",
+    "unicode": "f527"
   },
   {
-    "name": "dice-two"
+    "name": "dice-two",
+    "unicode": "f528"
   },
   {
-    "name": "digital-tachograph"
+    "name": "digital-tachograph",
+    "unicode": "f566"
   },
   {
-    "name": "directions"
+    "name": "directions",
+    "unicode": "f5eb"
   },
   {
-    "name": "disease"
+    "name": "disease",
+    "unicode": "f7fa"
   },
   {
-    "name": "divide"
+    "name": "divide",
+    "unicode": "f529"
   },
   {
-    "name": "dizzy"
+    "name": "dizzy",
+    "unicode": "f567"
   },
   {
-    "name": "dna"
+    "name": "dna",
+    "unicode": "f471"
   },
   {
-    "name": "dog"
+    "name": "dog",
+    "unicode": "f6d3"
   },
   {
-    "name": "dollar-sign"
+    "name": "dollar-sign",
+    "unicode": "f155"
   },
   {
-    "name": "dolly"
+    "name": "dolly",
+    "unicode": "f472"
   },
   {
-    "name": "dolly-flatbed"
+    "name": "dolly-flatbed",
+    "unicode": "f474"
   },
   {
-    "name": "donate"
+    "name": "donate",
+    "unicode": "f4b9"
   },
   {
-    "name": "door-closed"
+    "name": "door-closed",
+    "unicode": "f52a"
   },
   {
-    "name": "door-open"
+    "name": "door-open",
+    "unicode": "f52b"
   },
   {
-    "name": "dot-circle"
+    "name": "dot-circle",
+    "unicode": "f192"
   },
   {
-    "name": "dove"
+    "name": "dove",
+    "unicode": "f4ba"
   },
   {
-    "name": "download"
+    "name": "download",
+    "unicode": "f019"
   },
   {
-    "name": "drafting-compass"
+    "name": "drafting-compass",
+    "unicode": "f568"
   },
   {
-    "name": "dragon"
+    "name": "dragon",
+    "unicode": "f6d5"
   },
   {
-    "name": "draw-polygon"
+    "name": "draw-polygon",
+    "unicode": "f5ee"
   },
   {
-    "name": "drum"
+    "name": "drum",
+    "unicode": "f569"
   },
   {
-    "name": "drum-steelpan"
+    "name": "drum-steelpan",
+    "unicode": "f56a"
   }
 ]

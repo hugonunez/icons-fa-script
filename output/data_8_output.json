@@ -1,542 +1,722 @@
 [
   {
-    "name": "app-store"
+    "name": "app-store",
+    "unicode": "f36f"
   },
   {
-    "name": "app-store-ios"
+    "name": "app-store-ios",
+    "unicode": "f370"
   },
   {
-    "name": "apper"
+    "name": "apper",
+    "unicode": "f371"
   },
   {
-    "name": "apple"
+    "name": "apple",
+    "unicode": "f179"
   },
   {
-    "name": "apple-pay"
+    "name": "apple-pay",
+    "unicode": "f415"
   },
   {
-    "name": "artstation"
+    "name": "artstation",
+    "unicode": "f77a"
   },
   {
-    "name": "asymmetrik"
+    "name": "asymmetrik",
+    "unicode": "f372"
   },
   {
-    "name": "atlassian"
+    "name": "atlassian",
+    "unicode": "f77b"
   },
   {
-    "name": "audible"
+    "name": "audible",
+    "unicode": "f373"
   },
   {
-    "name": "autoprefixer"
+    "name": "autoprefixer",
+    "unicode": "f41c"
   },
   {
-    "name": "avianex"
+    "name": "avianex",
+    "unicode": "f374"
   },
   {
-    "name": "aviato"
+    "name": "aviato",
+    "unicode": "f421"
   },
   {
-    "name": "aws"
+    "name": "aws",
+    "unicode": "f375"
   },
   {
-    "name": "bandcamp"
+    "name": "bandcamp",
+    "unicode": "f2d5"
   },
   {
-    "name": "battle-net"
+    "name": "battle-net",
+    "unicode": "f835"
   },
   {
-    "name": "behance"
+    "name": "behance",
+    "unicode": "f1b4"
   },
   {
-    "name": "behance-square"
+    "name": "behance-square",
+    "unicode": "f1b5"
   },
   {
-    "name": "bimobject"
+    "name": "bimobject",
+    "unicode": "f378"
   },
   {
-    "name": "bitbucket"
+    "name": "bitbucket",
+    "unicode": "f171"
   },
   {
-    "name": "bitcoin"
+    "name": "bitcoin",
+    "unicode": "f379"
   },
   {
-    "name": "bity"
+    "name": "bity",
+    "unicode": "f37a"
   },
   {
-    "name": "black-tie"
+    "name": "black-tie",
+    "unicode": "f27e"
   },
   {
-    "name": "blackberry"
+    "name": "blackberry",
+    "unicode": "f37b"
   },
   {
-    "name": "blogger"
+    "name": "blogger",
+    "unicode": "f37c"
   },
   {
-    "name": "blogger-b"
+    "name": "blogger-b",
+    "unicode": "f37d"
   },
   {
-    "name": "bluetooth"
+    "name": "bluetooth",
+    "unicode": "f293"
   },
   {
-    "name": "bluetooth-b"
+    "name": "bluetooth-b",
+    "unicode": "f294"
   },
   {
-    "name": "bootstrap"
+    "name": "bootstrap",
+    "unicode": "f836"
   },
   {
-    "name": "btc"
+    "name": "btc",
+    "unicode": "f15a"
   },
   {
-    "name": "buffer"
+    "name": "buffer",
+    "unicode": "f837"
   },
   {
-    "name": "buromobelexperte"
+    "name": "buromobelexperte",
+    "unicode": "f37f"
   },
   {
-    "name": "buy-n-large"
+    "name": "buy-n-large",
+    "unicode": "f8a6"
   },
   {
-    "name": "buysellads"
+    "name": "buysellads",
+    "unicode": "f20d"
   },
   {
-    "name": "canadian-maple-leaf"
+    "name": "canadian-maple-leaf",
+    "unicode": "f785"
   },
   {
-    "name": "cc-amazon-pay"
+    "name": "cc-amazon-pay",
+    "unicode": "f42d"
   },
   {
-    "name": "cc-amex"
+    "name": "cc-amex",
+    "unicode": "f1f3"
   },
   {
-    "name": "cc-apple-pay"
+    "name": "cc-apple-pay",
+    "unicode": "f416"
   },
   {
-    "name": "cc-diners-club"
+    "name": "cc-diners-club",
+    "unicode": "f24c"
   },
   {
-    "name": "cc-discover"
+    "name": "cc-discover",
+    "unicode": "f1f2"
   },
   {
-    "name": "cc-jcb"
+    "name": "cc-jcb",
+    "unicode": "f24b"
   },
   {
-    "name": "cc-mastercard"
+    "name": "cc-mastercard",
+    "unicode": "f1f1"
   },
   {
-    "name": "cc-paypal"
+    "name": "cc-paypal",
+    "unicode": "f1f4"
   },
   {
-    "name": "cc-stripe"
+    "name": "cc-stripe",
+    "unicode": "f1f5"
   },
   {
-    "name": "cc-visa"
+    "name": "cc-visa",
+    "unicode": "f1f0"
   },
   {
-    "name": "centercode"
+    "name": "centercode",
+    "unicode": "f380"
   },
   {
-    "name": "centos"
+    "name": "centos",
+    "unicode": "f789"
   },
   {
-    "name": "chrome"
+    "name": "chrome",
+    "unicode": "f268"
   },
   {
-    "name": "chromecast"
+    "name": "chromecast",
+    "unicode": "f838"
   },
   {
-    "name": "cloudflare"
+    "name": "cloudflare",
+    "unicode": "e07d"
   },
   {
-    "name": "cloudscale"
+    "name": "cloudscale",
+    "unicode": "f383"
   },
   {
-    "name": "cloudsmith"
+    "name": "cloudsmith",
+    "unicode": "f384"
   },
   {
-    "name": "cloudversify"
+    "name": "cloudversify",
+    "unicode": "f385"
   },
   {
-    "name": "codepen"
+    "name": "codepen",
+    "unicode": "f1cb"
   },
   {
-    "name": "codiepie"
+    "name": "codiepie",
+    "unicode": "f284"
   },
   {
-    "name": "confluence"
+    "name": "confluence",
+    "unicode": "f78d"
   },
   {
-    "name": "connectdevelop"
+    "name": "connectdevelop",
+    "unicode": "f20e"
   },
   {
-    "name": "contao"
+    "name": "contao",
+    "unicode": "f26d"
   },
   {
-    "name": "cotton-bureau"
+    "name": "cotton-bureau",
+    "unicode": "f89e"
   },
   {
-    "name": "cpanel"
+    "name": "cpanel",
+    "unicode": "f388"
   },
   {
-    "name": "creative-commons"
+    "name": "creative-commons",
+    "unicode": "f25e"
   },
   {
-    "name": "creative-commons-by"
+    "name": "creative-commons-by",
+    "unicode": "f4e7"
   },
   {
-    "name": "creative-commons-nc"
+    "name": "creative-commons-nc",
+    "unicode": "f4e8"
   },
   {
-    "name": "creative-commons-nc-eu"
+    "name": "creative-commons-nc-eu",
+    "unicode": "f4e9"
   },
   {
-    "name": "creative-commons-nc-jp"
+    "name": "creative-commons-nc-jp",
+    "unicode": "f4ea"
   },
   {
-    "name": "creative-commons-nd"
+    "name": "creative-commons-nd",
+    "unicode": "f4eb"
   },
   {
-    "name": "creative-commons-pd"
+    "name": "creative-commons-pd",
+    "unicode": "f4ec"
   },
   {
-    "name": "creative-commons-pd-alt"
+    "name": "creative-commons-pd-alt",
+    "unicode": "f4ed"
   },
   {
-    "name": "creative-commons-remix"
+    "name": "creative-commons-remix",
+    "unicode": "f4ee"
   },
   {
-    "name": "creative-commons-sa"
+    "name": "creative-commons-sa",
+    "unicode": "f4ef"
   },
   {
-    "name": "creative-commons-sampling"
+    "name": "creative-commons-sampling",
+    "unicode": "f4f0"
   },
   {
-    "name": "creative-commons-sampling-plus"
+    "name": "creative-commons-sampling-plus",
+    "unicode": "f4f1"
   },
   {
-    "name": "creative-commons-share"
+    "name": "creative-commons-share",
+    "unicode": "f4f2"
   },
   {
-    "name": "creative-commons-zero"
+    "name": "creative-commons-zero",
+    "unicode": "f4f3"
   },
   {
-    "name": "critical-role"
+    "name": "critical-role",
+    "unicode": "f6c9"
   },
   {
-    "name": "css3"
+    "name": "css3",
+    "unicode": "f13c"
   },
   {
-    "name": "css3-alt"
+    "name": "css3-alt",
+    "unicode": "f38b"
   },
   {
-    "name": "cuttlefish"
+    "name": "cuttlefish",
+    "unicode": "f38c"
   },
   {
-    "name": "d-and-d"
+    "name": "d-and-d",
+    "unicode": "f38d"
   },
   {
-    "name": "d-and-d-beyond"
+    "name": "d-and-d-beyond",
+    "unicode": "f6ca"
   },
   {
-    "name": "dailymotion"
+    "name": "dailymotion",
+    "unicode": "e052"
   },
   {
-    "name": "dashcube"
+    "name": "dashcube",
+    "unicode": "f210"
   },
   {
-    "name": "deezer"
+    "name": "deezer",
+    "unicode": "e077"
   },
   {
-    "name": "delicious"
+    "name": "delicious",
+    "unicode": "f1a5"
   },
   {
-    "name": "deploydog"
+    "name": "deploydog",
+    "unicode": "f38e"
   },
   {
-    "name": "deskpro"
+    "name": "deskpro",
+    "unicode": "f38f"
   },
   {
-    "name": "dev"
+    "name": "dev",
+    "unicode": "f6cc"
   },
   {
-    "name": "deviantart"
+    "name": "deviantart",
+    "unicode": "f1bd"
   },
   {
-    "name": "dhl"
+    "name": "dhl",
+    "unicode": "f790"
   },
   {
-    "name": "diaspora"
+    "name": "diaspora",
+    "unicode": "f791"
   },
   {
-    "name": "digg"
+    "name": "digg",
+    "unicode": "f1a6"
   },
   {
-    "name": "digital-ocean"
+    "name": "digital-ocean",
+    "unicode": "f391"
   },
   {
-    "name": "discord"
+    "name": "discord",
+    "unicode": "f392"
   },
   {
-    "name": "discourse"
+    "name": "discourse",
+    "unicode": "f393"
   },
   {
-    "name": "dochub"
+    "name": "dochub",
+    "unicode": "f394"
   },
   {
-    "name": "docker"
+    "name": "docker",
+    "unicode": "f395"
   },
   {
-    "name": "draft2digital"
+    "name": "draft2digital",
+    "unicode": "f396"
   },
   {
-    "name": "dribbble"
+    "name": "dribbble",
+    "unicode": "f17d"
   },
   {
-    "name": "dribbble-square"
+    "name": "dribbble-square",
+    "unicode": "f397"
   },
   {
-    "name": "dropbox"
+    "name": "dropbox",
+    "unicode": "f16b"
   },
   {
-    "name": "drupal"
+    "name": "drupal",
+    "unicode": "f1a9"
   },
   {
-    "name": "dyalog"
+    "name": "dyalog",
+    "unicode": "f399"
   },
   {
-    "name": "earlybirds"
+    "name": "earlybirds",
+    "unicode": "f39a"
   },
   {
-    "name": "ebay"
+    "name": "ebay",
+    "unicode": "f4f4"
   },
   {
-    "name": "edge"
+    "name": "edge",
+    "unicode": "f282"
   },
   {
-    "name": "edge-legacy"
+    "name": "edge-legacy",
+    "unicode": "e078"
   },
   {
-    "name": "elementor"
+    "name": "elementor",
+    "unicode": "f430"
   },
   {
-    "name": "ello"
+    "name": "ello",
+    "unicode": "f5f1"
   },
   {
-    "name": "ember"
+    "name": "ember",
+    "unicode": "f423"
   },
   {
-    "name": "empire"
+    "name": "empire",
+    "unicode": "f1d1"
   },
   {
-    "name": "envira"
+    "name": "envira",
+    "unicode": "f299"
   },
   {
-    "name": "erlang"
+    "name": "erlang",
+    "unicode": "f39d"
   },
   {
-    "name": "ethereum"
+    "name": "ethereum",
+    "unicode": "f42e"
   },
   {
-    "name": "etsy"
+    "name": "etsy",
+    "unicode": "f2d7"
   },
   {
-    "name": "evernote"
+    "name": "evernote",
+    "unicode": "f839"
   },
   {
-    "name": "expeditedssl"
+    "name": "expeditedssl",
+    "unicode": "f23e"
   },
   {
-    "name": "facebook"
+    "name": "facebook",
+    "unicode": "f09a"
   },
   {
-    "name": "facebook-f"
+    "name": "facebook-f",
+    "unicode": "f39e"
   },
   {
-    "name": "facebook-messenger"
+    "name": "facebook-messenger",
+    "unicode": "f39f"
   },
   {
-    "name": "facebook-square"
+    "name": "facebook-square",
+    "unicode": "f082"
   },
   {
-    "name": "fantasy-flight-games"
+    "name": "fantasy-flight-games",
+    "unicode": "f6dc"
   },
   {
-    "name": "fedex"
+    "name": "fedex",
+    "unicode": "f797"
   },
   {
-    "name": "fedora"
+    "name": "fedora",
+    "unicode": "f798"
   },
   {
-    "name": "figma"
+    "name": "figma",
+    "unicode": "f799"
   },
   {
-    "name": "firefox"
+    "name": "firefox",
+    "unicode": "f269"
   },
   {
-    "name": "firefox-browser"
+    "name": "firefox-browser",
+    "unicode": "e007"
   },
   {
-    "name": "first-order"
+    "name": "first-order",
+    "unicode": "f2b0"
   },
   {
-    "name": "first-order-alt"
+    "name": "first-order-alt",
+    "unicode": "f50a"
   },
   {
-    "name": "firstdraft"
+    "name": "firstdraft",
+    "unicode": "f3a1"
   },
   {
-    "name": "flickr"
+    "name": "flickr",
+    "unicode": "f16e"
   },
   {
-    "name": "flipboard"
+    "name": "flipboard",
+    "unicode": "f44d"
   },
   {
-    "name": "fly"
+    "name": "fly",
+    "unicode": "f417"
   },
   {
-    "name": "font-awesome"
+    "name": "font-awesome",
+    "unicode": "f2b4"
   },
   {
-    "name": "font-awesome-alt"
+    "name": "font-awesome-alt",
+    "unicode": "f35c"
   },
   {
-    "name": "font-awesome-flag"
+    "name": "font-awesome-flag",
+    "unicode": "f425"
   },
   {
-    "name": "fonticons"
+    "name": "fonticons",
+    "unicode": "f280"
   },
   {
-    "name": "fonticons-fi"
+    "name": "fonticons-fi",
+    "unicode": "f3a2"
   },
   {
-    "name": "fort-awesome"
+    "name": "fort-awesome",
+    "unicode": "f286"
   },
   {
-    "name": "fort-awesome-alt"
+    "name": "fort-awesome-alt",
+    "unicode": "f3a3"
   },
   {
-    "name": "forumbee"
+    "name": "forumbee",
+    "unicode": "f211"
   },
   {
-    "name": "foursquare"
+    "name": "foursquare",
+    "unicode": "f180"
   },
   {
-    "name": "free-code-camp"
+    "name": "free-code-camp",
+    "unicode": "f2c5"
   },
   {
-    "name": "freebsd"
+    "name": "freebsd",
+    "unicode": "f3a4"
   },
   {
-    "name": "fulcrum"
+    "name": "fulcrum",
+    "unicode": "f50b"
   },
   {
-    "name": "galactic-republic"
+    "name": "galactic-republic",
+    "unicode": "f50c"
   },
   {
-    "name": "galactic-senate"
+    "name": "galactic-senate",
+    "unicode": "f50d"
   },
   {
-    "name": "get-pocket"
+    "name": "get-pocket",
+    "unicode": "f265"
   },
   {
-    "name": "gg"
+    "name": "gg",
+    "unicode": "f260"
   },
   {
-    "name": "gg-circle"
+    "name": "gg-circle",
+    "unicode": "f261"
   },
   {
-    "name": "git"
+    "name": "git",
+    "unicode": "f1d3"
   },
   {
-    "name": "git-alt"
+    "name": "git-alt",
+    "unicode": "f841"
   },
   {
-    "name": "git-square"
+    "name": "git-square",
+    "unicode": "f1d2"
   },
   {
-    "name": "github"
+    "name": "github",
+    "unicode": "f09b"
   },
   {
-    "name": "github-alt"
+    "name": "github-alt",
+    "unicode": "f113"
   },
   {
-    "name": "github-square"
+    "name": "github-square",
+    "unicode": "f092"
   },
   {
-    "name": "gitkraken"
+    "name": "gitkraken",
+    "unicode": "f3a6"
   },
   {
-    "name": "gitlab"
+    "name": "gitlab",
+    "unicode": "f296"
   },
   {
-    "name": "gitter"
+    "name": "gitter",
+    "unicode": "f426"
   },
   {
-    "name": "glide"
+    "name": "glide",
+    "unicode": "f2a5"
   },
   {
-    "name": "glide-g"
+    "name": "glide-g",
+    "unicode": "f2a6"
   },
   {
-    "name": "gofore"
+    "name": "gofore",
+    "unicode": "f3a7"
   },
   {
-    "name": "goodreads"
+    "name": "goodreads",
+    "unicode": "f3a8"
   },
   {
-    "name": "goodreads-g"
+    "name": "goodreads-g",
+    "unicode": "f3a9"
   },
   {
-    "name": "google"
+    "name": "google",
+    "unicode": "f1a0"
   },
   {
-    "name": "google-drive"
+    "name": "google-drive",
+    "unicode": "f3aa"
   },
   {
-    "name": "google-pay"
+    "name": "google-pay",
+    "unicode": "e079"
   },
   {
-    "name": "google-play"
+    "name": "google-play",
+    "unicode": "f3ab"
   },
   {
-    "name": "google-plus"
+    "name": "google-plus",
+    "unicode": "f2b3"
   },
   {
-    "name": "google-plus-g"
+    "name": "google-plus-g",
+    "unicode": "f0d5"
   },
   {
-    "name": "google-plus-square"
+    "name": "google-plus-square",
+    "unicode": "f0d4"
   },
   {
-    "name": "google-wallet"
+    "name": "google-wallet",
+    "unicode": "f1ee"
   },
   {
-    "name": "gratipay"
+    "name": "gratipay",
+    "unicode": "f184"
   },
   {
-    "name": "grav"
+    "name": "grav",
+    "unicode": "f2d6"
   },
   {
-    "name": "gripfire"
+    "name": "gripfire",
+    "unicode": "f3ac"
   },
   {
-    "name": "grunt"
+    "name": "grunt",
+    "unicode": "f3ad"
   },
   {
-    "name": "guilded"
+    "name": "guilded",
+    "unicode": "e07e"
   },
   {
-    "name": "gulp"
+    "name": "gulp",
+    "unicode": "f3ae"
   },
   {
-    "name": "hacker-news"
+    "name": "hacker-news",
+    "unicode": "f1d4"
   },
   {
-    "name": "hacker-news-square"
+    "name": "hacker-news-square",
+    "unicode": "f3af"
   },
   {
-    "name": "hackerrank"
+    "name": "hackerrank",
+    "unicode": "f5f7"
   },
   {
-    "name": "hips"
+    "name": "hips",
+    "unicode": "f452"
   }
 ]
