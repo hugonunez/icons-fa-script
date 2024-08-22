@@ -1,0 +1,542 @@
+[
+  {
+    "name": "box"
+  },
+  {
+    "name": "box-open"
+  },
+  {
+    "name": "box-tissue"
+  },
+  {
+    "name": "boxes"
+  },
+  {
+    "name": "braille"
+  },
+  {
+    "name": "brain"
+  },
+  {
+    "name": "bread-slice"
+  },
+  {
+    "name": "briefcase"
+  },
+  {
+    "name": "briefcase-medical"
+  },
+  {
+    "name": "broadcast-tower"
+  },
+  {
+    "name": "broom"
+  },
+  {
+    "name": "brush"
+  },
+  {
+    "name": "bug"
+  },
+  {
+    "name": "building"
+  },
+  {
+    "name": "bullhorn"
+  },
+  {
+    "name": "bullseye"
+  },
+  {
+    "name": "burn"
+  },
+  {
+    "name": "bus"
+  },
+  {
+    "name": "bus-alt"
+  },
+  {
+    "name": "business-time"
+  },
+  {
+    "name": "calculator"
+  },
+  {
+    "name": "calendar"
+  },
+  {
+    "name": "calendar-alt"
+  },
+  {
+    "name": "calendar-check"
+  },
+  {
+    "name": "calendar-day"
+  },
+  {
+    "name": "calendar-minus"
+  },
+  {
+    "name": "calendar-plus"
+  },
+  {
+    "name": "calendar-times"
+  },
+  {
+    "name": "calendar-week"
+  },
+  {
+    "name": "camera"
+  },
+  {
+    "name": "camera-retro"
+  },
+  {
+    "name": "campground"
+  },
+  {
+    "name": "candy-cane"
+  },
+  {
+    "name": "cannabis"
+  },
+  {
+    "name": "capsules"
+  },
+  {
+    "name": "car"
+  },
+  {
+    "name": "car-alt"
+  },
+  {
+    "name": "car-battery"
+  },
+  {
+    "name": "car-crash"
+  },
+  {
+    "name": "car-side"
+  },
+  {
+    "name": "caravan"
+  },
+  {
+    "name": "caret-down"
+  },
+  {
+    "name": "caret-left"
+  },
+  {
+    "name": "caret-right"
+  },
+  {
+    "name": "caret-square-down"
+  },
+  {
+    "name": "caret-square-left"
+  },
+  {
+    "name": "caret-square-right"
+  },
+  {
+    "name": "caret-square-up"
+  },
+  {
+    "name": "caret-up"
+  },
+  {
+    "name": "carrot"
+  },
+  {
+    "name": "cart-arrow-down"
+  },
+  {
+    "name": "cart-plus"
+  },
+  {
+    "name": "cash-register"
+  },
+  {
+    "name": "cat"
+  },
+  {
+    "name": "certificate"
+  },
+  {
+    "name": "chair"
+  },
+  {
+    "name": "chalkboard"
+  },
+  {
+    "name": "chalkboard-teacher"
+  },
+  {
+    "name": "charging-station"
+  },
+  {
+    "name": "chart-area"
+  },
+  {
+    "name": "chart-bar"
+  },
+  {
+    "name": "chart-line"
+  },
+  {
+    "name": "chart-pie"
+  },
+  {
+    "name": "check"
+  },
+  {
+    "name": "check-circle"
+  },
+  {
+    "name": "check-double"
+  },
+  {
+    "name": "check-square"
+  },
+  {
+    "name": "cheese"
+  },
+  {
+    "name": "chess"
+  },
+  {
+    "name": "chess-bishop"
+  },
+  {
+    "name": "chess-board"
+  },
+  {
+    "name": "chess-king"
+  },
+  {
+    "name": "chess-knight"
+  },
+  {
+    "name": "chess-pawn"
+  },
+  {
+    "name": "chess-queen"
+  },
+  {
+    "name": "chess-rook"
+  },
+  {
+    "name": "chevron-circle-down"
+  },
+  {
+    "name": "chevron-circle-left"
+  },
+  {
+    "name": "chevron-circle-right"
+  },
+  {
+    "name": "chevron-circle-up"
+  },
+  {
+    "name": "chevron-down"
+  },
+  {
+    "name": "chevron-left"
+  },
+  {
+    "name": "chevron-right"
+  },
+  {
+    "name": "chevron-up"
+  },
+  {
+    "name": "child"
+  },
+  {
+    "name": "church"
+  },
+  {
+    "name": "circle"
+  },
+  {
+    "name": "circle-notch"
+  },
+  {
+    "name": "city"
+  },
+  {
+    "name": "clinic-medical"
+  },
+  {
+    "name": "clipboard"
+  },
+  {
+    "name": "clipboard-check"
+  },
+  {
+    "name": "clipboard-list"
+  },
+  {
+    "name": "clock"
+  },
+  {
+    "name": "clone"
+  },
+  {
+    "name": "closed-captioning"
+  },
+  {
+    "name": "cloud"
+  },
+  {
+    "name": "cloud-download-alt"
+  },
+  {
+    "name": "cloud-meatball"
+  },
+  {
+    "name": "cloud-moon"
+  },
+  {
+    "name": "cloud-moon-rain"
+  },
+  {
+    "name": "cloud-rain"
+  },
+  {
+    "name": "cloud-showers-heavy"
+  },
+  {
+    "name": "cloud-sun"
+  },
+  {
+    "name": "cloud-sun-rain"
+  },
+  {
+    "name": "cloud-upload-alt"
+  },
+  {
+    "name": "cocktail"
+  },
+  {
+    "name": "code"
+  },
+  {
+    "name": "code-branch"
+  },
+  {
+    "name": "coffee"
+  },
+  {
+    "name": "cog"
+  },
+  {
+    "name": "cogs"
+  },
+  {
+    "name": "coins"
+  },
+  {
+    "name": "columns"
+  },
+  {
+    "name": "comment"
+  },
+  {
+    "name": "comment-alt"
+  },
+  {
+    "name": "comment-dollar"
+  },
+  {
+    "name": "comment-dots"
+  },
+  {
+    "name": "comment-medical"
+  },
+  {
+    "name": "comment-slash"
+  },
+  {
+    "name": "comments"
+  },
+  {
+    "name": "comments-dollar"
+  },
+  {
+    "name": "compact-disc"
+  },
+  {
+    "name": "compass"
+  },
+  {
+    "name": "compress"
+  },
+  {
+    "name": "compress-alt"
+  },
+  {
+    "name": "compress-arrows-alt"
+  },
+  {
+    "name": "concierge-bell"
+  },
+  {
+    "name": "cookie"
+  },
+  {
+    "name": "cookie-bite"
+  },
+  {
+    "name": "copy"
+  },
+  {
+    "name": "copyright"
+  },
+  {
+    "name": "couch"
+  },
+  {
+    "name": "credit-card"
+  },
+  {
+    "name": "crop"
+  },
+  {
+    "name": "crop-alt"
+  },
+  {
+    "name": "cross"
+  },
+  {
+    "name": "crosshairs"
+  },
+  {
+    "name": "crow"
+  },
+  {
+    "name": "crown"
+  },
+  {
+    "name": "crutch"
+  },
+  {
+    "name": "cube"
+  },
+  {
+    "name": "cubes"
+  },
+  {
+    "name": "cut"
+  },
+  {
+    "name": "database"
+  },
+  {
+    "name": "deaf"
+  },
+  {
+    "name": "democrat"
+  },
+  {
+    "name": "desktop"
+  },
+  {
+    "name": "dharmachakra"
+  },
+  {
+    "name": "diagnoses"
+  },
+  {
+    "name": "dice"
+  },
+  {
+    "name": "dice-d20"
+  },
+  {
+    "name": "dice-d6"
+  },
+  {
+    "name": "dice-five"
+  },
+  {
+    "name": "dice-four"
+  },
+  {
+    "name": "dice-one"
+  },
+  {
+    "name": "dice-six"
+  },
+  {
+    "name": "dice-three"
+  },
+  {
+    "name": "dice-two"
+  },
+  {
+    "name": "digital-tachograph"
+  },
+  {
+    "name": "directions"
+  },
+  {
+    "name": "disease"
+  },
+  {
+    "name": "divide"
+  },
+  {
+    "name": "dizzy"
+  },
+  {
+    "name": "dna"
+  },
+  {
+    "name": "dog"
+  },
+  {
+    "name": "dollar-sign"
+  },
+  {
+    "name": "dolly"
+  },
+  {
+    "name": "dolly-flatbed"
+  },
+  {
+    "name": "donate"
+  },
+  {
+    "name": "door-closed"
+  },
+  {
+    "name": "door-open"
+  },
+  {
+    "name": "dot-circle"
+  },
+  {
+    "name": "dove"
+  },
+  {
+    "name": "download"
+  },
+  {
+    "name": "drafting-compass"
+  },
+  {
+    "name": "dragon"
+  },
+  {
+    "name": "draw-polygon"
+  },
+  {
+    "name": "drum"
+  },
+  {
+    "name": "drum-steelpan"
+  }
+]

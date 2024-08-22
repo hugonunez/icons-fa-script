@@ -1,0 +1,506 @@
+[
+  {
+    "name": "500px"
+  },
+  {
+    "name": "accessible-icon"
+  },
+  {
+    "name": "accusoft"
+  },
+  {
+    "name": "acquisitions-incorporated"
+  },
+  {
+    "name": "address-book"
+  },
+  {
+    "name": "address-card"
+  },
+  {
+    "name": "adn"
+  },
+  {
+    "name": "adversal"
+  },
+  {
+    "name": "affiliatetheme"
+  },
+  {
+    "name": "airbnb"
+  },
+  {
+    "name": "algolia"
+  },
+  {
+    "name": "alipay"
+  },
+  {
+    "name": "amazon"
+  },
+  {
+    "name": "amazon-pay"
+  },
+  {
+    "name": "amilia"
+  },
+  {
+    "name": "android"
+  },
+  {
+    "name": "angellist"
+  },
+  {
+    "name": "angry"
+  },
+  {
+    "name": "angrycreative"
+  },
+  {
+    "name": "angular"
+  },
+  {
+    "name": "arrow-alt-circle-down"
+  },
+  {
+    "name": "arrow-alt-circle-left"
+  },
+  {
+    "name": "arrow-alt-circle-right"
+  },
+  {
+    "name": "arrow-alt-circle-up"
+  },
+  {
+    "name": "bell"
+  },
+  {
+    "name": "bell-slash"
+  },
+  {
+    "name": "bookmark"
+  },
+  {
+    "name": "building"
+  },
+  {
+    "name": "calendar"
+  },
+  {
+    "name": "calendar-alt"
+  },
+  {
+    "name": "calendar-check"
+  },
+  {
+    "name": "calendar-minus"
+  },
+  {
+    "name": "calendar-plus"
+  },
+  {
+    "name": "calendar-times"
+  },
+  {
+    "name": "caret-square-down"
+  },
+  {
+    "name": "caret-square-left"
+  },
+  {
+    "name": "caret-square-right"
+  },
+  {
+    "name": "caret-square-up"
+  },
+  {
+    "name": "chart-bar"
+  },
+  {
+    "name": "check-circle"
+  },
+  {
+    "name": "check-square"
+  },
+  {
+    "name": "circle"
+  },
+  {
+    "name": "clipboard"
+  },
+  {
+    "name": "clock"
+  },
+  {
+    "name": "clone"
+  },
+  {
+    "name": "closed-captioning"
+  },
+  {
+    "name": "comment"
+  },
+  {
+    "name": "comment-alt"
+  },
+  {
+    "name": "comment-dots"
+  },
+  {
+    "name": "comments"
+  },
+  {
+    "name": "compass"
+  },
+  {
+    "name": "copy"
+  },
+  {
+    "name": "copyright"
+  },
+  {
+    "name": "credit-card"
+  },
+  {
+    "name": "dizzy"
+  },
+  {
+    "name": "dot-circle"
+  },
+  {
+    "name": "edit"
+  },
+  {
+    "name": "envelope"
+  },
+  {
+    "name": "envelope-open"
+  },
+  {
+    "name": "eye"
+  },
+  {
+    "name": "eye-slash"
+  },
+  {
+    "name": "file"
+  },
+  {
+    "name": "file-alt"
+  },
+  {
+    "name": "file-archive"
+  },
+  {
+    "name": "file-audio"
+  },
+  {
+    "name": "file-code"
+  },
+  {
+    "name": "file-excel"
+  },
+  {
+    "name": "file-image"
+  },
+  {
+    "name": "file-pdf"
+  },
+  {
+    "name": "file-powerpoint"
+  },
+  {
+    "name": "file-video"
+  },
+  {
+    "name": "file-word"
+  },
+  {
+    "name": "flag"
+  },
+  {
+    "name": "flushed"
+  },
+  {
+    "name": "folder"
+  },
+  {
+    "name": "folder-open"
+  },
+  {
+    "name": "frown"
+  },
+  {
+    "name": "frown-open"
+  },
+  {
+    "name": "futbol"
+  },
+  {
+    "name": "gem"
+  },
+  {
+    "name": "grimace"
+  },
+  {
+    "name": "grin"
+  },
+  {
+    "name": "grin-alt"
+  },
+  {
+    "name": "grin-beam"
+  },
+  {
+    "name": "grin-beam-sweat"
+  },
+  {
+    "name": "grin-hearts"
+  },
+  {
+    "name": "grin-squint"
+  },
+  {
+    "name": "grin-squint-tears"
+  },
+  {
+    "name": "grin-stars"
+  },
+  {
+    "name": "grin-tears"
+  },
+  {
+    "name": "grin-tongue"
+  },
+  {
+    "name": "grin-tongue-squint"
+  },
+  {
+    "name": "grin-tongue-wink"
+  },
+  {
+    "name": "grin-wink"
+  },
+  {
+    "name": "hand-lizard"
+  },
+  {
+    "name": "hand-paper"
+  },
+  {
+    "name": "hand-peace"
+  },
+  {
+    "name": "hand-point-down"
+  },
+  {
+    "name": "hand-point-left"
+  },
+  {
+    "name": "hand-point-right"
+  },
+  {
+    "name": "hand-point-up"
+  },
+  {
+    "name": "hand-pointer"
+  },
+  {
+    "name": "hand-rock"
+  },
+  {
+    "name": "hand-scissors"
+  },
+  {
+    "name": "hand-spock"
+  },
+  {
+    "name": "handshake"
+  },
+  {
+    "name": "hdd"
+  },
+  {
+    "name": "heart"
+  },
+  {
+    "name": "hospital"
+  },
+  {
+    "name": "hourglass"
+  },
+  {
+    "name": "id-badge"
+  },
+  {
+    "name": "id-card"
+  },
+  {
+    "name": "image"
+  },
+  {
+    "name": "images"
+  },
+  {
+    "name": "keyboard"
+  },
+  {
+    "name": "kiss"
+  },
+  {
+    "name": "kiss-beam"
+  },
+  {
+    "name": "kiss-wink-heart"
+  },
+  {
+    "name": "laugh"
+  },
+  {
+    "name": "laugh-beam"
+  },
+  {
+    "name": "laugh-squint"
+  },
+  {
+    "name": "laugh-wink"
+  },
+  {
+    "name": "lemon"
+  },
+  {
+    "name": "life-ring"
+  },
+  {
+    "name": "lightbulb"
+  },
+  {
+    "name": "list-alt"
+  },
+  {
+    "name": "map"
+  },
+  {
+    "name": "meh"
+  },
+  {
+    "name": "meh-blank"
+  },
+  {
+    "name": "meh-rolling-eyes"
+  },
+  {
+    "name": "minus-square"
+  },
+  {
+    "name": "money-bill-alt"
+  },
+  {
+    "name": "moon"
+  },
+  {
+    "name": "newspaper"
+  },
+  {
+    "name": "object-group"
+  },
+  {
+    "name": "object-ungroup"
+  },
+  {
+    "name": "paper-plane"
+  },
+  {
+    "name": "pause-circle"
+  },
+  {
+    "name": "play-circle"
+  },
+  {
+    "name": "plus-square"
+  },
+  {
+    "name": "question-circle"
+  },
+  {
+    "name": "registered"
+  },
+  {
+    "name": "sad-cry"
+  },
+  {
+    "name": "sad-tear"
+  },
+  {
+    "name": "save"
+  },
+  {
+    "name": "share-square"
+  },
+  {
+    "name": "smile"
+  },
+  {
+    "name": "smile-beam"
+  },
+  {
+    "name": "smile-wink"
+  },
+  {
+    "name": "snowflake"
+  },
+  {
+    "name": "square"
+  },
+  {
+    "name": "star"
+  },
+  {
+    "name": "star-half"
+  },
+  {
+    "name": "sticky-note"
+  },
+  {
+    "name": "stop-circle"
+  },
+  {
+    "name": "sun"
+  },
+  {
+    "name": "surprise"
+  },
+  {
+    "name": "thumbs-down"
+  },
+  {
+    "name": "thumbs-up"
+  },
+  {
+    "name": "times-circle"
+  },
+  {
+    "name": "tired"
+  },
+  {
+    "name": "trash-alt"
+  },
+  {
+    "name": "user"
+  },
+  {
+    "name": "user-circle"
+  },
+  {
+    "name": "window-close"
+  },
+  {
+    "name": "window-maximize"
+  },
+  {
+    "name": "window-minimize"
+  },
+  {
+    "name": "window-restore"
+  }
+]

@@ -1,0 +1,542 @@
+[
+  {
+    "name": "prescription-bottle-medical"
+  },
+  {
+    "name": "print"
+  },
+  {
+    "name": "product-hunt"
+  },
+  {
+    "name": "pump-medical"
+  },
+  {
+    "name": "pump-soap"
+  },
+  {
+    "name": "pushed"
+  },
+  {
+    "name": "puzzle-piece"
+  },
+  {
+    "name": "python"
+  },
+  {
+    "name": "q"
+  },
+  {
+    "name": "qq"
+  },
+  {
+    "name": "qrcode"
+  },
+  {
+    "name": "question"
+  },
+  {
+    "name": "quinscape"
+  },
+  {
+    "name": "quora"
+  },
+  {
+    "name": "quote-left"
+  },
+  {
+    "name": "quote-right"
+  },
+  {
+    "name": "r"
+  },
+  {
+    "name": "r-project"
+  },
+  {
+    "name": "radiation"
+  },
+  {
+    "name": "radio"
+  },
+  {
+    "name": "rainbow"
+  },
+  {
+    "name": "ranking-star"
+  },
+  {
+    "name": "raspberry-pi"
+  },
+  {
+    "name": "ravelry"
+  },
+  {
+    "name": "react"
+  },
+  {
+    "name": "reacteurope"
+  },
+  {
+    "name": "readme"
+  },
+  {
+    "name": "rebel"
+  },
+  {
+    "name": "receipt"
+  },
+  {
+    "name": "record-vinyl"
+  },
+  {
+    "name": "rectangle-ad"
+  },
+  {
+    "name": "rectangle-list"
+  },
+  {
+    "name": "rectangle-list"
+  },
+  {
+    "name": "rectangle-xmark"
+  },
+  {
+    "name": "rectangle-xmark"
+  },
+  {
+    "name": "recycle"
+  },
+  {
+    "name": "red-river"
+  },
+  {
+    "name": "reddit"
+  },
+  {
+    "name": "reddit-alien"
+  },
+  {
+    "name": "redhat"
+  },
+  {
+    "name": "registered"
+  },
+  {
+    "name": "registered"
+  },
+  {
+    "name": "renren"
+  },
+  {
+    "name": "repeat"
+  },
+  {
+    "name": "reply"
+  },
+  {
+    "name": "reply-all"
+  },
+  {
+    "name": "replyd"
+  },
+  {
+    "name": "republican"
+  },
+  {
+    "name": "researchgate"
+  },
+  {
+    "name": "resolving"
+  },
+  {
+    "name": "restroom"
+  },
+  {
+    "name": "retweet"
+  },
+  {
+    "name": "rev"
+  },
+  {
+    "name": "ribbon"
+  },
+  {
+    "name": "right-from-bracket"
+  },
+  {
+    "name": "right-left"
+  },
+  {
+    "name": "right-long"
+  },
+  {
+    "name": "right-to-bracket"
+  },
+  {
+    "name": "ring"
+  },
+  {
+    "name": "road"
+  },
+  {
+    "name": "road-barrier"
+  },
+  {
+    "name": "road-bridge"
+  },
+  {
+    "name": "road-circle-check"
+  },
+  {
+    "name": "road-circle-exclamation"
+  },
+  {
+    "name": "road-circle-xmark"
+  },
+  {
+    "name": "road-lock"
+  },
+  {
+    "name": "road-spikes"
+  },
+  {
+    "name": "robot"
+  },
+  {
+    "name": "rocket"
+  },
+  {
+    "name": "rocketchat"
+  },
+  {
+    "name": "rockrms"
+  },
+  {
+    "name": "rotate"
+  },
+  {
+    "name": "rotate-left"
+  },
+  {
+    "name": "rotate-right"
+  },
+  {
+    "name": "route"
+  },
+  {
+    "name": "rss"
+  },
+  {
+    "name": "ruble-sign"
+  },
+  {
+    "name": "rug"
+  },
+  {
+    "name": "ruler"
+  },
+  {
+    "name": "ruler-combined"
+  },
+  {
+    "name": "ruler-horizontal"
+  },
+  {
+    "name": "ruler-vertical"
+  },
+  {
+    "name": "rupee-sign"
+  },
+  {
+    "name": "rupiah-sign"
+  },
+  {
+    "name": "rust"
+  },
+  {
+    "name": "s"
+  },
+  {
+    "name": "sack-dollar"
+  },
+  {
+    "name": "sack-xmark"
+  },
+  {
+    "name": "safari"
+  },
+  {
+    "name": "sailboat"
+  },
+  {
+    "name": "salesforce"
+  },
+  {
+    "name": "sass"
+  },
+  {
+    "name": "satellite"
+  },
+  {
+    "name": "satellite-dish"
+  },
+  {
+    "name": "scale-balanced"
+  },
+  {
+    "name": "scale-unbalanced"
+  },
+  {
+    "name": "scale-unbalanced-flip"
+  },
+  {
+    "name": "schlix"
+  },
+  {
+    "name": "school"
+  },
+  {
+    "name": "school-circle-check"
+  },
+  {
+    "name": "school-circle-exclamation"
+  },
+  {
+    "name": "school-circle-xmark"
+  },
+  {
+    "name": "school-flag"
+  },
+  {
+    "name": "school-lock"
+  },
+  {
+    "name": "scissors"
+  },
+  {
+    "name": "screenpal"
+  },
+  {
+    "name": "screwdriver"
+  },
+  {
+    "name": "screwdriver-wrench"
+  },
+  {
+    "name": "scribd"
+  },
+  {
+    "name": "scroll"
+  },
+  {
+    "name": "scroll-torah"
+  },
+  {
+    "name": "sd-card"
+  },
+  {
+    "name": "searchengin"
+  },
+  {
+    "name": "section"
+  },
+  {
+    "name": "seedling"
+  },
+  {
+    "name": "sellcast"
+  },
+  {
+    "name": "sellsy"
+  },
+  {
+    "name": "server"
+  },
+  {
+    "name": "servicestack"
+  },
+  {
+    "name": "shapes"
+  },
+  {
+    "name": "share"
+  },
+  {
+    "name": "share-from-square"
+  },
+  {
+    "name": "share-from-square"
+  },
+  {
+    "name": "share-nodes"
+  },
+  {
+    "name": "sheet-plastic"
+  },
+  {
+    "name": "shekel-sign"
+  },
+  {
+    "name": "shield"
+  },
+  {
+    "name": "shield-cat"
+  },
+  {
+    "name": "shield-dog"
+  },
+  {
+    "name": "shield-halved"
+  },
+  {
+    "name": "shield-heart"
+  },
+  {
+    "name": "shield-virus"
+  },
+  {
+    "name": "ship"
+  },
+  {
+    "name": "shirt"
+  },
+  {
+    "name": "shirtsinbulk"
+  },
+  {
+    "name": "shoe-prints"
+  },
+  {
+    "name": "shoelace"
+  },
+  {
+    "name": "shop"
+  },
+  {
+    "name": "shop-lock"
+  },
+  {
+    "name": "shop-slash"
+  },
+  {
+    "name": "shopify"
+  },
+  {
+    "name": "shopware"
+  },
+  {
+    "name": "shower"
+  },
+  {
+    "name": "shrimp"
+  },
+  {
+    "name": "shuffle"
+  },
+  {
+    "name": "shuttle-space"
+  },
+  {
+    "name": "sign-hanging"
+  },
+  {
+    "name": "signal"
+  },
+  {
+    "name": "signal-messenger"
+  },
+  {
+    "name": "signature"
+  },
+  {
+    "name": "signs-post"
+  },
+  {
+    "name": "sim-card"
+  },
+  {
+    "name": "simplybuilt"
+  },
+  {
+    "name": "sink"
+  },
+  {
+    "name": "sistrix"
+  },
+  {
+    "name": "sitemap"
+  },
+  {
+    "name": "sith"
+  },
+  {
+    "name": "sitrox"
+  },
+  {
+    "name": "sketch"
+  },
+  {
+    "name": "skull"
+  },
+  {
+    "name": "skull-crossbones"
+  },
+  {
+    "name": "skyatlas"
+  },
+  {
+    "name": "skype"
+  },
+  {
+    "name": "slack"
+  },
+  {
+    "name": "slash"
+  },
+  {
+    "name": "sleigh"
+  },
+  {
+    "name": "sliders"
+  },
+  {
+    "name": "slideshare"
+  },
+  {
+    "name": "smog"
+  },
+  {
+    "name": "smoking"
+  },
+  {
+    "name": "snapchat"
+  },
+  {
+    "name": "snowflake"
+  },
+  {
+    "name": "snowflake"
+  },
+  {
+    "name": "snowman"
+  },
+  {
+    "name": "snowplow"
+  },
+  {
+    "name": "soap"
+  },
+  {
+    "name": "socks"
+  },
+  {
+    "name": "solar-panel"
+  },
+  {
+    "name": "sort"
+  },
+  {
+    "name": "sort-down"
+  }
+]

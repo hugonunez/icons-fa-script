@@ -1,0 +1,542 @@
+[
+  {
+    "name": "text-height"
+  },
+  {
+    "name": "text-slash"
+  },
+  {
+    "name": "text-width"
+  },
+  {
+    "name": "the-red-yeti"
+  },
+  {
+    "name": "themeco"
+  },
+  {
+    "name": "themeisle"
+  },
+  {
+    "name": "thermometer"
+  },
+  {
+    "name": "think-peaks"
+  },
+  {
+    "name": "threads"
+  },
+  {
+    "name": "thumbs-down"
+  },
+  {
+    "name": "thumbs-down"
+  },
+  {
+    "name": "thumbs-up"
+  },
+  {
+    "name": "thumbs-up"
+  },
+  {
+    "name": "thumbtack"
+  },
+  {
+    "name": "thumbtack-slash"
+  },
+  {
+    "name": "ticket"
+  },
+  {
+    "name": "ticket-simple"
+  },
+  {
+    "name": "tiktok"
+  },
+  {
+    "name": "timeline"
+  },
+  {
+    "name": "toggle-off"
+  },
+  {
+    "name": "toggle-on"
+  },
+  {
+    "name": "toilet"
+  },
+  {
+    "name": "toilet-paper"
+  },
+  {
+    "name": "toilet-paper-slash"
+  },
+  {
+    "name": "toilet-portable"
+  },
+  {
+    "name": "toilets-portable"
+  },
+  {
+    "name": "toolbox"
+  },
+  {
+    "name": "tooth"
+  },
+  {
+    "name": "torii-gate"
+  },
+  {
+    "name": "tornado"
+  },
+  {
+    "name": "tower-broadcast"
+  },
+  {
+    "name": "tower-cell"
+  },
+  {
+    "name": "tower-observation"
+  },
+  {
+    "name": "tractor"
+  },
+  {
+    "name": "trade-federation"
+  },
+  {
+    "name": "trademark"
+  },
+  {
+    "name": "traffic-light"
+  },
+  {
+    "name": "trailer"
+  },
+  {
+    "name": "train"
+  },
+  {
+    "name": "train-subway"
+  },
+  {
+    "name": "train-tram"
+  },
+  {
+    "name": "transgender"
+  },
+  {
+    "name": "trash"
+  },
+  {
+    "name": "trash-arrow-up"
+  },
+  {
+    "name": "trash-can"
+  },
+  {
+    "name": "trash-can"
+  },
+  {
+    "name": "trash-can-arrow-up"
+  },
+  {
+    "name": "tree"
+  },
+  {
+    "name": "tree-city"
+  },
+  {
+    "name": "trello"
+  },
+  {
+    "name": "triangle-exclamation"
+  },
+  {
+    "name": "trophy"
+  },
+  {
+    "name": "trowel"
+  },
+  {
+    "name": "trowel-bricks"
+  },
+  {
+    "name": "truck"
+  },
+  {
+    "name": "truck-arrow-right"
+  },
+  {
+    "name": "truck-droplet"
+  },
+  {
+    "name": "truck-fast"
+  },
+  {
+    "name": "truck-field"
+  },
+  {
+    "name": "truck-field-un"
+  },
+  {
+    "name": "truck-front"
+  },
+  {
+    "name": "truck-medical"
+  },
+  {
+    "name": "truck-monster"
+  },
+  {
+    "name": "truck-moving"
+  },
+  {
+    "name": "truck-pickup"
+  },
+  {
+    "name": "truck-plane"
+  },
+  {
+    "name": "truck-ramp-box"
+  },
+  {
+    "name": "tty"
+  },
+  {
+    "name": "tumblr"
+  },
+  {
+    "name": "turkish-lira-sign"
+  },
+  {
+    "name": "turn-down"
+  },
+  {
+    "name": "turn-up"
+  },
+  {
+    "name": "tv"
+  },
+  {
+    "name": "twitch"
+  },
+  {
+    "name": "twitter"
+  },
+  {
+    "name": "typo3"
+  },
+  {
+    "name": "u"
+  },
+  {
+    "name": "uber"
+  },
+  {
+    "name": "ubuntu"
+  },
+  {
+    "name": "uikit"
+  },
+  {
+    "name": "umbraco"
+  },
+  {
+    "name": "umbrella"
+  },
+  {
+    "name": "umbrella-beach"
+  },
+  {
+    "name": "uncharted"
+  },
+  {
+    "name": "underline"
+  },
+  {
+    "name": "uniregistry"
+  },
+  {
+    "name": "unity"
+  },
+  {
+    "name": "universal-access"
+  },
+  {
+    "name": "unlock"
+  },
+  {
+    "name": "unlock-keyhole"
+  },
+  {
+    "name": "unsplash"
+  },
+  {
+    "name": "untappd"
+  },
+  {
+    "name": "up-down"
+  },
+  {
+    "name": "up-down-left-right"
+  },
+  {
+    "name": "up-long"
+  },
+  {
+    "name": "up-right-and-down-left-from-center"
+  },
+  {
+    "name": "up-right-from-square"
+  },
+  {
+    "name": "upload"
+  },
+  {
+    "name": "ups"
+  },
+  {
+    "name": "upwork"
+  },
+  {
+    "name": "usb"
+  },
+  {
+    "name": "user"
+  },
+  {
+    "name": "user"
+  },
+  {
+    "name": "user-astronaut"
+  },
+  {
+    "name": "user-check"
+  },
+  {
+    "name": "user-clock"
+  },
+  {
+    "name": "user-doctor"
+  },
+  {
+    "name": "user-gear"
+  },
+  {
+    "name": "user-graduate"
+  },
+  {
+    "name": "user-group"
+  },
+  {
+    "name": "user-injured"
+  },
+  {
+    "name": "user-large"
+  },
+  {
+    "name": "user-large-slash"
+  },
+  {
+    "name": "user-lock"
+  },
+  {
+    "name": "user-minus"
+  },
+  {
+    "name": "user-ninja"
+  },
+  {
+    "name": "user-nurse"
+  },
+  {
+    "name": "user-pen"
+  },
+  {
+    "name": "user-plus"
+  },
+  {
+    "name": "user-secret"
+  },
+  {
+    "name": "user-shield"
+  },
+  {
+    "name": "user-slash"
+  },
+  {
+    "name": "user-tag"
+  },
+  {
+    "name": "user-tie"
+  },
+  {
+    "name": "user-xmark"
+  },
+  {
+    "name": "users"
+  },
+  {
+    "name": "users-between-lines"
+  },
+  {
+    "name": "users-gear"
+  },
+  {
+    "name": "users-line"
+  },
+  {
+    "name": "users-rays"
+  },
+  {
+    "name": "users-rectangle"
+  },
+  {
+    "name": "users-slash"
+  },
+  {
+    "name": "users-viewfinder"
+  },
+  {
+    "name": "usps"
+  },
+  {
+    "name": "ussunnah"
+  },
+  {
+    "name": "utensils"
+  },
+  {
+    "name": "v"
+  },
+  {
+    "name": "vaadin"
+  },
+  {
+    "name": "van-shuttle"
+  },
+  {
+    "name": "vault"
+  },
+  {
+    "name": "vector-square"
+  },
+  {
+    "name": "venus"
+  },
+  {
+    "name": "venus-double"
+  },
+  {
+    "name": "venus-mars"
+  },
+  {
+    "name": "vest"
+  },
+  {
+    "name": "vest-patches"
+  },
+  {
+    "name": "viacoin"
+  },
+  {
+    "name": "viadeo"
+  },
+  {
+    "name": "vial"
+  },
+  {
+    "name": "vial-circle-check"
+  },
+  {
+    "name": "vial-virus"
+  },
+  {
+    "name": "vials"
+  },
+  {
+    "name": "viber"
+  },
+  {
+    "name": "video"
+  },
+  {
+    "name": "video-slash"
+  },
+  {
+    "name": "vihara"
+  },
+  {
+    "name": "vimeo"
+  },
+  {
+    "name": "vimeo-v"
+  },
+  {
+    "name": "vine"
+  },
+  {
+    "name": "virus"
+  },
+  {
+    "name": "virus-covid"
+  },
+  {
+    "name": "virus-covid-slash"
+  },
+  {
+    "name": "virus-slash"
+  },
+  {
+    "name": "viruses"
+  },
+  {
+    "name": "vk"
+  },
+  {
+    "name": "vnv"
+  },
+  {
+    "name": "voicemail"
+  },
+  {
+    "name": "volcano"
+  },
+  {
+    "name": "volleyball"
+  },
+  {
+    "name": "volume-high"
+  },
+  {
+    "name": "volume-low"
+  },
+  {
+    "name": "volume-off"
+  },
+  {
+    "name": "volume-xmark"
+  },
+  {
+    "name": "vr-cardboard"
+  },
+  {
+    "name": "vuejs"
+  },
+  {
+    "name": "w"
+  },
+  {
+    "name": "walkie-talkie"
+  },
+  {
+    "name": "wallet"
+  },
+  {
+    "name": "wand-magic"
+  },
+  {
+    "name": "wand-magic-sparkles"
+  }
+]

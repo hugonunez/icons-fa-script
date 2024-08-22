@@ -1,0 +1,542 @@
+[
+  {
+    "name": "chevron-down"
+  },
+  {
+    "name": "chevron-left"
+  },
+  {
+    "name": "chevron-right"
+  },
+  {
+    "name": "chevron-up"
+  },
+  {
+    "name": "child"
+  },
+  {
+    "name": "child-combatant"
+  },
+  {
+    "name": "child-dress"
+  },
+  {
+    "name": "child-reaching"
+  },
+  {
+    "name": "children"
+  },
+  {
+    "name": "chrome"
+  },
+  {
+    "name": "chromecast"
+  },
+  {
+    "name": "church"
+  },
+  {
+    "name": "circle"
+  },
+  {
+    "name": "circle"
+  },
+  {
+    "name": "circle-arrow-down"
+  },
+  {
+    "name": "circle-arrow-left"
+  },
+  {
+    "name": "circle-arrow-right"
+  },
+  {
+    "name": "circle-arrow-up"
+  },
+  {
+    "name": "circle-check"
+  },
+  {
+    "name": "circle-check"
+  },
+  {
+    "name": "circle-chevron-down"
+  },
+  {
+    "name": "circle-chevron-left"
+  },
+  {
+    "name": "circle-chevron-right"
+  },
+  {
+    "name": "circle-chevron-up"
+  },
+  {
+    "name": "circle-dollar-to-slot"
+  },
+  {
+    "name": "circle-dot"
+  },
+  {
+    "name": "circle-dot"
+  },
+  {
+    "name": "circle-down"
+  },
+  {
+    "name": "circle-down"
+  },
+  {
+    "name": "circle-exclamation"
+  },
+  {
+    "name": "circle-h"
+  },
+  {
+    "name": "circle-half-stroke"
+  },
+  {
+    "name": "circle-info"
+  },
+  {
+    "name": "circle-left"
+  },
+  {
+    "name": "circle-left"
+  },
+  {
+    "name": "circle-minus"
+  },
+  {
+    "name": "circle-nodes"
+  },
+  {
+    "name": "circle-notch"
+  },
+  {
+    "name": "circle-pause"
+  },
+  {
+    "name": "circle-pause"
+  },
+  {
+    "name": "circle-play"
+  },
+  {
+    "name": "circle-play"
+  },
+  {
+    "name": "circle-plus"
+  },
+  {
+    "name": "circle-question"
+  },
+  {
+    "name": "circle-question"
+  },
+  {
+    "name": "circle-radiation"
+  },
+  {
+    "name": "circle-right"
+  },
+  {
+    "name": "circle-right"
+  },
+  {
+    "name": "circle-stop"
+  },
+  {
+    "name": "circle-stop"
+  },
+  {
+    "name": "circle-up"
+  },
+  {
+    "name": "circle-up"
+  },
+  {
+    "name": "circle-user"
+  },
+  {
+    "name": "circle-user"
+  },
+  {
+    "name": "circle-xmark"
+  },
+  {
+    "name": "circle-xmark"
+  },
+  {
+    "name": "city"
+  },
+  {
+    "name": "clapperboard"
+  },
+  {
+    "name": "clipboard"
+  },
+  {
+    "name": "clipboard"
+  },
+  {
+    "name": "clipboard-check"
+  },
+  {
+    "name": "clipboard-list"
+  },
+  {
+    "name": "clipboard-question"
+  },
+  {
+    "name": "clipboard-user"
+  },
+  {
+    "name": "clock"
+  },
+  {
+    "name": "clock"
+  },
+  {
+    "name": "clock-rotate-left"
+  },
+  {
+    "name": "clone"
+  },
+  {
+    "name": "clone"
+  },
+  {
+    "name": "closed-captioning"
+  },
+  {
+    "name": "closed-captioning"
+  },
+  {
+    "name": "cloud"
+  },
+  {
+    "name": "cloud-arrow-down"
+  },
+  {
+    "name": "cloud-arrow-up"
+  },
+  {
+    "name": "cloud-bolt"
+  },
+  {
+    "name": "cloud-meatball"
+  },
+  {
+    "name": "cloud-moon"
+  },
+  {
+    "name": "cloud-moon-rain"
+  },
+  {
+    "name": "cloud-rain"
+  },
+  {
+    "name": "cloud-showers-heavy"
+  },
+  {
+    "name": "cloud-showers-water"
+  },
+  {
+    "name": "cloud-sun"
+  },
+  {
+    "name": "cloud-sun-rain"
+  },
+  {
+    "name": "cloudflare"
+  },
+  {
+    "name": "cloudscale"
+  },
+  {
+    "name": "cloudsmith"
+  },
+  {
+    "name": "cloudversify"
+  },
+  {
+    "name": "clover"
+  },
+  {
+    "name": "cmplid"
+  },
+  {
+    "name": "code"
+  },
+  {
+    "name": "code-branch"
+  },
+  {
+    "name": "code-commit"
+  },
+  {
+    "name": "code-compare"
+  },
+  {
+    "name": "code-fork"
+  },
+  {
+    "name": "code-merge"
+  },
+  {
+    "name": "code-pull-request"
+  },
+  {
+    "name": "codepen"
+  },
+  {
+    "name": "codiepie"
+  },
+  {
+    "name": "coins"
+  },
+  {
+    "name": "colon-sign"
+  },
+  {
+    "name": "comment"
+  },
+  {
+    "name": "comment"
+  },
+  {
+    "name": "comment-dollar"
+  },
+  {
+    "name": "comment-dots"
+  },
+  {
+    "name": "comment-dots"
+  },
+  {
+    "name": "comment-medical"
+  },
+  {
+    "name": "comment-slash"
+  },
+  {
+    "name": "comment-sms"
+  },
+  {
+    "name": "comments"
+  },
+  {
+    "name": "comments"
+  },
+  {
+    "name": "comments-dollar"
+  },
+  {
+    "name": "compact-disc"
+  },
+  {
+    "name": "compass"
+  },
+  {
+    "name": "compass"
+  },
+  {
+    "name": "compass-drafting"
+  },
+  {
+    "name": "compress"
+  },
+  {
+    "name": "computer"
+  },
+  {
+    "name": "computer-mouse"
+  },
+  {
+    "name": "confluence"
+  },
+  {
+    "name": "connectdevelop"
+  },
+  {
+    "name": "contao"
+  },
+  {
+    "name": "cookie"
+  },
+  {
+    "name": "cookie-bite"
+  },
+  {
+    "name": "copy"
+  },
+  {
+    "name": "copy"
+  },
+  {
+    "name": "copyright"
+  },
+  {
+    "name": "copyright"
+  },
+  {
+    "name": "cotton-bureau"
+  },
+  {
+    "name": "couch"
+  },
+  {
+    "name": "cow"
+  },
+  {
+    "name": "cpanel"
+  },
+  {
+    "name": "creative-commons"
+  },
+  {
+    "name": "creative-commons-by"
+  },
+  {
+    "name": "creative-commons-nc"
+  },
+  {
+    "name": "creative-commons-nc-eu"
+  },
+  {
+    "name": "creative-commons-nc-jp"
+  },
+  {
+    "name": "creative-commons-nd"
+  },
+  {
+    "name": "creative-commons-pd"
+  },
+  {
+    "name": "creative-commons-pd-alt"
+  },
+  {
+    "name": "creative-commons-remix"
+  },
+  {
+    "name": "creative-commons-sa"
+  },
+  {
+    "name": "creative-commons-sampling"
+  },
+  {
+    "name": "creative-commons-sampling-plus"
+  },
+  {
+    "name": "creative-commons-share"
+  },
+  {
+    "name": "creative-commons-zero"
+  },
+  {
+    "name": "credit-card"
+  },
+  {
+    "name": "credit-card"
+  },
+  {
+    "name": "critical-role"
+  },
+  {
+    "name": "crop"
+  },
+  {
+    "name": "crop-simple"
+  },
+  {
+    "name": "cross"
+  },
+  {
+    "name": "crosshairs"
+  },
+  {
+    "name": "crow"
+  },
+  {
+    "name": "crown"
+  },
+  {
+    "name": "crutch"
+  },
+  {
+    "name": "cruzeiro-sign"
+  },
+  {
+    "name": "css3"
+  },
+  {
+    "name": "css3-alt"
+  },
+  {
+    "name": "cube"
+  },
+  {
+    "name": "cubes"
+  },
+  {
+    "name": "cubes-stacked"
+  },
+  {
+    "name": "cuttlefish"
+  },
+  {
+    "name": "d"
+  },
+  {
+    "name": "d-and-d"
+  },
+  {
+    "name": "d-and-d-beyond"
+  },
+  {
+    "name": "dailymotion"
+  },
+  {
+    "name": "dart-lang"
+  },
+  {
+    "name": "dashcube"
+  },
+  {
+    "name": "database"
+  },
+  {
+    "name": "debian"
+  },
+  {
+    "name": "deezer"
+  },
+  {
+    "name": "delete-left"
+  },
+  {
+    "name": "delicious"
+  },
+  {
+    "name": "democrat"
+  },
+  {
+    "name": "deploydog"
+  },
+  {
+    "name": "deskpro"
+  },
+  {
+    "name": "desktop"
+  },
+  {
+    "name": "dev"
+  },
+  {
+    "name": "deviantart"
+  },
+  {
+    "name": "dharmachakra"
+  }
+]

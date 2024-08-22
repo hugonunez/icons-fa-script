@@ -1,0 +1,542 @@
+[
+  {
+    "name": "ad"
+  },
+  {
+    "name": "address-book"
+  },
+  {
+    "name": "address-card"
+  },
+  {
+    "name": "adjust"
+  },
+  {
+    "name": "air-freshener"
+  },
+  {
+    "name": "align-center"
+  },
+  {
+    "name": "align-justify"
+  },
+  {
+    "name": "align-left"
+  },
+  {
+    "name": "align-right"
+  },
+  {
+    "name": "allergies"
+  },
+  {
+    "name": "ambulance"
+  },
+  {
+    "name": "american-sign-language-interpreting"
+  },
+  {
+    "name": "anchor"
+  },
+  {
+    "name": "angle-double-down"
+  },
+  {
+    "name": "angle-double-left"
+  },
+  {
+    "name": "angle-double-right"
+  },
+  {
+    "name": "angle-double-up"
+  },
+  {
+    "name": "angle-down"
+  },
+  {
+    "name": "angle-left"
+  },
+  {
+    "name": "angle-right"
+  },
+  {
+    "name": "angle-up"
+  },
+  {
+    "name": "angry"
+  },
+  {
+    "name": "ankh"
+  },
+  {
+    "name": "apple-alt"
+  },
+  {
+    "name": "archive"
+  },
+  {
+    "name": "archway"
+  },
+  {
+    "name": "arrow-alt-circle-down"
+  },
+  {
+    "name": "arrow-alt-circle-left"
+  },
+  {
+    "name": "arrow-alt-circle-right"
+  },
+  {
+    "name": "arrow-alt-circle-up"
+  },
+  {
+    "name": "arrow-circle-down"
+  },
+  {
+    "name": "arrow-circle-left"
+  },
+  {
+    "name": "arrow-circle-right"
+  },
+  {
+    "name": "arrow-circle-up"
+  },
+  {
+    "name": "arrow-down"
+  },
+  {
+    "name": "arrow-left"
+  },
+  {
+    "name": "arrow-right"
+  },
+  {
+    "name": "arrow-up"
+  },
+  {
+    "name": "arrows-alt"
+  },
+  {
+    "name": "arrows-alt-h"
+  },
+  {
+    "name": "arrows-alt-v"
+  },
+  {
+    "name": "assistive-listening-systems"
+  },
+  {
+    "name": "asterisk"
+  },
+  {
+    "name": "at"
+  },
+  {
+    "name": "atlas"
+  },
+  {
+    "name": "atom"
+  },
+  {
+    "name": "audio-description"
+  },
+  {
+    "name": "award"
+  },
+  {
+    "name": "baby"
+  },
+  {
+    "name": "baby-carriage"
+  },
+  {
+    "name": "backspace"
+  },
+  {
+    "name": "backward"
+  },
+  {
+    "name": "bacon"
+  },
+  {
+    "name": "bacteria"
+  },
+  {
+    "name": "bacterium"
+  },
+  {
+    "name": "bahai"
+  },
+  {
+    "name": "balance-scale"
+  },
+  {
+    "name": "balance-scale-left"
+  },
+  {
+    "name": "balance-scale-right"
+  },
+  {
+    "name": "ban"
+  },
+  {
+    "name": "band-aid"
+  },
+  {
+    "name": "barcode"
+  },
+  {
+    "name": "bars"
+  },
+  {
+    "name": "baseball-ball"
+  },
+  {
+    "name": "basketball-ball"
+  },
+  {
+    "name": "bath"
+  },
+  {
+    "name": "battery-empty"
+  },
+  {
+    "name": "battery-full"
+  },
+  {
+    "name": "battery-half"
+  },
+  {
+    "name": "battery-quarter"
+  },
+  {
+    "name": "battery-three-quarters"
+  },
+  {
+    "name": "bed"
+  },
+  {
+    "name": "beer"
+  },
+  {
+    "name": "bell"
+  },
+  {
+    "name": "bell-slash"
+  },
+  {
+    "name": "bezier-curve"
+  },
+  {
+    "name": "bible"
+  },
+  {
+    "name": "bicycle"
+  },
+  {
+    "name": "biking"
+  },
+  {
+    "name": "binoculars"
+  },
+  {
+    "name": "biohazard"
+  },
+  {
+    "name": "birthday-cake"
+  },
+  {
+    "name": "blender"
+  },
+  {
+    "name": "blender-phone"
+  },
+  {
+    "name": "blind"
+  },
+  {
+    "name": "blog"
+  },
+  {
+    "name": "bold"
+  },
+  {
+    "name": "bolt"
+  },
+  {
+    "name": "bomb"
+  },
+  {
+    "name": "bone"
+  },
+  {
+    "name": "bong"
+  },
+  {
+    "name": "book"
+  },
+  {
+    "name": "book-dead"
+  },
+  {
+    "name": "book-medical"
+  },
+  {
+    "name": "book-open"
+  },
+  {
+    "name": "book-reader"
+  },
+  {
+    "name": "bookmark"
+  },
+  {
+    "name": "border-all"
+  },
+  {
+    "name": "border-none"
+  },
+  {
+    "name": "border-style"
+  },
+  {
+    "name": "bowling-ball"
+  },
+  {
+    "name": "suse"
+  },
+  {
+    "name": "swift"
+  },
+  {
+    "name": "symfony"
+  },
+  {
+    "name": "teamspeak"
+  },
+  {
+    "name": "telegram"
+  },
+  {
+    "name": "telegram-plane"
+  },
+  {
+    "name": "tencent-weibo"
+  },
+  {
+    "name": "the-red-yeti"
+  },
+  {
+    "name": "themeco"
+  },
+  {
+    "name": "themeisle"
+  },
+  {
+    "name": "think-peaks"
+  },
+  {
+    "name": "tiktok"
+  },
+  {
+    "name": "trade-federation"
+  },
+  {
+    "name": "trello"
+  },
+  {
+    "name": "tumblr"
+  },
+  {
+    "name": "tumblr-square"
+  },
+  {
+    "name": "twitch"
+  },
+  {
+    "name": "twitter"
+  },
+  {
+    "name": "twitter-square"
+  },
+  {
+    "name": "typo3"
+  },
+  {
+    "name": "uber"
+  },
+  {
+    "name": "ubuntu"
+  },
+  {
+    "name": "uikit"
+  },
+  {
+    "name": "umbraco"
+  },
+  {
+    "name": "uncharted"
+  },
+  {
+    "name": "uniregistry"
+  },
+  {
+    "name": "unity"
+  },
+  {
+    "name": "unsplash"
+  },
+  {
+    "name": "untappd"
+  },
+  {
+    "name": "ups"
+  },
+  {
+    "name": "usb"
+  },
+  {
+    "name": "usps"
+  },
+  {
+    "name": "ussunnah"
+  },
+  {
+    "name": "vaadin"
+  },
+  {
+    "name": "viacoin"
+  },
+  {
+    "name": "viadeo"
+  },
+  {
+    "name": "viadeo-square"
+  },
+  {
+    "name": "viber"
+  },
+  {
+    "name": "vimeo"
+  },
+  {
+    "name": "vimeo-square"
+  },
+  {
+    "name": "vimeo-v"
+  },
+  {
+    "name": "vine"
+  },
+  {
+    "name": "vk"
+  },
+  {
+    "name": "vnv"
+  },
+  {
+    "name": "vuejs"
+  },
+  {
+    "name": "watchman-monitoring"
+  },
+  {
+    "name": "waze"
+  },
+  {
+    "name": "weebly"
+  },
+  {
+    "name": "weibo"
+  },
+  {
+    "name": "weixin"
+  },
+  {
+    "name": "whatsapp"
+  },
+  {
+    "name": "whatsapp-square"
+  },
+  {
+    "name": "whmcs"
+  },
+  {
+    "name": "wikipedia-w"
+  },
+  {
+    "name": "windows"
+  },
+  {
+    "name": "wix"
+  },
+  {
+    "name": "wizards-of-the-coast"
+  },
+  {
+    "name": "wodu"
+  },
+  {
+    "name": "wolf-pack-battalion"
+  },
+  {
+    "name": "wordpress"
+  },
+  {
+    "name": "wordpress-simple"
+  },
+  {
+    "name": "wpbeginner"
+  },
+  {
+    "name": "wpexplorer"
+  },
+  {
+    "name": "wpforms"
+  },
+  {
+    "name": "wpressr"
+  },
+  {
+    "name": "xbox"
+  },
+  {
+    "name": "xing"
+  },
+  {
+    "name": "xing-square"
+  },
+  {
+    "name": "y-combinator"
+  },
+  {
+    "name": "yahoo"
+  },
+  {
+    "name": "yammer"
+  },
+  {
+    "name": "yandex"
+  },
+  {
+    "name": "yandex-international"
+  },
+  {
+    "name": "yarn"
+  },
+  {
+    "name": "yelp"
+  },
+  {
+    "name": "yoast"
+  },
+  {
+    "name": "youtube"
+  },
+  {
+    "name": "youtube-square"
+  },
+  {
+    "name": "zhihu"
+  }
+]

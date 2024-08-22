@@ -1,0 +1,542 @@
+[
+  {
+    "name": "dhl"
+  },
+  {
+    "name": "diagram-next"
+  },
+  {
+    "name": "diagram-predecessor"
+  },
+  {
+    "name": "diagram-project"
+  },
+  {
+    "name": "diagram-successor"
+  },
+  {
+    "name": "diamond"
+  },
+  {
+    "name": "diamond-turn-right"
+  },
+  {
+    "name": "diaspora"
+  },
+  {
+    "name": "dice"
+  },
+  {
+    "name": "dice-d20"
+  },
+  {
+    "name": "dice-d6"
+  },
+  {
+    "name": "dice-five"
+  },
+  {
+    "name": "dice-four"
+  },
+  {
+    "name": "dice-one"
+  },
+  {
+    "name": "dice-six"
+  },
+  {
+    "name": "dice-three"
+  },
+  {
+    "name": "dice-two"
+  },
+  {
+    "name": "digg"
+  },
+  {
+    "name": "digital-ocean"
+  },
+  {
+    "name": "discord"
+  },
+  {
+    "name": "discourse"
+  },
+  {
+    "name": "disease"
+  },
+  {
+    "name": "display"
+  },
+  {
+    "name": "divide"
+  },
+  {
+    "name": "dna"
+  },
+  {
+    "name": "dochub"
+  },
+  {
+    "name": "docker"
+  },
+  {
+    "name": "dog"
+  },
+  {
+    "name": "dollar-sign"
+  },
+  {
+    "name": "dolly"
+  },
+  {
+    "name": "dong-sign"
+  },
+  {
+    "name": "door-closed"
+  },
+  {
+    "name": "door-open"
+  },
+  {
+    "name": "dove"
+  },
+  {
+    "name": "down-left-and-up-right-to-center"
+  },
+  {
+    "name": "down-long"
+  },
+  {
+    "name": "download"
+  },
+  {
+    "name": "draft2digital"
+  },
+  {
+    "name": "dragon"
+  },
+  {
+    "name": "draw-polygon"
+  },
+  {
+    "name": "dribbble"
+  },
+  {
+    "name": "dropbox"
+  },
+  {
+    "name": "droplet"
+  },
+  {
+    "name": "droplet-slash"
+  },
+  {
+    "name": "drum"
+  },
+  {
+    "name": "drum-steelpan"
+  },
+  {
+    "name": "drumstick-bite"
+  },
+  {
+    "name": "drupal"
+  },
+  {
+    "name": "dumbbell"
+  },
+  {
+    "name": "dumpster"
+  },
+  {
+    "name": "dumpster-fire"
+  },
+  {
+    "name": "dungeon"
+  },
+  {
+    "name": "dyalog"
+  },
+  {
+    "name": "e"
+  },
+  {
+    "name": "ear-deaf"
+  },
+  {
+    "name": "ear-listen"
+  },
+  {
+    "name": "earlybirds"
+  },
+  {
+    "name": "earth-africa"
+  },
+  {
+    "name": "earth-americas"
+  },
+  {
+    "name": "earth-asia"
+  },
+  {
+    "name": "earth-europe"
+  },
+  {
+    "name": "earth-oceania"
+  },
+  {
+    "name": "ebay"
+  },
+  {
+    "name": "edge"
+  },
+  {
+    "name": "edge-legacy"
+  },
+  {
+    "name": "egg"
+  },
+  {
+    "name": "eject"
+  },
+  {
+    "name": "elementor"
+  },
+  {
+    "name": "elevator"
+  },
+  {
+    "name": "ellipsis"
+  },
+  {
+    "name": "ellipsis-vertical"
+  },
+  {
+    "name": "ello"
+  },
+  {
+    "name": "ember"
+  },
+  {
+    "name": "empire"
+  },
+  {
+    "name": "envelope"
+  },
+  {
+    "name": "envelope"
+  },
+  {
+    "name": "envelope-circle-check"
+  },
+  {
+    "name": "envelope-open"
+  },
+  {
+    "name": "envelope-open"
+  },
+  {
+    "name": "envelope-open-text"
+  },
+  {
+    "name": "envelopes-bulk"
+  },
+  {
+    "name": "envira"
+  },
+  {
+    "name": "equals"
+  },
+  {
+    "name": "eraser"
+  },
+  {
+    "name": "erlang"
+  },
+  {
+    "name": "ethereum"
+  },
+  {
+    "name": "ethernet"
+  },
+  {
+    "name": "etsy"
+  },
+  {
+    "name": "euro-sign"
+  },
+  {
+    "name": "evernote"
+  },
+  {
+    "name": "exclamation"
+  },
+  {
+    "name": "expand"
+  },
+  {
+    "name": "expeditedssl"
+  },
+  {
+    "name": "explosion"
+  },
+  {
+    "name": "eye"
+  },
+  {
+    "name": "eye"
+  },
+  {
+    "name": "eye-dropper"
+  },
+  {
+    "name": "eye-low-vision"
+  },
+  {
+    "name": "eye-slash"
+  },
+  {
+    "name": "eye-slash"
+  },
+  {
+    "name": "f"
+  },
+  {
+    "name": "face-angry"
+  },
+  {
+    "name": "face-angry"
+  },
+  {
+    "name": "face-dizzy"
+  },
+  {
+    "name": "face-dizzy"
+  },
+  {
+    "name": "face-flushed"
+  },
+  {
+    "name": "face-flushed"
+  },
+  {
+    "name": "face-frown"
+  },
+  {
+    "name": "face-frown"
+  },
+  {
+    "name": "face-frown-open"
+  },
+  {
+    "name": "face-frown-open"
+  },
+  {
+    "name": "face-grimace"
+  },
+  {
+    "name": "face-grimace"
+  },
+  {
+    "name": "face-grin"
+  },
+  {
+    "name": "face-grin"
+  },
+  {
+    "name": "face-grin-beam"
+  },
+  {
+    "name": "face-grin-beam"
+  },
+  {
+    "name": "face-grin-beam-sweat"
+  },
+  {
+    "name": "face-grin-beam-sweat"
+  },
+  {
+    "name": "face-grin-hearts"
+  },
+  {
+    "name": "face-grin-hearts"
+  },
+  {
+    "name": "face-grin-squint"
+  },
+  {
+    "name": "face-grin-squint"
+  },
+  {
+    "name": "face-grin-squint-tears"
+  },
+  {
+    "name": "face-grin-squint-tears"
+  },
+  {
+    "name": "face-grin-stars"
+  },
+  {
+    "name": "face-grin-stars"
+  },
+  {
+    "name": "face-grin-tears"
+  },
+  {
+    "name": "face-grin-tears"
+  },
+  {
+    "name": "face-grin-tongue"
+  },
+  {
+    "name": "face-grin-tongue"
+  },
+  {
+    "name": "face-grin-tongue-squint"
+  },
+  {
+    "name": "face-grin-tongue-squint"
+  },
+  {
+    "name": "face-grin-tongue-wink"
+  },
+  {
+    "name": "face-grin-tongue-wink"
+  },
+  {
+    "name": "face-grin-wide"
+  },
+  {
+    "name": "face-grin-wide"
+  },
+  {
+    "name": "face-grin-wink"
+  },
+  {
+    "name": "face-grin-wink"
+  },
+  {
+    "name": "face-kiss"
+  },
+  {
+    "name": "face-kiss"
+  },
+  {
+    "name": "face-kiss-beam"
+  },
+  {
+    "name": "face-kiss-beam"
+  },
+  {
+    "name": "face-kiss-wink-heart"
+  },
+  {
+    "name": "face-kiss-wink-heart"
+  },
+  {
+    "name": "face-laugh"
+  },
+  {
+    "name": "face-laugh"
+  },
+  {
+    "name": "face-laugh-beam"
+  },
+  {
+    "name": "face-laugh-beam"
+  },
+  {
+    "name": "face-laugh-squint"
+  },
+  {
+    "name": "face-laugh-squint"
+  },
+  {
+    "name": "face-laugh-wink"
+  },
+  {
+    "name": "face-laugh-wink"
+  },
+  {
+    "name": "face-meh"
+  },
+  {
+    "name": "face-meh"
+  },
+  {
+    "name": "face-meh-blank"
+  },
+  {
+    "name": "face-meh-blank"
+  },
+  {
+    "name": "face-rolling-eyes"
+  },
+  {
+    "name": "face-rolling-eyes"
+  },
+  {
+    "name": "face-sad-cry"
+  },
+  {
+    "name": "face-sad-cry"
+  },
+  {
+    "name": "face-sad-tear"
+  },
+  {
+    "name": "face-sad-tear"
+  },
+  {
+    "name": "face-smile"
+  },
+  {
+    "name": "face-smile"
+  },
+  {
+    "name": "face-smile-beam"
+  },
+  {
+    "name": "face-smile-beam"
+  },
+  {
+    "name": "face-smile-wink"
+  },
+  {
+    "name": "face-smile-wink"
+  },
+  {
+    "name": "face-surprise"
+  },
+  {
+    "name": "face-surprise"
+  },
+  {
+    "name": "face-tired"
+  },
+  {
+    "name": "face-tired"
+  },
+  {
+    "name": "facebook"
+  },
+  {
+    "name": "facebook-f"
+  },
+  {
+    "name": "facebook-messenger"
+  },
+  {
+    "name": "fan"
+  },
+  {
+    "name": "fantasy-flight-games"
+  },
+  {
+    "name": "faucet"
+  },
+  {
+    "name": "faucet-drip"
+  }
+]

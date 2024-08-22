@@ -1,0 +1,542 @@
+[
+  {
+    "name": "stop"
+  },
+  {
+    "name": "stop-circle"
+  },
+  {
+    "name": "stopwatch"
+  },
+  {
+    "name": "stopwatch-20"
+  },
+  {
+    "name": "store"
+  },
+  {
+    "name": "store-alt"
+  },
+  {
+    "name": "store-alt-slash"
+  },
+  {
+    "name": "store-slash"
+  },
+  {
+    "name": "stream"
+  },
+  {
+    "name": "street-view"
+  },
+  {
+    "name": "strikethrough"
+  },
+  {
+    "name": "stroopwafel"
+  },
+  {
+    "name": "subscript"
+  },
+  {
+    "name": "subway"
+  },
+  {
+    "name": "suitcase"
+  },
+  {
+    "name": "suitcase-rolling"
+  },
+  {
+    "name": "sun"
+  },
+  {
+    "name": "superscript"
+  },
+  {
+    "name": "surprise"
+  },
+  {
+    "name": "swatchbook"
+  },
+  {
+    "name": "swimmer"
+  },
+  {
+    "name": "swimming-pool"
+  },
+  {
+    "name": "synagogue"
+  },
+  {
+    "name": "sync"
+  },
+  {
+    "name": "sync-alt"
+  },
+  {
+    "name": "syringe"
+  },
+  {
+    "name": "table"
+  },
+  {
+    "name": "table-tennis"
+  },
+  {
+    "name": "tablet"
+  },
+  {
+    "name": "tablet-alt"
+  },
+  {
+    "name": "tablets"
+  },
+  {
+    "name": "tachometer-alt"
+  },
+  {
+    "name": "tag"
+  },
+  {
+    "name": "tags"
+  },
+  {
+    "name": "tape"
+  },
+  {
+    "name": "tasks"
+  },
+  {
+    "name": "taxi"
+  },
+  {
+    "name": "teeth"
+  },
+  {
+    "name": "teeth-open"
+  },
+  {
+    "name": "temperature-high"
+  },
+  {
+    "name": "temperature-low"
+  },
+  {
+    "name": "tenge"
+  },
+  {
+    "name": "terminal"
+  },
+  {
+    "name": "text-height"
+  },
+  {
+    "name": "text-width"
+  },
+  {
+    "name": "th"
+  },
+  {
+    "name": "th-large"
+  },
+  {
+    "name": "th-list"
+  },
+  {
+    "name": "theater-masks"
+  },
+  {
+    "name": "thermometer"
+  },
+  {
+    "name": "thermometer-empty"
+  },
+  {
+    "name": "thermometer-full"
+  },
+  {
+    "name": "thermometer-half"
+  },
+  {
+    "name": "thermometer-quarter"
+  },
+  {
+    "name": "thermometer-three-quarters"
+  },
+  {
+    "name": "thumbs-down"
+  },
+  {
+    "name": "thumbs-up"
+  },
+  {
+    "name": "thumbtack"
+  },
+  {
+    "name": "ticket-alt"
+  },
+  {
+    "name": "times"
+  },
+  {
+    "name": "times-circle"
+  },
+  {
+    "name": "tint"
+  },
+  {
+    "name": "tint-slash"
+  },
+  {
+    "name": "tired"
+  },
+  {
+    "name": "toggle-off"
+  },
+  {
+    "name": "toggle-on"
+  },
+  {
+    "name": "toilet"
+  },
+  {
+    "name": "toilet-paper"
+  },
+  {
+    "name": "toilet-paper-slash"
+  },
+  {
+    "name": "toolbox"
+  },
+  {
+    "name": "tools"
+  },
+  {
+    "name": "tooth"
+  },
+  {
+    "name": "torah"
+  },
+  {
+    "name": "torii-gate"
+  },
+  {
+    "name": "tractor"
+  },
+  {
+    "name": "trademark"
+  },
+  {
+    "name": "traffic-light"
+  },
+  {
+    "name": "trailer"
+  },
+  {
+    "name": "train"
+  },
+  {
+    "name": "tram"
+  },
+  {
+    "name": "transgender"
+  },
+  {
+    "name": "transgender-alt"
+  },
+  {
+    "name": "trash"
+  },
+  {
+    "name": "trash-alt"
+  },
+  {
+    "name": "trash-restore"
+  },
+  {
+    "name": "trash-restore-alt"
+  },
+  {
+    "name": "tree"
+  },
+  {
+    "name": "trophy"
+  },
+  {
+    "name": "truck"
+  },
+  {
+    "name": "truck-loading"
+  },
+  {
+    "name": "truck-monster"
+  },
+  {
+    "name": "truck-moving"
+  },
+  {
+    "name": "truck-pickup"
+  },
+  {
+    "name": "tshirt"
+  },
+  {
+    "name": "tty"
+  },
+  {
+    "name": "tv"
+  },
+  {
+    "name": "umbrella"
+  },
+  {
+    "name": "umbrella-beach"
+  },
+  {
+    "name": "underline"
+  },
+  {
+    "name": "undo"
+  },
+  {
+    "name": "undo-alt"
+  },
+  {
+    "name": "universal-access"
+  },
+  {
+    "name": "university"
+  },
+  {
+    "name": "unlink"
+  },
+  {
+    "name": "unlock"
+  },
+  {
+    "name": "unlock-alt"
+  },
+  {
+    "name": "upload"
+  },
+  {
+    "name": "user"
+  },
+  {
+    "name": "user-alt"
+  },
+  {
+    "name": "user-alt-slash"
+  },
+  {
+    "name": "user-astronaut"
+  },
+  {
+    "name": "user-check"
+  },
+  {
+    "name": "user-circle"
+  },
+  {
+    "name": "user-clock"
+  },
+  {
+    "name": "user-cog"
+  },
+  {
+    "name": "user-edit"
+  },
+  {
+    "name": "user-friends"
+  },
+  {
+    "name": "user-graduate"
+  },
+  {
+    "name": "user-injured"
+  },
+  {
+    "name": "user-lock"
+  },
+  {
+    "name": "user-md"
+  },
+  {
+    "name": "user-minus"
+  },
+  {
+    "name": "user-ninja"
+  },
+  {
+    "name": "user-nurse"
+  },
+  {
+    "name": "user-plus"
+  },
+  {
+    "name": "user-secret"
+  },
+  {
+    "name": "user-shield"
+  },
+  {
+    "name": "user-slash"
+  },
+  {
+    "name": "user-tag"
+  },
+  {
+    "name": "user-tie"
+  },
+  {
+    "name": "user-times"
+  },
+  {
+    "name": "users"
+  },
+  {
+    "name": "users-cog"
+  },
+  {
+    "name": "users-slash"
+  },
+  {
+    "name": "utensil-spoon"
+  },
+  {
+    "name": "utensils"
+  },
+  {
+    "name": "vector-square"
+  },
+  {
+    "name": "venus"
+  },
+  {
+    "name": "venus-double"
+  },
+  {
+    "name": "venus-mars"
+  },
+  {
+    "name": "vest"
+  },
+  {
+    "name": "vest-patches"
+  },
+  {
+    "name": "vial"
+  },
+  {
+    "name": "vials"
+  },
+  {
+    "name": "video"
+  },
+  {
+    "name": "video-slash"
+  },
+  {
+    "name": "vihara"
+  },
+  {
+    "name": "virus"
+  },
+  {
+    "name": "virus-slash"
+  },
+  {
+    "name": "viruses"
+  },
+  {
+    "name": "voicemail"
+  },
+  {
+    "name": "volleyball-ball"
+  },
+  {
+    "name": "volume-down"
+  },
+  {
+    "name": "volume-mute"
+  },
+  {
+    "name": "volume-off"
+  },
+  {
+    "name": "volume-up"
+  },
+  {
+    "name": "vote-yea"
+  },
+  {
+    "name": "vr-cardboard"
+  },
+  {
+    "name": "walking"
+  },
+  {
+    "name": "wallet"
+  },
+  {
+    "name": "warehouse"
+  },
+  {
+    "name": "water"
+  },
+  {
+    "name": "wave-square"
+  },
+  {
+    "name": "weight"
+  },
+  {
+    "name": "weight-hanging"
+  },
+  {
+    "name": "wheelchair"
+  },
+  {
+    "name": "wifi"
+  },
+  {
+    "name": "wind"
+  },
+  {
+    "name": "window-close"
+  },
+  {
+    "name": "window-maximize"
+  },
+  {
+    "name": "window-minimize"
+  },
+  {
+    "name": "window-restore"
+  },
+  {
+    "name": "wine-bottle"
+  },
+  {
+    "name": "wine-glass"
+  },
+  {
+    "name": "wine-glass-alt"
+  },
+  {
+    "name": "won-sign"
+  },
+  {
+    "name": "wrench"
+  },
+  {
+    "name": "x-ray"
+  },
+  {
+    "name": "yen-sign"
+  },
+  {
+    "name": "yin-yang"
+  }
+]

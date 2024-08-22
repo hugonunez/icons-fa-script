@@ -1,0 +1,542 @@
+[
+  {
+    "name": "fax"
+  },
+  {
+    "name": "feather"
+  },
+  {
+    "name": "feather-pointed"
+  },
+  {
+    "name": "fedex"
+  },
+  {
+    "name": "fedora"
+  },
+  {
+    "name": "ferry"
+  },
+  {
+    "name": "figma"
+  },
+  {
+    "name": "file"
+  },
+  {
+    "name": "file"
+  },
+  {
+    "name": "file-arrow-down"
+  },
+  {
+    "name": "file-arrow-up"
+  },
+  {
+    "name": "file-audio"
+  },
+  {
+    "name": "file-audio"
+  },
+  {
+    "name": "file-circle-check"
+  },
+  {
+    "name": "file-circle-exclamation"
+  },
+  {
+    "name": "file-circle-minus"
+  },
+  {
+    "name": "file-circle-plus"
+  },
+  {
+    "name": "file-circle-question"
+  },
+  {
+    "name": "file-circle-xmark"
+  },
+  {
+    "name": "file-code"
+  },
+  {
+    "name": "file-code"
+  },
+  {
+    "name": "file-contract"
+  },
+  {
+    "name": "file-csv"
+  },
+  {
+    "name": "file-excel"
+  },
+  {
+    "name": "file-excel"
+  },
+  {
+    "name": "file-export"
+  },
+  {
+    "name": "file-image"
+  },
+  {
+    "name": "file-image"
+  },
+  {
+    "name": "file-import"
+  },
+  {
+    "name": "file-invoice"
+  },
+  {
+    "name": "file-invoice-dollar"
+  },
+  {
+    "name": "file-lines"
+  },
+  {
+    "name": "file-lines"
+  },
+  {
+    "name": "file-medical"
+  },
+  {
+    "name": "file-pdf"
+  },
+  {
+    "name": "file-pdf"
+  },
+  {
+    "name": "file-pen"
+  },
+  {
+    "name": "file-powerpoint"
+  },
+  {
+    "name": "file-powerpoint"
+  },
+  {
+    "name": "file-prescription"
+  },
+  {
+    "name": "file-shield"
+  },
+  {
+    "name": "file-signature"
+  },
+  {
+    "name": "file-video"
+  },
+  {
+    "name": "file-video"
+  },
+  {
+    "name": "file-waveform"
+  },
+  {
+    "name": "file-word"
+  },
+  {
+    "name": "file-word"
+  },
+  {
+    "name": "file-zipper"
+  },
+  {
+    "name": "file-zipper"
+  },
+  {
+    "name": "fill"
+  },
+  {
+    "name": "fill-drip"
+  },
+  {
+    "name": "film"
+  },
+  {
+    "name": "filter"
+  },
+  {
+    "name": "filter-circle-dollar"
+  },
+  {
+    "name": "filter-circle-xmark"
+  },
+  {
+    "name": "fingerprint"
+  },
+  {
+    "name": "fire"
+  },
+  {
+    "name": "fire-burner"
+  },
+  {
+    "name": "fire-extinguisher"
+  },
+  {
+    "name": "fire-flame-curved"
+  },
+  {
+    "name": "fire-flame-simple"
+  },
+  {
+    "name": "firefox"
+  },
+  {
+    "name": "firefox-browser"
+  },
+  {
+    "name": "first-order"
+  },
+  {
+    "name": "first-order-alt"
+  },
+  {
+    "name": "firstdraft"
+  },
+  {
+    "name": "fish"
+  },
+  {
+    "name": "fish-fins"
+  },
+  {
+    "name": "flag"
+  },
+  {
+    "name": "flag"
+  },
+  {
+    "name": "flag-checkered"
+  },
+  {
+    "name": "flag-usa"
+  },
+  {
+    "name": "flask"
+  },
+  {
+    "name": "flask-vial"
+  },
+  {
+    "name": "flickr"
+  },
+  {
+    "name": "flipboard"
+  },
+  {
+    "name": "floppy-disk"
+  },
+  {
+    "name": "floppy-disk"
+  },
+  {
+    "name": "florin-sign"
+  },
+  {
+    "name": "flutter"
+  },
+  {
+    "name": "fly"
+  },
+  {
+    "name": "folder"
+  },
+  {
+    "name": "folder"
+  },
+  {
+    "name": "folder-closed"
+  },
+  {
+    "name": "folder-closed"
+  },
+  {
+    "name": "folder-minus"
+  },
+  {
+    "name": "folder-open"
+  },
+  {
+    "name": "folder-open"
+  },
+  {
+    "name": "folder-plus"
+  },
+  {
+    "name": "folder-tree"
+  },
+  {
+    "name": "font"
+  },
+  {
+    "name": "font-awesome"
+  },
+  {
+    "name": "font-awesome"
+  },
+  {
+    "name": "font-awesome"
+  },
+  {
+    "name": "fonticons"
+  },
+  {
+    "name": "fonticons-fi"
+  },
+  {
+    "name": "football"
+  },
+  {
+    "name": "fort-awesome"
+  },
+  {
+    "name": "fort-awesome-alt"
+  },
+  {
+    "name": "forumbee"
+  },
+  {
+    "name": "forward"
+  },
+  {
+    "name": "forward-fast"
+  },
+  {
+    "name": "forward-step"
+  },
+  {
+    "name": "foursquare"
+  },
+  {
+    "name": "franc-sign"
+  },
+  {
+    "name": "free-code-camp"
+  },
+  {
+    "name": "freebsd"
+  },
+  {
+    "name": "frog"
+  },
+  {
+    "name": "fulcrum"
+  },
+  {
+    "name": "futbol"
+  },
+  {
+    "name": "futbol"
+  },
+  {
+    "name": "g"
+  },
+  {
+    "name": "galactic-republic"
+  },
+  {
+    "name": "galactic-senate"
+  },
+  {
+    "name": "gamepad"
+  },
+  {
+    "name": "gas-pump"
+  },
+  {
+    "name": "gauge"
+  },
+  {
+    "name": "gauge-high"
+  },
+  {
+    "name": "gauge-simple"
+  },
+  {
+    "name": "gauge-simple-high"
+  },
+  {
+    "name": "gavel"
+  },
+  {
+    "name": "gear"
+  },
+  {
+    "name": "gears"
+  },
+  {
+    "name": "gem"
+  },
+  {
+    "name": "gem"
+  },
+  {
+    "name": "genderless"
+  },
+  {
+    "name": "get-pocket"
+  },
+  {
+    "name": "gg"
+  },
+  {
+    "name": "gg-circle"
+  },
+  {
+    "name": "ghost"
+  },
+  {
+    "name": "gift"
+  },
+  {
+    "name": "gifts"
+  },
+  {
+    "name": "git"
+  },
+  {
+    "name": "git-alt"
+  },
+  {
+    "name": "github"
+  },
+  {
+    "name": "github-alt"
+  },
+  {
+    "name": "gitkraken"
+  },
+  {
+    "name": "gitlab"
+  },
+  {
+    "name": "gitter"
+  },
+  {
+    "name": "glass-water"
+  },
+  {
+    "name": "glass-water-droplet"
+  },
+  {
+    "name": "glasses"
+  },
+  {
+    "name": "glide"
+  },
+  {
+    "name": "glide-g"
+  },
+  {
+    "name": "globe"
+  },
+  {
+    "name": "gofore"
+  },
+  {
+    "name": "golang"
+  },
+  {
+    "name": "golf-ball-tee"
+  },
+  {
+    "name": "goodreads"
+  },
+  {
+    "name": "goodreads-g"
+  },
+  {
+    "name": "google"
+  },
+  {
+    "name": "google-drive"
+  },
+  {
+    "name": "google-pay"
+  },
+  {
+    "name": "google-play"
+  },
+  {
+    "name": "google-plus"
+  },
+  {
+    "name": "google-plus-g"
+  },
+  {
+    "name": "google-scholar"
+  },
+  {
+    "name": "google-wallet"
+  },
+  {
+    "name": "gopuram"
+  },
+  {
+    "name": "graduation-cap"
+  },
+  {
+    "name": "gratipay"
+  },
+  {
+    "name": "grav"
+  },
+  {
+    "name": "greater-than"
+  },
+  {
+    "name": "greater-than-equal"
+  },
+  {
+    "name": "grip"
+  },
+  {
+    "name": "grip-lines"
+  },
+  {
+    "name": "grip-lines-vertical"
+  },
+  {
+    "name": "grip-vertical"
+  },
+  {
+    "name": "gripfire"
+  },
+  {
+    "name": "group-arrows-rotate"
+  },
+  {
+    "name": "grunt"
+  },
+  {
+    "name": "guarani-sign"
+  },
+  {
+    "name": "guilded"
+  },
+  {
+    "name": "guitar"
+  },
+  {
+    "name": "gulp"
+  },
+  {
+    "name": "gun"
+  },
+  {
+    "name": "h"
+  },
+  {
+    "name": "hacker-news"
+  },
+  {
+    "name": "hackerrank"
+  },
+  {
+    "name": "hammer"
+  }
+]

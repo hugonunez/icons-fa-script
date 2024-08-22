@@ -1,0 +1,542 @@
+[
+  {
+    "name": "hiking"
+  },
+  {
+    "name": "hippo"
+  },
+  {
+    "name": "history"
+  },
+  {
+    "name": "hockey-puck"
+  },
+  {
+    "name": "holly-berry"
+  },
+  {
+    "name": "home"
+  },
+  {
+    "name": "horse"
+  },
+  {
+    "name": "horse-head"
+  },
+  {
+    "name": "hospital"
+  },
+  {
+    "name": "hospital-alt"
+  },
+  {
+    "name": "hospital-symbol"
+  },
+  {
+    "name": "hospital-user"
+  },
+  {
+    "name": "hot-tub"
+  },
+  {
+    "name": "hotdog"
+  },
+  {
+    "name": "hotel"
+  },
+  {
+    "name": "hourglass"
+  },
+  {
+    "name": "hourglass-end"
+  },
+  {
+    "name": "hourglass-half"
+  },
+  {
+    "name": "hourglass-start"
+  },
+  {
+    "name": "house-damage"
+  },
+  {
+    "name": "house-user"
+  },
+  {
+    "name": "hryvnia"
+  },
+  {
+    "name": "i-cursor"
+  },
+  {
+    "name": "ice-cream"
+  },
+  {
+    "name": "icicles"
+  },
+  {
+    "name": "icons"
+  },
+  {
+    "name": "id-badge"
+  },
+  {
+    "name": "id-card"
+  },
+  {
+    "name": "id-card-alt"
+  },
+  {
+    "name": "igloo"
+  },
+  {
+    "name": "image"
+  },
+  {
+    "name": "images"
+  },
+  {
+    "name": "inbox"
+  },
+  {
+    "name": "indent"
+  },
+  {
+    "name": "industry"
+  },
+  {
+    "name": "infinity"
+  },
+  {
+    "name": "info"
+  },
+  {
+    "name": "info-circle"
+  },
+  {
+    "name": "italic"
+  },
+  {
+    "name": "jedi"
+  },
+  {
+    "name": "joint"
+  },
+  {
+    "name": "journal-whills"
+  },
+  {
+    "name": "kaaba"
+  },
+  {
+    "name": "key"
+  },
+  {
+    "name": "keyboard"
+  },
+  {
+    "name": "khanda"
+  },
+  {
+    "name": "kiss"
+  },
+  {
+    "name": "kiss-beam"
+  },
+  {
+    "name": "kiss-wink-heart"
+  },
+  {
+    "name": "kiwi-bird"
+  },
+  {
+    "name": "landmark"
+  },
+  {
+    "name": "language"
+  },
+  {
+    "name": "laptop"
+  },
+  {
+    "name": "laptop-code"
+  },
+  {
+    "name": "laptop-house"
+  },
+  {
+    "name": "laptop-medical"
+  },
+  {
+    "name": "laugh"
+  },
+  {
+    "name": "laugh-beam"
+  },
+  {
+    "name": "laugh-squint"
+  },
+  {
+    "name": "laugh-wink"
+  },
+  {
+    "name": "layer-group"
+  },
+  {
+    "name": "leaf"
+  },
+  {
+    "name": "lemon"
+  },
+  {
+    "name": "less-than"
+  },
+  {
+    "name": "less-than-equal"
+  },
+  {
+    "name": "level-down-alt"
+  },
+  {
+    "name": "level-up-alt"
+  },
+  {
+    "name": "life-ring"
+  },
+  {
+    "name": "lightbulb"
+  },
+  {
+    "name": "link"
+  },
+  {
+    "name": "lira-sign"
+  },
+  {
+    "name": "list"
+  },
+  {
+    "name": "list-alt"
+  },
+  {
+    "name": "list-ol"
+  },
+  {
+    "name": "list-ul"
+  },
+  {
+    "name": "location-arrow"
+  },
+  {
+    "name": "lock"
+  },
+  {
+    "name": "lock-open"
+  },
+  {
+    "name": "long-arrow-alt-down"
+  },
+  {
+    "name": "long-arrow-alt-left"
+  },
+  {
+    "name": "long-arrow-alt-right"
+  },
+  {
+    "name": "long-arrow-alt-up"
+  },
+  {
+    "name": "low-vision"
+  },
+  {
+    "name": "luggage-cart"
+  },
+  {
+    "name": "lungs"
+  },
+  {
+    "name": "lungs-virus"
+  },
+  {
+    "name": "magic"
+  },
+  {
+    "name": "magnet"
+  },
+  {
+    "name": "mail-bulk"
+  },
+  {
+    "name": "male"
+  },
+  {
+    "name": "map"
+  },
+  {
+    "name": "map-marked"
+  },
+  {
+    "name": "map-marked-alt"
+  },
+  {
+    "name": "map-marker"
+  },
+  {
+    "name": "map-marker-alt"
+  },
+  {
+    "name": "map-pin"
+  },
+  {
+    "name": "map-signs"
+  },
+  {
+    "name": "marker"
+  },
+  {
+    "name": "mars"
+  },
+  {
+    "name": "mars-double"
+  },
+  {
+    "name": "mars-stroke"
+  },
+  {
+    "name": "mars-stroke-h"
+  },
+  {
+    "name": "mars-stroke-v"
+  },
+  {
+    "name": "mask"
+  },
+  {
+    "name": "medal"
+  },
+  {
+    "name": "medkit"
+  },
+  {
+    "name": "meh"
+  },
+  {
+    "name": "meh-blank"
+  },
+  {
+    "name": "meh-rolling-eyes"
+  },
+  {
+    "name": "memory"
+  },
+  {
+    "name": "menorah"
+  },
+  {
+    "name": "mercury"
+  },
+  {
+    "name": "meteor"
+  },
+  {
+    "name": "microchip"
+  },
+  {
+    "name": "microphone"
+  },
+  {
+    "name": "microphone-alt"
+  },
+  {
+    "name": "microphone-alt-slash"
+  },
+  {
+    "name": "microphone-slash"
+  },
+  {
+    "name": "microscope"
+  },
+  {
+    "name": "minus"
+  },
+  {
+    "name": "minus-circle"
+  },
+  {
+    "name": "minus-square"
+  },
+  {
+    "name": "mitten"
+  },
+  {
+    "name": "mobile"
+  },
+  {
+    "name": "mobile-alt"
+  },
+  {
+    "name": "money-bill"
+  },
+  {
+    "name": "money-bill-alt"
+  },
+  {
+    "name": "money-bill-wave"
+  },
+  {
+    "name": "money-bill-wave-alt"
+  },
+  {
+    "name": "money-check"
+  },
+  {
+    "name": "money-check-alt"
+  },
+  {
+    "name": "monument"
+  },
+  {
+    "name": "moon"
+  },
+  {
+    "name": "mortar-pestle"
+  },
+  {
+    "name": "mosque"
+  },
+  {
+    "name": "motorcycle"
+  },
+  {
+    "name": "mountain"
+  },
+  {
+    "name": "mouse"
+  },
+  {
+    "name": "mouse-pointer"
+  },
+  {
+    "name": "mug-hot"
+  },
+  {
+    "name": "music"
+  },
+  {
+    "name": "network-wired"
+  },
+  {
+    "name": "neuter"
+  },
+  {
+    "name": "newspaper"
+  },
+  {
+    "name": "not-equal"
+  },
+  {
+    "name": "notes-medical"
+  },
+  {
+    "name": "object-group"
+  },
+  {
+    "name": "object-ungroup"
+  },
+  {
+    "name": "oil-can"
+  },
+  {
+    "name": "om"
+  },
+  {
+    "name": "otter"
+  },
+  {
+    "name": "outdent"
+  },
+  {
+    "name": "pager"
+  },
+  {
+    "name": "paint-brush"
+  },
+  {
+    "name": "paint-roller"
+  },
+  {
+    "name": "palette"
+  },
+  {
+    "name": "pallet"
+  },
+  {
+    "name": "paper-plane"
+  },
+  {
+    "name": "paperclip"
+  },
+  {
+    "name": "parachute-box"
+  },
+  {
+    "name": "paragraph"
+  },
+  {
+    "name": "parking"
+  },
+  {
+    "name": "passport"
+  },
+  {
+    "name": "pastafarianism"
+  },
+  {
+    "name": "paste"
+  },
+  {
+    "name": "pause"
+  },
+  {
+    "name": "pause-circle"
+  },
+  {
+    "name": "paw"
+  },
+  {
+    "name": "peace"
+  },
+  {
+    "name": "pen"
+  },
+  {
+    "name": "pen-alt"
+  },
+  {
+    "name": "pen-fancy"
+  },
+  {
+    "name": "pen-nib"
+  },
+  {
+    "name": "pen-square"
+  },
+  {
+    "name": "pencil-alt"
+  },
+  {
+    "name": "pencil-ruler"
+  },
+  {
+    "name": "people-arrows"
+  },
+  {
+    "name": "people-carry"
+  },
+  {
+    "name": "pepper-hot"
+  },
+  {
+    "name": "percent"
+  }
+]

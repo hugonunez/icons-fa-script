@@ -1,0 +1,542 @@
+[
+  {
+    "name": "app-store"
+  },
+  {
+    "name": "app-store-ios"
+  },
+  {
+    "name": "apper"
+  },
+  {
+    "name": "apple"
+  },
+  {
+    "name": "apple-pay"
+  },
+  {
+    "name": "artstation"
+  },
+  {
+    "name": "asymmetrik"
+  },
+  {
+    "name": "atlassian"
+  },
+  {
+    "name": "audible"
+  },
+  {
+    "name": "autoprefixer"
+  },
+  {
+    "name": "avianex"
+  },
+  {
+    "name": "aviato"
+  },
+  {
+    "name": "aws"
+  },
+  {
+    "name": "bandcamp"
+  },
+  {
+    "name": "battle-net"
+  },
+  {
+    "name": "behance"
+  },
+  {
+    "name": "behance-square"
+  },
+  {
+    "name": "bimobject"
+  },
+  {
+    "name": "bitbucket"
+  },
+  {
+    "name": "bitcoin"
+  },
+  {
+    "name": "bity"
+  },
+  {
+    "name": "black-tie"
+  },
+  {
+    "name": "blackberry"
+  },
+  {
+    "name": "blogger"
+  },
+  {
+    "name": "blogger-b"
+  },
+  {
+    "name": "bluetooth"
+  },
+  {
+    "name": "bluetooth-b"
+  },
+  {
+    "name": "bootstrap"
+  },
+  {
+    "name": "btc"
+  },
+  {
+    "name": "buffer"
+  },
+  {
+    "name": "buromobelexperte"
+  },
+  {
+    "name": "buy-n-large"
+  },
+  {
+    "name": "buysellads"
+  },
+  {
+    "name": "canadian-maple-leaf"
+  },
+  {
+    "name": "cc-amazon-pay"
+  },
+  {
+    "name": "cc-amex"
+  },
+  {
+    "name": "cc-apple-pay"
+  },
+  {
+    "name": "cc-diners-club"
+  },
+  {
+    "name": "cc-discover"
+  },
+  {
+    "name": "cc-jcb"
+  },
+  {
+    "name": "cc-mastercard"
+  },
+  {
+    "name": "cc-paypal"
+  },
+  {
+    "name": "cc-stripe"
+  },
+  {
+    "name": "cc-visa"
+  },
+  {
+    "name": "centercode"
+  },
+  {
+    "name": "centos"
+  },
+  {
+    "name": "chrome"
+  },
+  {
+    "name": "chromecast"
+  },
+  {
+    "name": "cloudflare"
+  },
+  {
+    "name": "cloudscale"
+  },
+  {
+    "name": "cloudsmith"
+  },
+  {
+    "name": "cloudversify"
+  },
+  {
+    "name": "codepen"
+  },
+  {
+    "name": "codiepie"
+  },
+  {
+    "name": "confluence"
+  },
+  {
+    "name": "connectdevelop"
+  },
+  {
+    "name": "contao"
+  },
+  {
+    "name": "cotton-bureau"
+  },
+  {
+    "name": "cpanel"
+  },
+  {
+    "name": "creative-commons"
+  },
+  {
+    "name": "creative-commons-by"
+  },
+  {
+    "name": "creative-commons-nc"
+  },
+  {
+    "name": "creative-commons-nc-eu"
+  },
+  {
+    "name": "creative-commons-nc-jp"
+  },
+  {
+    "name": "creative-commons-nd"
+  },
+  {
+    "name": "creative-commons-pd"
+  },
+  {
+    "name": "creative-commons-pd-alt"
+  },
+  {
+    "name": "creative-commons-remix"
+  },
+  {
+    "name": "creative-commons-sa"
+  },
+  {
+    "name": "creative-commons-sampling"
+  },
+  {
+    "name": "creative-commons-sampling-plus"
+  },
+  {
+    "name": "creative-commons-share"
+  },
+  {
+    "name": "creative-commons-zero"
+  },
+  {
+    "name": "critical-role"
+  },
+  {
+    "name": "css3"
+  },
+  {
+    "name": "css3-alt"
+  },
+  {
+    "name": "cuttlefish"
+  },
+  {
+    "name": "d-and-d"
+  },
+  {
+    "name": "d-and-d-beyond"
+  },
+  {
+    "name": "dailymotion"
+  },
+  {
+    "name": "dashcube"
+  },
+  {
+    "name": "deezer"
+  },
+  {
+    "name": "delicious"
+  },
+  {
+    "name": "deploydog"
+  },
+  {
+    "name": "deskpro"
+  },
+  {
+    "name": "dev"
+  },
+  {
+    "name": "deviantart"
+  },
+  {
+    "name": "dhl"
+  },
+  {
+    "name": "diaspora"
+  },
+  {
+    "name": "digg"
+  },
+  {
+    "name": "digital-ocean"
+  },
+  {
+    "name": "discord"
+  },
+  {
+    "name": "discourse"
+  },
+  {
+    "name": "dochub"
+  },
+  {
+    "name": "docker"
+  },
+  {
+    "name": "draft2digital"
+  },
+  {
+    "name": "dribbble"
+  },
+  {
+    "name": "dribbble-square"
+  },
+  {
+    "name": "dropbox"
+  },
+  {
+    "name": "drupal"
+  },
+  {
+    "name": "dyalog"
+  },
+  {
+    "name": "earlybirds"
+  },
+  {
+    "name": "ebay"
+  },
+  {
+    "name": "edge"
+  },
+  {
+    "name": "edge-legacy"
+  },
+  {
+    "name": "elementor"
+  },
+  {
+    "name": "ello"
+  },
+  {
+    "name": "ember"
+  },
+  {
+    "name": "empire"
+  },
+  {
+    "name": "envira"
+  },
+  {
+    "name": "erlang"
+  },
+  {
+    "name": "ethereum"
+  },
+  {
+    "name": "etsy"
+  },
+  {
+    "name": "evernote"
+  },
+  {
+    "name": "expeditedssl"
+  },
+  {
+    "name": "facebook"
+  },
+  {
+    "name": "facebook-f"
+  },
+  {
+    "name": "facebook-messenger"
+  },
+  {
+    "name": "facebook-square"
+  },
+  {
+    "name": "fantasy-flight-games"
+  },
+  {
+    "name": "fedex"
+  },
+  {
+    "name": "fedora"
+  },
+  {
+    "name": "figma"
+  },
+  {
+    "name": "firefox"
+  },
+  {
+    "name": "firefox-browser"
+  },
+  {
+    "name": "first-order"
+  },
+  {
+    "name": "first-order-alt"
+  },
+  {
+    "name": "firstdraft"
+  },
+  {
+    "name": "flickr"
+  },
+  {
+    "name": "flipboard"
+  },
+  {
+    "name": "fly"
+  },
+  {
+    "name": "font-awesome"
+  },
+  {
+    "name": "font-awesome-alt"
+  },
+  {
+    "name": "font-awesome-flag"
+  },
+  {
+    "name": "fonticons"
+  },
+  {
+    "name": "fonticons-fi"
+  },
+  {
+    "name": "fort-awesome"
+  },
+  {
+    "name": "fort-awesome-alt"
+  },
+  {
+    "name": "forumbee"
+  },
+  {
+    "name": "foursquare"
+  },
+  {
+    "name": "free-code-camp"
+  },
+  {
+    "name": "freebsd"
+  },
+  {
+    "name": "fulcrum"
+  },
+  {
+    "name": "galactic-republic"
+  },
+  {
+    "name": "galactic-senate"
+  },
+  {
+    "name": "get-pocket"
+  },
+  {
+    "name": "gg"
+  },
+  {
+    "name": "gg-circle"
+  },
+  {
+    "name": "git"
+  },
+  {
+    "name": "git-alt"
+  },
+  {
+    "name": "git-square"
+  },
+  {
+    "name": "github"
+  },
+  {
+    "name": "github-alt"
+  },
+  {
+    "name": "github-square"
+  },
+  {
+    "name": "gitkraken"
+  },
+  {
+    "name": "gitlab"
+  },
+  {
+    "name": "gitter"
+  },
+  {
+    "name": "glide"
+  },
+  {
+    "name": "glide-g"
+  },
+  {
+    "name": "gofore"
+  },
+  {
+    "name": "goodreads"
+  },
+  {
+    "name": "goodreads-g"
+  },
+  {
+    "name": "google"
+  },
+  {
+    "name": "google-drive"
+  },
+  {
+    "name": "google-pay"
+  },
+  {
+    "name": "google-play"
+  },
+  {
+    "name": "google-plus"
+  },
+  {
+    "name": "google-plus-g"
+  },
+  {
+    "name": "google-plus-square"
+  },
+  {
+    "name": "google-wallet"
+  },
+  {
+    "name": "gratipay"
+  },
+  {
+    "name": "grav"
+  },
+  {
+    "name": "gripfire"
+  },
+  {
+    "name": "grunt"
+  },
+  {
+    "name": "guilded"
+  },
+  {
+    "name": "gulp"
+  },
+  {
+    "name": "hacker-news"
+  },
+  {
+    "name": "hacker-news-square"
+  },
+  {
+    "name": "hackerrank"
+  },
+  {
+    "name": "hips"
+  }
+]

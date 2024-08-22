@@ -1,0 +1,542 @@
+[
+  {
+    "name": "percentage"
+  },
+  {
+    "name": "person-booth"
+  },
+  {
+    "name": "phone"
+  },
+  {
+    "name": "phone-alt"
+  },
+  {
+    "name": "phone-slash"
+  },
+  {
+    "name": "phone-square"
+  },
+  {
+    "name": "phone-square-alt"
+  },
+  {
+    "name": "phone-volume"
+  },
+  {
+    "name": "photo-video"
+  },
+  {
+    "name": "piggy-bank"
+  },
+  {
+    "name": "pills"
+  },
+  {
+    "name": "pizza-slice"
+  },
+  {
+    "name": "place-of-worship"
+  },
+  {
+    "name": "plane"
+  },
+  {
+    "name": "plane-arrival"
+  },
+  {
+    "name": "plane-departure"
+  },
+  {
+    "name": "plane-slash"
+  },
+  {
+    "name": "play"
+  },
+  {
+    "name": "play-circle"
+  },
+  {
+    "name": "plug"
+  },
+  {
+    "name": "plus"
+  },
+  {
+    "name": "plus-circle"
+  },
+  {
+    "name": "plus-square"
+  },
+  {
+    "name": "podcast"
+  },
+  {
+    "name": "poll"
+  },
+  {
+    "name": "poll-h"
+  },
+  {
+    "name": "poo"
+  },
+  {
+    "name": "poo-storm"
+  },
+  {
+    "name": "poop"
+  },
+  {
+    "name": "portrait"
+  },
+  {
+    "name": "pound-sign"
+  },
+  {
+    "name": "power-off"
+  },
+  {
+    "name": "pray"
+  },
+  {
+    "name": "praying-hands"
+  },
+  {
+    "name": "prescription"
+  },
+  {
+    "name": "prescription-bottle"
+  },
+  {
+    "name": "prescription-bottle-alt"
+  },
+  {
+    "name": "print"
+  },
+  {
+    "name": "procedures"
+  },
+  {
+    "name": "project-diagram"
+  },
+  {
+    "name": "pump-medical"
+  },
+  {
+    "name": "pump-soap"
+  },
+  {
+    "name": "puzzle-piece"
+  },
+  {
+    "name": "qrcode"
+  },
+  {
+    "name": "question"
+  },
+  {
+    "name": "question-circle"
+  },
+  {
+    "name": "quidditch"
+  },
+  {
+    "name": "quote-left"
+  },
+  {
+    "name": "quote-right"
+  },
+  {
+    "name": "quran"
+  },
+  {
+    "name": "radiation"
+  },
+  {
+    "name": "radiation-alt"
+  },
+  {
+    "name": "rainbow"
+  },
+  {
+    "name": "random"
+  },
+  {
+    "name": "receipt"
+  },
+  {
+    "name": "record-vinyl"
+  },
+  {
+    "name": "recycle"
+  },
+  {
+    "name": "redo"
+  },
+  {
+    "name": "redo-alt"
+  },
+  {
+    "name": "registered"
+  },
+  {
+    "name": "remove-format"
+  },
+  {
+    "name": "reply"
+  },
+  {
+    "name": "reply-all"
+  },
+  {
+    "name": "republican"
+  },
+  {
+    "name": "restroom"
+  },
+  {
+    "name": "retweet"
+  },
+  {
+    "name": "ribbon"
+  },
+  {
+    "name": "ring"
+  },
+  {
+    "name": "road"
+  },
+  {
+    "name": "robot"
+  },
+  {
+    "name": "rocket"
+  },
+  {
+    "name": "route"
+  },
+  {
+    "name": "rss"
+  },
+  {
+    "name": "rss-square"
+  },
+  {
+    "name": "ruble-sign"
+  },
+  {
+    "name": "ruler"
+  },
+  {
+    "name": "ruler-combined"
+  },
+  {
+    "name": "ruler-horizontal"
+  },
+  {
+    "name": "ruler-vertical"
+  },
+  {
+    "name": "running"
+  },
+  {
+    "name": "rupee-sign"
+  },
+  {
+    "name": "sad-cry"
+  },
+  {
+    "name": "sad-tear"
+  },
+  {
+    "name": "satellite"
+  },
+  {
+    "name": "satellite-dish"
+  },
+  {
+    "name": "save"
+  },
+  {
+    "name": "school"
+  },
+  {
+    "name": "screwdriver"
+  },
+  {
+    "name": "scroll"
+  },
+  {
+    "name": "sd-card"
+  },
+  {
+    "name": "search"
+  },
+  {
+    "name": "search-dollar"
+  },
+  {
+    "name": "search-location"
+  },
+  {
+    "name": "search-minus"
+  },
+  {
+    "name": "search-plus"
+  },
+  {
+    "name": "seedling"
+  },
+  {
+    "name": "server"
+  },
+  {
+    "name": "shapes"
+  },
+  {
+    "name": "share"
+  },
+  {
+    "name": "share-alt"
+  },
+  {
+    "name": "share-alt-square"
+  },
+  {
+    "name": "share-square"
+  },
+  {
+    "name": "shekel-sign"
+  },
+  {
+    "name": "shield-alt"
+  },
+  {
+    "name": "shield-virus"
+  },
+  {
+    "name": "ship"
+  },
+  {
+    "name": "shipping-fast"
+  },
+  {
+    "name": "shoe-prints"
+  },
+  {
+    "name": "shopping-bag"
+  },
+  {
+    "name": "shopping-basket"
+  },
+  {
+    "name": "shopping-cart"
+  },
+  {
+    "name": "shower"
+  },
+  {
+    "name": "shuttle-van"
+  },
+  {
+    "name": "sign"
+  },
+  {
+    "name": "sign-in-alt"
+  },
+  {
+    "name": "sign-language"
+  },
+  {
+    "name": "sign-out-alt"
+  },
+  {
+    "name": "signal"
+  },
+  {
+    "name": "signature"
+  },
+  {
+    "name": "sim-card"
+  },
+  {
+    "name": "sink"
+  },
+  {
+    "name": "sitemap"
+  },
+  {
+    "name": "skating"
+  },
+  {
+    "name": "skiing"
+  },
+  {
+    "name": "skiing-nordic"
+  },
+  {
+    "name": "skull"
+  },
+  {
+    "name": "skull-crossbones"
+  },
+  {
+    "name": "slash"
+  },
+  {
+    "name": "sleigh"
+  },
+  {
+    "name": "sliders-h"
+  },
+  {
+    "name": "smile"
+  },
+  {
+    "name": "smile-beam"
+  },
+  {
+    "name": "smile-wink"
+  },
+  {
+    "name": "smog"
+  },
+  {
+    "name": "smoking"
+  },
+  {
+    "name": "smoking-ban"
+  },
+  {
+    "name": "sms"
+  },
+  {
+    "name": "snowboarding"
+  },
+  {
+    "name": "snowflake"
+  },
+  {
+    "name": "snowman"
+  },
+  {
+    "name": "snowplow"
+  },
+  {
+    "name": "soap"
+  },
+  {
+    "name": "socks"
+  },
+  {
+    "name": "solar-panel"
+  },
+  {
+    "name": "sort"
+  },
+  {
+    "name": "sort-alpha-down"
+  },
+  {
+    "name": "sort-alpha-down-alt"
+  },
+  {
+    "name": "sort-alpha-up"
+  },
+  {
+    "name": "sort-alpha-up-alt"
+  },
+  {
+    "name": "sort-amount-down"
+  },
+  {
+    "name": "sort-amount-down-alt"
+  },
+  {
+    "name": "sort-amount-up"
+  },
+  {
+    "name": "sort-amount-up-alt"
+  },
+  {
+    "name": "sort-down"
+  },
+  {
+    "name": "sort-numeric-down"
+  },
+  {
+    "name": "sort-numeric-down-alt"
+  },
+  {
+    "name": "sort-numeric-up"
+  },
+  {
+    "name": "sort-numeric-up-alt"
+  },
+  {
+    "name": "sort-up"
+  },
+  {
+    "name": "spa"
+  },
+  {
+    "name": "space-shuttle"
+  },
+  {
+    "name": "spell-check"
+  },
+  {
+    "name": "spider"
+  },
+  {
+    "name": "spinner"
+  },
+  {
+    "name": "splotch"
+  },
+  {
+    "name": "spray-can"
+  },
+  {
+    "name": "square"
+  },
+  {
+    "name": "square-full"
+  },
+  {
+    "name": "square-root-alt"
+  },
+  {
+    "name": "stamp"
+  },
+  {
+    "name": "star"
+  },
+  {
+    "name": "star-and-crescent"
+  },
+  {
+    "name": "star-half"
+  },
+  {
+    "name": "star-half-alt"
+  },
+  {
+    "name": "star-of-david"
+  },
+  {
+    "name": "star-of-life"
+  },
+  {
+    "name": "step-backward"
+  },
+  {
+    "name": "step-forward"
+  },
+  {
+    "name": "stethoscope"
+  },
+  {
+    "name": "sticky-note"
+  }
+]

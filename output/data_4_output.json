@@ -1,0 +1,542 @@
+[
+  {
+    "name": "drumstick-bite"
+  },
+  {
+    "name": "dumbbell"
+  },
+  {
+    "name": "dumpster"
+  },
+  {
+    "name": "dumpster-fire"
+  },
+  {
+    "name": "dungeon"
+  },
+  {
+    "name": "edit"
+  },
+  {
+    "name": "egg"
+  },
+  {
+    "name": "eject"
+  },
+  {
+    "name": "ellipsis-h"
+  },
+  {
+    "name": "ellipsis-v"
+  },
+  {
+    "name": "envelope"
+  },
+  {
+    "name": "envelope-open"
+  },
+  {
+    "name": "envelope-open-text"
+  },
+  {
+    "name": "envelope-square"
+  },
+  {
+    "name": "equals"
+  },
+  {
+    "name": "eraser"
+  },
+  {
+    "name": "ethernet"
+  },
+  {
+    "name": "euro-sign"
+  },
+  {
+    "name": "exchange-alt"
+  },
+  {
+    "name": "exclamation"
+  },
+  {
+    "name": "exclamation-circle"
+  },
+  {
+    "name": "exclamation-triangle"
+  },
+  {
+    "name": "expand"
+  },
+  {
+    "name": "expand-alt"
+  },
+  {
+    "name": "expand-arrows-alt"
+  },
+  {
+    "name": "external-link-alt"
+  },
+  {
+    "name": "external-link-square-alt"
+  },
+  {
+    "name": "eye"
+  },
+  {
+    "name": "eye-dropper"
+  },
+  {
+    "name": "eye-slash"
+  },
+  {
+    "name": "fan"
+  },
+  {
+    "name": "fast-backward"
+  },
+  {
+    "name": "fast-forward"
+  },
+  {
+    "name": "faucet"
+  },
+  {
+    "name": "fax"
+  },
+  {
+    "name": "feather"
+  },
+  {
+    "name": "feather-alt"
+  },
+  {
+    "name": "female"
+  },
+  {
+    "name": "fighter-jet"
+  },
+  {
+    "name": "file"
+  },
+  {
+    "name": "file-alt"
+  },
+  {
+    "name": "file-archive"
+  },
+  {
+    "name": "file-audio"
+  },
+  {
+    "name": "file-code"
+  },
+  {
+    "name": "file-contract"
+  },
+  {
+    "name": "file-csv"
+  },
+  {
+    "name": "file-download"
+  },
+  {
+    "name": "file-excel"
+  },
+  {
+    "name": "file-export"
+  },
+  {
+    "name": "file-image"
+  },
+  {
+    "name": "file-import"
+  },
+  {
+    "name": "file-invoice"
+  },
+  {
+    "name": "file-invoice-dollar"
+  },
+  {
+    "name": "file-medical"
+  },
+  {
+    "name": "file-medical-alt"
+  },
+  {
+    "name": "file-pdf"
+  },
+  {
+    "name": "file-powerpoint"
+  },
+  {
+    "name": "file-prescription"
+  },
+  {
+    "name": "file-signature"
+  },
+  {
+    "name": "file-upload"
+  },
+  {
+    "name": "file-video"
+  },
+  {
+    "name": "file-word"
+  },
+  {
+    "name": "fill"
+  },
+  {
+    "name": "fill-drip"
+  },
+  {
+    "name": "film"
+  },
+  {
+    "name": "filter"
+  },
+  {
+    "name": "fingerprint"
+  },
+  {
+    "name": "fire"
+  },
+  {
+    "name": "fire-alt"
+  },
+  {
+    "name": "fire-extinguisher"
+  },
+  {
+    "name": "first-aid"
+  },
+  {
+    "name": "fish"
+  },
+  {
+    "name": "fist-raised"
+  },
+  {
+    "name": "flag"
+  },
+  {
+    "name": "flag-checkered"
+  },
+  {
+    "name": "flag-usa"
+  },
+  {
+    "name": "flask"
+  },
+  {
+    "name": "flushed"
+  },
+  {
+    "name": "folder"
+  },
+  {
+    "name": "folder-minus"
+  },
+  {
+    "name": "folder-open"
+  },
+  {
+    "name": "folder-plus"
+  },
+  {
+    "name": "font"
+  },
+  {
+    "name": "football-ball"
+  },
+  {
+    "name": "forward"
+  },
+  {
+    "name": "frog"
+  },
+  {
+    "name": "frown"
+  },
+  {
+    "name": "frown-open"
+  },
+  {
+    "name": "funnel-dollar"
+  },
+  {
+    "name": "futbol"
+  },
+  {
+    "name": "gamepad"
+  },
+  {
+    "name": "gas-pump"
+  },
+  {
+    "name": "gavel"
+  },
+  {
+    "name": "gem"
+  },
+  {
+    "name": "genderless"
+  },
+  {
+    "name": "ghost"
+  },
+  {
+    "name": "gift"
+  },
+  {
+    "name": "gifts"
+  },
+  {
+    "name": "glass-cheers"
+  },
+  {
+    "name": "glass-martini"
+  },
+  {
+    "name": "glass-martini-alt"
+  },
+  {
+    "name": "glass-whiskey"
+  },
+  {
+    "name": "glasses"
+  },
+  {
+    "name": "globe"
+  },
+  {
+    "name": "globe-africa"
+  },
+  {
+    "name": "globe-americas"
+  },
+  {
+    "name": "globe-asia"
+  },
+  {
+    "name": "globe-europe"
+  },
+  {
+    "name": "golf-ball"
+  },
+  {
+    "name": "gopuram"
+  },
+  {
+    "name": "graduation-cap"
+  },
+  {
+    "name": "greater-than"
+  },
+  {
+    "name": "greater-than-equal"
+  },
+  {
+    "name": "grimace"
+  },
+  {
+    "name": "grin"
+  },
+  {
+    "name": "grin-alt"
+  },
+  {
+    "name": "grin-beam"
+  },
+  {
+    "name": "grin-beam-sweat"
+  },
+  {
+    "name": "grin-hearts"
+  },
+  {
+    "name": "grin-squint"
+  },
+  {
+    "name": "grin-squint-tears"
+  },
+  {
+    "name": "grin-stars"
+  },
+  {
+    "name": "grin-tears"
+  },
+  {
+    "name": "grin-tongue"
+  },
+  {
+    "name": "grin-tongue-squint"
+  },
+  {
+    "name": "grin-tongue-wink"
+  },
+  {
+    "name": "grin-wink"
+  },
+  {
+    "name": "grip-horizontal"
+  },
+  {
+    "name": "grip-lines"
+  },
+  {
+    "name": "grip-lines-vertical"
+  },
+  {
+    "name": "grip-vertical"
+  },
+  {
+    "name": "guitar"
+  },
+  {
+    "name": "h-square"
+  },
+  {
+    "name": "hamburger"
+  },
+  {
+    "name": "hammer"
+  },
+  {
+    "name": "hamsa"
+  },
+  {
+    "name": "hand-holding"
+  },
+  {
+    "name": "hand-holding-heart"
+  },
+  {
+    "name": "hand-holding-medical"
+  },
+  {
+    "name": "hand-holding-usd"
+  },
+  {
+    "name": "hand-holding-water"
+  },
+  {
+    "name": "hand-lizard"
+  },
+  {
+    "name": "hand-middle-finger"
+  },
+  {
+    "name": "hand-paper"
+  },
+  {
+    "name": "hand-peace"
+  },
+  {
+    "name": "hand-point-down"
+  },
+  {
+    "name": "hand-point-left"
+  },
+  {
+    "name": "hand-point-right"
+  },
+  {
+    "name": "hand-point-up"
+  },
+  {
+    "name": "hand-pointer"
+  },
+  {
+    "name": "hand-rock"
+  },
+  {
+    "name": "hand-scissors"
+  },
+  {
+    "name": "hand-sparkles"
+  },
+  {
+    "name": "hand-spock"
+  },
+  {
+    "name": "hands"
+  },
+  {
+    "name": "hands-helping"
+  },
+  {
+    "name": "hands-wash"
+  },
+  {
+    "name": "handshake"
+  },
+  {
+    "name": "handshake-alt-slash"
+  },
+  {
+    "name": "handshake-slash"
+  },
+  {
+    "name": "hanukiah"
+  },
+  {
+    "name": "hard-hat"
+  },
+  {
+    "name": "hashtag"
+  },
+  {
+    "name": "hat-cowboy"
+  },
+  {
+    "name": "hat-cowboy-side"
+  },
+  {
+    "name": "hat-wizard"
+  },
+  {
+    "name": "hdd"
+  },
+  {
+    "name": "head-side-cough"
+  },
+  {
+    "name": "head-side-cough-slash"
+  },
+  {
+    "name": "head-side-mask"
+  },
+  {
+    "name": "head-side-virus"
+  },
+  {
+    "name": "heading"
+  },
+  {
+    "name": "headphones"
+  },
+  {
+    "name": "headphones-alt"
+  },
+  {
+    "name": "headset"
+  },
+  {
+    "name": "heart"
+  },
+  {
+    "name": "heart-broken"
+  },
+  {
+    "name": "heartbeat"
+  },
+  {
+    "name": "helicopter"
+  },
+  {
+    "name": "highlighter"
+  }
+]

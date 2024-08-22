@@ -1,0 +1,542 @@
+[
+  {
+    "name": "0"
+  },
+  {
+    "name": "1"
+  },
+  {
+    "name": "2"
+  },
+  {
+    "name": "3"
+  },
+  {
+    "name": "4"
+  },
+  {
+    "name": "42-group"
+  },
+  {
+    "name": "5"
+  },
+  {
+    "name": "500px"
+  },
+  {
+    "name": "6"
+  },
+  {
+    "name": "7"
+  },
+  {
+    "name": "8"
+  },
+  {
+    "name": "9"
+  },
+  {
+    "name": "a"
+  },
+  {
+    "name": "accessible-icon"
+  },
+  {
+    "name": "accusoft"
+  },
+  {
+    "name": "address-book"
+  },
+  {
+    "name": "address-book"
+  },
+  {
+    "name": "address-card"
+  },
+  {
+    "name": "address-card"
+  },
+  {
+    "name": "adn"
+  },
+  {
+    "name": "adversal"
+  },
+  {
+    "name": "affiliatetheme"
+  },
+  {
+    "name": "airbnb"
+  },
+  {
+    "name": "algolia"
+  },
+  {
+    "name": "align-center"
+  },
+  {
+    "name": "align-justify"
+  },
+  {
+    "name": "align-left"
+  },
+  {
+    "name": "align-right"
+  },
+  {
+    "name": "alipay"
+  },
+  {
+    "name": "amazon"
+  },
+  {
+    "name": "amazon-pay"
+  },
+  {
+    "name": "amilia"
+  },
+  {
+    "name": "anchor"
+  },
+  {
+    "name": "anchor-circle-check"
+  },
+  {
+    "name": "anchor-circle-exclamation"
+  },
+  {
+    "name": "anchor-circle-xmark"
+  },
+  {
+    "name": "anchor-lock"
+  },
+  {
+    "name": "android"
+  },
+  {
+    "name": "angellist"
+  },
+  {
+    "name": "angle-down"
+  },
+  {
+    "name": "angle-left"
+  },
+  {
+    "name": "angle-right"
+  },
+  {
+    "name": "angle-up"
+  },
+  {
+    "name": "angles-down"
+  },
+  {
+    "name": "angles-left"
+  },
+  {
+    "name": "angles-right"
+  },
+  {
+    "name": "angles-up"
+  },
+  {
+    "name": "angrycreative"
+  },
+  {
+    "name": "angular"
+  },
+  {
+    "name": "ankh"
+  },
+  {
+    "name": "app-store"
+  },
+  {
+    "name": "app-store-ios"
+  },
+  {
+    "name": "apper"
+  },
+  {
+    "name": "apple"
+  },
+  {
+    "name": "apple-pay"
+  },
+  {
+    "name": "apple-whole"
+  },
+  {
+    "name": "archway"
+  },
+  {
+    "name": "arrow-down"
+  },
+  {
+    "name": "arrow-down-1-9"
+  },
+  {
+    "name": "arrow-down-9-1"
+  },
+  {
+    "name": "arrow-down-a-z"
+  },
+  {
+    "name": "arrow-down-long"
+  },
+  {
+    "name": "arrow-down-short-wide"
+  },
+  {
+    "name": "arrow-down-up-across-line"
+  },
+  {
+    "name": "arrow-down-up-lock"
+  },
+  {
+    "name": "arrow-down-wide-short"
+  },
+  {
+    "name": "arrow-down-z-a"
+  },
+  {
+    "name": "arrow-left"
+  },
+  {
+    "name": "arrow-left-long"
+  },
+  {
+    "name": "arrow-pointer"
+  },
+  {
+    "name": "arrow-right"
+  },
+  {
+    "name": "arrow-right-arrow-left"
+  },
+  {
+    "name": "arrow-right-from-bracket"
+  },
+  {
+    "name": "arrow-right-long"
+  },
+  {
+    "name": "arrow-right-to-bracket"
+  },
+  {
+    "name": "arrow-right-to-city"
+  },
+  {
+    "name": "arrow-rotate-left"
+  },
+  {
+    "name": "arrow-rotate-right"
+  },
+  {
+    "name": "arrow-trend-down"
+  },
+  {
+    "name": "arrow-trend-up"
+  },
+  {
+    "name": "arrow-turn-down"
+  },
+  {
+    "name": "arrow-turn-up"
+  },
+  {
+    "name": "arrow-up"
+  },
+  {
+    "name": "arrow-up-1-9"
+  },
+  {
+    "name": "arrow-up-9-1"
+  },
+  {
+    "name": "arrow-up-a-z"
+  },
+  {
+    "name": "arrow-up-from-bracket"
+  },
+  {
+    "name": "arrow-up-from-ground-water"
+  },
+  {
+    "name": "arrow-up-from-water-pump"
+  },
+  {
+    "name": "arrow-up-long"
+  },
+  {
+    "name": "arrow-up-right-dots"
+  },
+  {
+    "name": "arrow-up-right-from-square"
+  },
+  {
+    "name": "arrow-up-short-wide"
+  },
+  {
+    "name": "arrow-up-wide-short"
+  },
+  {
+    "name": "arrow-up-z-a"
+  },
+  {
+    "name": "arrows-down-to-line"
+  },
+  {
+    "name": "arrows-down-to-people"
+  },
+  {
+    "name": "arrows-left-right"
+  },
+  {
+    "name": "arrows-left-right-to-line"
+  },
+  {
+    "name": "arrows-rotate"
+  },
+  {
+    "name": "arrows-spin"
+  },
+  {
+    "name": "arrows-split-up-and-left"
+  },
+  {
+    "name": "arrows-to-circle"
+  },
+  {
+    "name": "arrows-to-dot"
+  },
+  {
+    "name": "arrows-to-eye"
+  },
+  {
+    "name": "arrows-turn-right"
+  },
+  {
+    "name": "arrows-turn-to-dots"
+  },
+  {
+    "name": "arrows-up-down"
+  },
+  {
+    "name": "arrows-up-down-left-right"
+  },
+  {
+    "name": "arrows-up-to-line"
+  },
+  {
+    "name": "artstation"
+  },
+  {
+    "name": "asterisk"
+  },
+  {
+    "name": "asymmetrik"
+  },
+  {
+    "name": "at"
+  },
+  {
+    "name": "atlassian"
+  },
+  {
+    "name": "atom"
+  },
+  {
+    "name": "audible"
+  },
+  {
+    "name": "audio-description"
+  },
+  {
+    "name": "austral-sign"
+  },
+  {
+    "name": "autoprefixer"
+  },
+  {
+    "name": "avianex"
+  },
+  {
+    "name": "aviato"
+  },
+  {
+    "name": "award"
+  },
+  {
+    "name": "aws"
+  },
+  {
+    "name": "b"
+  },
+  {
+    "name": "baby"
+  },
+  {
+    "name": "baby-carriage"
+  },
+  {
+    "name": "backward"
+  },
+  {
+    "name": "backward-fast"
+  },
+  {
+    "name": "backward-step"
+  },
+  {
+    "name": "bacon"
+  },
+  {
+    "name": "bacteria"
+  },
+  {
+    "name": "bacterium"
+  },
+  {
+    "name": "bag-shopping"
+  },
+  {
+    "name": "bahai"
+  },
+  {
+    "name": "baht-sign"
+  },
+  {
+    "name": "ban"
+  },
+  {
+    "name": "ban-smoking"
+  },
+  {
+    "name": "bandage"
+  },
+  {
+    "name": "bandcamp"
+  },
+  {
+    "name": "bangladeshi-taka-sign"
+  },
+  {
+    "name": "barcode"
+  },
+  {
+    "name": "bars"
+  },
+  {
+    "name": "bars-progress"
+  },
+  {
+    "name": "bars-staggered"
+  },
+  {
+    "name": "baseball"
+  },
+  {
+    "name": "baseball-bat-ball"
+  },
+  {
+    "name": "basket-shopping"
+  },
+  {
+    "name": "basketball"
+  },
+  {
+    "name": "bath"
+  },
+  {
+    "name": "battery-empty"
+  },
+  {
+    "name": "battery-full"
+  },
+  {
+    "name": "battery-half"
+  },
+  {
+    "name": "battery-quarter"
+  },
+  {
+    "name": "battery-three-quarters"
+  },
+  {
+    "name": "battle-net"
+  },
+  {
+    "name": "bed"
+  },
+  {
+    "name": "bed-pulse"
+  },
+  {
+    "name": "beer-mug-empty"
+  },
+  {
+    "name": "behance"
+  },
+  {
+    "name": "bell"
+  },
+  {
+    "name": "bell"
+  },
+  {
+    "name": "bell-concierge"
+  },
+  {
+    "name": "bell-slash"
+  },
+  {
+    "name": "bell-slash"
+  },
+  {
+    "name": "bezier-curve"
+  },
+  {
+    "name": "bicycle"
+  },
+  {
+    "name": "bilibili"
+  },
+  {
+    "name": "bimobject"
+  },
+  {
+    "name": "binoculars"
+  },
+  {
+    "name": "biohazard"
+  },
+  {
+    "name": "bitbucket"
+  },
+  {
+    "name": "bitcoin"
+  },
+  {
+    "name": "bitcoin-sign"
+  },
+  {
+    "name": "bity"
+  },
+  {
+    "name": "black-tie"
+  },
+  {
+    "name": "blackberry"
+  },
+  {
+    "name": "blender"
+  },
+  {
+    "name": "blender-phone"
+  },
+  {
+    "name": "blog"
+  }
+]
